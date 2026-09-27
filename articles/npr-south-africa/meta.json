@@ -1,0 +1,16 @@
+{
+  "slug": "npr-south-africa",
+  "title": "South Africa 'feels like a prison' for women",
+  "source": "NPR",
+  "sourceUrl": "https://text.npr.org/nx-s1-5973822",
+  "author": "Kate Bartlett",
+  "date": "2026-09-18",
+  "added": "2026-09-27",
+  "tags": ["news", "society"],
+  "versions": {
+    "low":      { "label": "低", "density": 1.2, "target": "<2%",  "desc": "A2 词汇摘编，短句主线" },
+    "mid":      { "label": "中", "density": 4.5, "target": "2–5%", "desc": "i+1 理想区" },
+    "high":     { "label": "高", "density": 7.7, "target": "5–8%", "desc": "接近原文，引语原样保留" },
+    "original": { "label": "原文", "density": 9.2, "target": "—",   "desc": "NPR 原文" }
+  }
+}
