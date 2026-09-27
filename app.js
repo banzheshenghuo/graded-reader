@@ -74,6 +74,7 @@
         }).join("") +
       "</nav>" +
       "<p class='ver-desc' id='ver-desc'></p>" +
+      "<div class='key-words' id='key-words'></div>" +
       "<div class='prose' id='prose'></div>" +
       glossarySection(a) +
       pager(a, versions);
@@ -105,6 +106,11 @@
     $("#ver-desc").textContent =
       (a.versions[v].desc || "") +
       (a.versions[v].target && a.versions[v].target !== "—" ? " · 生词密度目标 " + a.versions[v].target : "");
+    const kw = a.versions[v].keyWords || [];
+    $("#key-words").innerHTML = kw.length
+      ? "<span class='kw-label'>Key words</span>" + kw.map(k =>
+          "<span class='kw'><b>" + esc(k.word) + "</b>" + (k.en ? "<i>" + esc(k.en) + "</i>" : "") + "</span>").join("")
+      : "";
     document.querySelectorAll(".tab").forEach(t =>
       t.classList.toggle("active", t.dataset.v === v));
     store.set("gr:ver:" + a.slug, v);
@@ -212,6 +218,7 @@
           "<div class='g-item'><input type='checkbox' data-word='" + esc(w.word) + "'" +
           (store.get("gr:checked:" + a.slug, {})[w.word] ? " checked" : "") + ">" +
           "<div><span class='w'>" + esc(w.word) + "</span><span class='lv'>" + esc(w.level) + "</span>" +
+          (w.en ? "<div class='en'>" + esc(w.en) + "</div>" : "") +
           "<div class='note'>" + esc(w.note) + "</div></div></div>"
         ).join("") + "</div>"
       ).join("") +
@@ -261,6 +268,7 @@
     const checked = store.get("gr:checked:" + a.slug, {});
     card.innerHTML =
       "<div class='w'>" + esc(word) + "<span class='lv'>" + esc(entry && entry.level || "") + "</span></div>" +
+      (entry && entry.en ? "<div class='en'>" + esc(entry.en) + "</div>" : "") +
       "<div class='note'>" + esc(entry && entry.note || "") + "</div>" +
       "<label><input type='checkbox' id='card-check' data-word='" + esc(word) + "'" +
       (checked[word] ? " checked" : "") + "> 已掌握（同步到对照表）</label>";

@@ -8,9 +8,37 @@
   "added": "2026-09-27",
   "tags": ["news", "society"],
   "versions": {
-    "low":      { "label": "低", "density": 1.2, "target": "<2%",  "desc": "A2 词汇摘编，短句主线" },
-    "mid":      { "label": "中", "density": 4.5, "target": "2–5%", "desc": "i+1 理想区" },
-    "high":     { "label": "高", "density": 7.7, "target": "5–8%", "desc": "接近原文，引语原样保留" },
-    "original": { "label": "原文", "density": 9.2, "target": "—",   "desc": "NPR 原文" }
+    "low": {
+      "label": "低", "density": 1.2, "target": "<2%", "desc": "A2 词汇摘编，短句主线",
+      "keyWords": [
+        { "word": "statistics", "en": "numbers that describe facts or data" },
+        { "word": "protect", "en": "to keep someone safe from harm" },
+        { "word": "protest", "en": "a public march or meeting to show you disagree" }
+      ]
+    },
+    "mid": {
+      "label": "中", "density": 4.5, "target": "2–5%", "desc": "i+1 理想区",
+      "keyWords": [
+        { "word": "majority", "en": "most of the people or things" },
+        { "word": "precaution", "en": "something you do in advance to stay safe" },
+        { "word": "legacy", "en": "a situation or effect left over from the past" }
+      ]
+    },
+    "high": {
+      "label": "高", "density": 7.7, "target": "5–8%", "desc": "接近原文，引语原样保留",
+      "keyWords": [
+        { "word": "femicide", "en": "the killing of women, usually by men" },
+        { "word": "vigilant", "en": "always watching carefully for danger" },
+        { "word": "onus", "en": "the duty or responsibility to do something" }
+      ]
+    },
+    "original": {
+      "label": "原文", "density": 9.2, "target": "—", "desc": "NPR 原文",
+      "keyWords": [
+        { "word": "femicide", "en": "the killing of women, usually by men" },
+        { "word": "platitude", "en": "a statement that sounds nice but means little" },
+        { "word": "curtail", "en": "to cut something short or limit it" }
+      ]
+    }
   }
 }

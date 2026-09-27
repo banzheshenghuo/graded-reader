@@ -3,60 +3,60 @@
     {
       "name": "核心替换词",
       "words": [
-        { "word": "perpetrator", "level": "C1", "match": ["perpetrator"], "note": "中/低: the killer or killers ｜ 高: the perpetrator or perpetrators" },
-        { "word": "vigilant", "level": "C1", "match": ["vigilant"], "note": "中: be very careful ｜ 高: 警方原话 \"be vigilant\"" },
-        { "word": "notorious", "level": "C1", "match": ["notorious"], "note": "高: a country notorious for... ｜ 中: 转述为 highest rates of violence against women" },
-        { "word": "assault", "level": "C1", "match": ["assault"], "note": "中/高: sexually assaulted ｜ 低: sexually attacked" },
-        { "word": "rape", "level": "C1", "match": ["rape"], "note": "中/高: rape cases ｜ 低: 略去该数据" },
-        { "word": "precaution", "level": "C1", "match": ["precaution"], "note": "中/高: the precautions women take ｜ 低: 未提及" },
-        { "word": "legacy", "level": "C1", "match": ["legacy"], "note": "中/高: the legacy of apartheid ｜ 低: 未提该段" },
-        { "word": "spate", "level": "C2", "match": ["spate"], "note": "高: the latest spate of murders ｜ 中: a series of killings" },
-        { "word": "onus", "level": "C2", "match": ["onus"], "note": "高: the onus should be on the police ｜ 中: the police's job" },
-        { "word": "curtail", "level": "C2", "match": ["curtail"], "note": "高版原文 curtail their movements，已简化为 limit" },
-        { "word": "unturned", "level": "C2", "match": ["unturned"], "note": "高: \"no stone will be left unturned\" ｜ 中: will do everything" },
-        { "word": "platitude", "level": "超罕见", "match": ["platitude"], "note": "高: tired of platitudes ｜ 中: empty words" },
-        { "word": "femicide", "level": "超罕见", "match": ["femicide"], "note": "主题词 ｜ 高: 保留原词 ｜ 中: the killing of women" },
-        { "word": "serial", "level": "C1", "match": ["serial"], "note": "高: a serial killer ｜ 中: one killer is responsible" },
-        { "word": "slain", "level": "C1", "match": ["slain"], "note": "高版原文 found slain，已简化为 found dead" }
+        { "word": "perpetrator", "level": "C1", "match": ["perpetrator"], "en": "a person who does something bad or illegal", "note": "中/低: the killer or killers ｜ 高: the perpetrator or perpetrators" },
+        { "word": "vigilant", "level": "C1", "match": ["vigilant"], "en": "always watching carefully for danger", "note": "中: be very careful ｜ 高: 警方原话 \"be vigilant\"" },
+        { "word": "notorious", "level": "C1", "match": ["notorious"], "en": "famous for something bad", "note": "高: a country notorious for... ｜ 中: 转述为 highest rates of violence against women" },
+        { "word": "assault", "level": "C1", "match": ["assault"], "en": "to attack someone physically", "note": "中/高: sexually assaulted ｜ 低: sexually attacked" },
+        { "word": "rape", "level": "C1", "match": ["rape"], "en": "the crime of forcing someone to have sex", "note": "中/高: rape cases ｜ 低: 略去该数据" },
+        { "word": "precaution", "level": "C1", "match": ["precaution"], "en": "something you do in advance to stay safe", "note": "中/高: the precautions women take ｜ 低: 未提及" },
+        { "word": "legacy", "level": "C1", "match": ["legacy"], "en": "a situation or effect left over from the past", "note": "中/高: the legacy of apartheid ｜ 低: 未提该段" },
+        { "word": "spate", "level": "C2", "match": ["spate"], "en": "a series of similar bad events in a short time", "note": "高: the latest spate of murders ｜ 中: a series of killings" },
+        { "word": "onus", "level": "C2", "match": ["onus"], "en": "the duty or responsibility to do something", "note": "高: the onus should be on the police ｜ 中: the police's job" },
+        { "word": "curtail", "level": "C2", "match": ["curtail"], "en": "to cut something short or limit it", "note": "高版原文 curtail their movements，已简化为 limit" },
+        { "word": "unturned", "level": "C2", "match": ["unturned"], "en": "\"left unturned\" = nothing left unchecked", "note": "高: \"no stone will be left unturned\" ｜ 中: will do everything" },
+        { "word": "platitude", "level": "超罕见", "match": ["platitude"], "en": "a statement that sounds nice but means little", "note": "高: tired of platitudes ｜ 中: empty words" },
+        { "word": "femicide", "level": "超罕见", "match": ["femicide"], "en": "the killing of women, usually by men", "note": "主题词 ｜ 高: 保留原词 ｜ 中: the killing of women" },
+        { "word": "serial", "level": "C1", "match": ["serial"], "en": "repeating again and again in a pattern", "note": "高: a serial killer ｜ 中: one killer is responsible" },
+        { "word": "slain", "level": "C1", "match": ["slain"], "en": "killed (a formal or literary word)", "note": "高版原文 found slain，已简化为 found dead" }
       ]
     },
     {
       "name": "B2 档替换词",
       "words": [
-        { "word": "gender-based violence", "level": "B2", "match": ["gender-based violence"], "note": "高: 保留 ×3 ｜ 中: violence against women ｜ 低: men killing and hurting women" },
-        { "word": "majority", "level": "B2", "match": ["majority"], "note": "中: The majority were... ｜ 高: 已简化为 most ｜ 低: many of them" },
-        { "word": "deny", "level": "B2", "match": ["deny"], "note": "中/高(Amnesty引语): denied the most basic right ｜ 高(研究段): 已简化为 lost" },
-        { "word": "shocked", "level": "B2", "match": ["shocked"], "note": "中/高: shocked ｜ 低: surprised" },
-        { "word": "silence", "level": "B2", "match": ["silence"], "note": "中/高: stood in silence ｜ 低: stood quiet" },
-        { "word": "freely", "level": "B2", "match": ["freely"], "note": "中/高: move freely ｜ 低: go where I want" },
-        { "word": "suburb", "level": "B2", "match": ["suburb"], "note": "中/高: the suburb ｜ 低: the same area" },
-        { "word": "failure", "level": "B2", "match": ["failure"], "note": "高: the failure of government and policing ｜ 中: the police have failed" },
-        { "word": "backlash", "level": "B2", "match": ["backlash"], "note": "高: drawn backlash ｜ 中: many women are angry at this" },
-        { "word": "recognise", "level": "B2", "match": ["recognise"], "note": "中: nobody could recognise her ｜ 高: 已简化为 tell who she was" },
-        { "word": "honour / remembrance", "level": "B2", "match": ["honour", "remembrance"], "note": "高: in her honour / in remembrance of ｜ 中: in her memory / in memory of" },
-        { "word": "naked", "level": "B2", "match": ["naked"], "note": "高: half-naked ｜ 中/低: 略去细节" }
+        { "word": "gender-based violence", "level": "B2", "match": ["gender-based violence"], "en": "violence aimed at people because of their gender", "note": "高: 保留 ×3 ｜ 中: violence against women ｜ 低: men killing and hurting women" },
+        { "word": "majority", "level": "B2", "match": ["majority"], "en": "most of the people or things", "note": "中: The majority were... ｜ 高: 已简化为 most ｜ 低: many of them" },
+        { "word": "deny", "level": "B2", "match": ["deny"], "en": "to say something is not true; to not allow someone something", "note": "中/高(Amnesty引语): denied the most basic right ｜ 高(研究段): 已简化为 lost" },
+        { "word": "shocked", "level": "B2", "match": ["shocked"], "en": "suddenly surprised and upset", "note": "中/高: shocked ｜ 低: surprised" },
+        { "word": "silence", "level": "B2", "match": ["silence"], "en": "a period with no sound", "note": "中/高: stood in silence ｜ 低: stood quiet" },
+        { "word": "freely", "level": "B2", "match": ["freely"], "en": "without limits or restrictions", "note": "中/高: move freely ｜ 低: go where I want" },
+        { "word": "suburb", "level": "B2", "match": ["suburb"], "en": "an area of houses on the edge of a city", "note": "中/高: the suburb ｜ 低: the same area" },
+        { "word": "failure", "level": "B2", "match": ["failure"], "en": "the fact of not succeeding", "note": "高: the failure of government and policing ｜ 中: the police have failed" },
+        { "word": "backlash", "level": "B2", "match": ["backlash"], "en": "a strong angry reaction against something", "note": "高: drawn backlash ｜ 中: many women are angry at this" },
+        { "word": "recognise", "level": "B2", "match": ["recognise"], "en": "to know who someone is by seeing them", "note": "中: nobody could recognise her ｜ 高: 已简化为 tell who she was" },
+        { "word": "honour / remembrance", "level": "B2", "match": ["honour", "remembrance"], "en": "to show public respect / the act of remembering", "note": "高: in her honour / in remembrance of ｜ 中: in her memory / in memory of" },
+        { "word": "naked", "level": "B2", "match": ["naked"], "en": "not wearing clothes", "note": "高: half-naked ｜ 中/低: 略去细节" }
       ]
     },
     {
       "name": "仅高版出现（学术分析段）",
       "words": [
-        { "word": "societal", "level": "C1", "match": ["societal"], "note": "中: a deep problem in society" },
-        { "word": "deep-rooted", "level": "C1", "match": ["deep-rooted"], "note": "高: a deep-rooted societal issue ｜ 中: a deep problem in society" },
-        { "word": "masculinity", "level": "C1", "match": ["masculinity"], "note": "高版研究段：男性气质危机" },
-        { "word": "patriarchal", "level": "C1", "match": ["patriarchal"], "note": "高版研究段：父权观念" },
-        { "word": "autonomy", "level": "C1", "match": ["autonomy"], "note": "高版研究段：自主权" },
-        { "word": "brutal", "level": "C1", "match": ["brutal"], "note": "高: brutal white-minority rule" },
-        { "word": "entrenchment", "level": "C2", "match": ["entrenchment"], "note": "高版研究段：固化、根深蒂固" },
-        { "word": "agency", "level": "B2", "match": ["agency"], "note": "高版研究段：行动能力、自主" },
-        { "word": "minority", "level": "B2", "match": ["minority"], "note": "高: white-minority rule" },
-        { "word": "crisis", "level": "B2", "match": ["crisis"], "note": "高版研究段：a crisis of masculinity" }
+        { "word": "societal", "level": "C1", "match": ["societal"], "en": "connected with society as a whole", "note": "中: a deep problem in society" },
+        { "word": "deep-rooted", "level": "C1", "match": ["deep-rooted"], "en": "very old and hard to change", "note": "高: a deep-rooted societal issue ｜ 中: a deep problem in society" },
+        { "word": "masculinity", "level": "C1", "match": ["masculinity"], "en": "the qualities seen as typical of men", "note": "高版研究段：男性气质危机" },
+        { "word": "patriarchal", "level": "C1", "match": ["patriarchal"], "en": "ruled or shaped by men holding the power", "note": "高版研究段：父权观念" },
+        { "word": "autonomy", "level": "C1", "match": ["autonomy"], "en": "the freedom to decide for yourself", "note": "高版研究段：自主权" },
+        { "word": "brutal", "level": "C1", "match": ["brutal"], "en": "extremely violent and cruel", "note": "高: brutal white-minority rule" },
+        { "word": "entrenchment", "level": "C2", "match": ["entrenchment"], "en": "being firmly fixed and hard to remove", "note": "高版研究段：固化、根深蒂固" },
+        { "word": "agency", "level": "B2", "match": ["agency"], "en": "the ability to act and make your own choices", "note": "高版研究段：行动能力、自主" },
+        { "word": "minority", "level": "B2", "match": ["minority"], "en": "a smaller group within a society", "note": "高: white-minority rule" },
+        { "word": "crisis", "level": "B2", "match": ["crisis"], "en": "a time of great danger or trouble", "note": "高版研究段：a crisis of masculinity" }
       ]
     },
     {
       "name": "词表内搭配（非生词，供注意）",
       "words": [
-        { "word": "keen runner", "level": "B1", "match": ["keen"], "note": "高: a keen runner ｜ 中: loved running（keen = 热衷的）" },
-        { "word": "jog", "level": "C1", "match": ["jog"], "note": "高: You jog, you can get killed（引语保留）｜ 中/低: run" }
+        { "word": "keen runner", "level": "B1", "match": ["keen"], "en": "someone who loves running and does it often", "note": "高: a keen runner ｜ 中: loved running（keen = 热衷的）" },
+        { "word": "jog", "level": "C1", "match": ["jog"], "en": "to run at a slow, steady pace", "note": "高: You jog, you can get killed（引语保留）｜ 中/低: run" }
       ]
     }
   ]

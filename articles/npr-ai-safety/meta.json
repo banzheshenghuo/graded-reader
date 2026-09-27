@@ -8,9 +8,37 @@
   "added": "2026-09-27",
   "tags": ["news", "tech", "AI"],
   "versions": {
-    "low":      { "label": "低", "density": 1.3, "target": "<2%",  "desc": "A2 词汇，六大阵营各一段白话" },
-    "mid":      { "label": "中", "density": 4.0, "target": "2–5%", "desc": "i+1 理想区，保留 debate/alignment 等主题词" },
-    "high":     { "label": "高", "density": 7.4, "target": "5–8%", "desc": "接近原文，引语原样保留" },
-    "original": { "label": "原文", "density": 20.4, "target": "—",  "desc": "NPR 原文" }
+    "low": {
+      "label": "低", "density": 1.3, "target": "<2%", "desc": "A2 词汇，六大阵营各一段白话",
+      "keyWords": [
+        { "word": "alignment", "en": "the work of making AI follow human values and goals" },
+        { "word": "panic", "en": "a sudden strong fear that makes people act without thinking" },
+        { "word": "unfairly", "en": "not in a fair or just way" }
+      ]
+    },
+    "mid": {
+      "label": "中", "density": 4.0, "target": "2–5%", "desc": "i+1 理想区，保留 debate/alignment 等主题词",
+      "keyWords": [
+        { "word": "whistleblower", "en": "someone who reports wrongdoing inside their own organization" },
+        { "word": "accelerate", "en": "to make something happen or move faster" },
+        { "word": "oversight", "en": "the job of watching and checking how something is run" }
+      ]
+    },
+    "high": {
+      "label": "高", "density": 7.3, "target": "5–8%", "desc": "接近原文，引语原样保留",
+      "keyWords": [
+        { "word": "faction", "en": "a small group inside a larger one with its own ideas" },
+        { "word": "existential", "en": "tied to the question of survival or existence" },
+        { "word": "catastrophic", "en": "causing sudden and terrible damage" }
+      ]
+    },
+    "original": {
+      "label": "原文", "density": 20.4, "target": "—", "desc": "NPR 原文",
+      "keyWords": [
+        { "word": "crescendo", "en": "the highest point of something that keeps growing" },
+        { "word": "unencumbered", "en": "not limited or blocked by anything" },
+        { "word": "supercharged", "en": "made much more powerful" }
+      ]
+    }
   }
 }

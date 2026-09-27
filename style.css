@@ -97,6 +97,20 @@ a { color: var(--accent); }
 .tab.active[data-v="original"] { background: var(--lv-orig); border-color: var(--lv-orig); }
 .ver-desc { color: var(--ink-soft); font-size: 13px; margin: 8px 0 0; min-height: 1.4em; }
 
+/* per-version key words */
+.key-words { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; margin: 10px 0 0; }
+.key-words:empty { display: none; }
+.key-words .kw-label { color: var(--ink-soft); font-size: 12px; font-weight: 600; letter-spacing: .3px; }
+.key-words .kw {
+  display: inline-flex; align-items: baseline; gap: 6px; padding: 3px 10px;
+  border: 1px solid var(--line); border-radius: 999px; background: var(--bg-card); font-size: 13px;
+}
+.key-words .kw b { font-weight: 600; }
+.key-words .kw i { color: var(--ink-soft); font-style: normal; font-size: 12px; }
+
+/* english one-line definitions */
+.gloss-card .en, .g-item .en { color: var(--ink-soft); font-size: 12.5px; font-style: italic; margin-top: 2px; }
+
 /* reading body */
 .prose {
   font-family: Charter, Georgia, "Songti SC", "Noto Serif SC", serif;
