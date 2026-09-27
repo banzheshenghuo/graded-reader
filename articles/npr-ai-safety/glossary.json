@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "faction", "level": "C1", "match": ["faction"], "note": "高/原文: the different factions ｜ 中: six groups ｜ 低: different groups" },
+        { "word": "whistleblower", "level": "C1", "match": ["whistleblower"], "note": "中/高: a researcher-turned-whistleblower ｜ 低: a researcher, left his job" },
+        { "word": "existential", "level": "C1", "match": ["existential"], "note": "高: existential risks ｜ 中: as bad as human extinction ｜ 低: the end" },
+        { "word": "autonomous", "level": "B2", "match": ["autonomous"], "note": "高: autonomous machines / becomes autonomous ｜ 中: acting on its own ｜ 低: work alone" },
+        { "word": "alignment", "level": "C1", "match": ["alignment"], "note": "主题词，三版都保留 ｜ the science of making AI follow human values" },
+        { "word": "surpass", "level": "C1", "match": ["surpass"], "note": "中/高: surpass human intelligence ｜ 低: become smarter than people" },
+        { "word": "extinction", "level": "B2", "match": ["extinction"], "note": "中/高: human extinction ｜ 低: end human life" },
+        { "word": "oversight", "level": "B2", "match": ["oversight"], "note": "中/高: government oversight ｜ 低: 未提及" },
+        { "word": "accountability", "level": "C1", "match": ["accountability"], "note": "高: company accountability ｜ 中: making companies answer for the damage" },
+        { "word": "treaty", "level": "C1", "match": ["treaty"], "note": "中/高: an international treaty with China ｜ 低: 未提及" }
+      ]
+    },
+    {
+      "name": "B2 档替换词",
+      "words": [
+        { "word": "regulation", "level": "B2", "match": ["regulation", "regulating"], "note": "中/高: calling for regulation ｜ 低: safety rules / make rules" },
+        { "word": "restrict", "level": "B2", "match": ["restrict"], "note": "中/高: accelerated, not restricted ｜ 低: do not slow AI down" },
+        { "word": "resign", "level": "B2", "match": ["resigning", "resigned"], "note": "高/原文: resigning from ｜ 中: leaving ｜ 低: left his job" },
+        { "word": "accuse", "level": "B2", "match": ["accusing", "accused"], "note": "中/高: accusing the companies ｜ 低: he said" },
+        { "word": "incident", "level": "B2", "match": ["incidents"], "note": "中/高: admitted several incidents ｜ 低: admitted something uncomfortable" },
+        { "word": "hack", "level": "B2", "match": ["hack"], "note": "中/高: hack Hugging Face ｜ 低: break into" },
+        { "word": "automation", "level": "B2", "match": ["automation"], "note": "中/高: past waves of automation ｜ 低: machines will do the work" },
+        { "word": "biased", "level": "B2", "match": ["biased", "biases"], "note": "高: becoming biased ｜ 中: learns unfair things ｜ 低: treats people unfairly" },
+        { "word": "permanent", "level": "B2", "match": ["permanent"], "note": "中/高: a permanent ban ｜ 低: ban（未提 permanent）" },
+        { "word": "ban", "level": "B1", "match": ["ban"], "note": "中/低: ban on building AI smarter than humans ｜ 高: 原文同" },
+        { "word": "dominance", "level": "C1", "match": ["dominance"], "note": "高: U.S. dominance in the global AI race ｜ 中: America must win the AI race" },
+        { "word": "nationalistic", "level": "C1", "match": ["nationalistic"], "note": "高: more nationalistic ｜ 中: adds politics ｜ 低: the \"America first\" group" },
+        { "word": "ideological", "level": "C1", "match": ["ideological"], "note": "高: an ideological divide ｜ 中/低: 未用" },
+        { "word": "coalition", "level": "C1", "match": ["coalition"], "note": "高: a split inside Trump's coalition ｜ 中: Trump's own side ｜ 低: some Trump supporters" },
+        { "word": "administration", "level": "B2", "match": ["administration"], "note": "高: the Trump administration ｜ 中: helps Trump ｜ 低: 未提及" },
+        { "word": "adviser", "level": "B2", "match": ["adviser"], "note": "高: White House AI adviser ｜ 中: who helps Trump on AI questions" },
+        { "word": "candidate", "level": "B1", "match": ["candidates"], "note": "高: support pro-AI candidates ｜ 中/低: 略去该细节" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "catastrophic", "level": "C1", "match": ["catastrophic"], "note": "高: catastrophic or existential results ｜ 中: as bad as human extinction ｜ 低: the end" },
+        { "word": "probability", "level": "B2", "match": ["probability"], "note": "高: lowering the probability of catastrophic outcomes ｜ 中/低: 简化掉" },
+        { "word": "advocate", "level": "C1", "match": ["advocates"], "note": "高: researchers and advocates ｜ 中: do the work and ask for regulation" },
+        { "word": "clash", "level": "C1", "match": ["clash"], "note": "高: a simple clash between two sides ｜ 中: two sides fighting ｜ 低: the newest fight" },
+        { "word": "governance", "level": "C1", "match": ["governance"], "note": "高: views of ... governance ｜ 中/低: 简化掉" },
+        { "word": "utopian / dystopian", "level": "C1", "match": ["utopian", "dystopian"], "note": "高: the utopian and dystopian stories ｜ 中: the dream or the dark story ｜ 低: don't panic" },
+        { "word": "swarm", "level": "C1", "match": ["swarms"], "note": "高: swarms of agents ｜ 中: large groups of agents ｜ 低: 未用" },
+        { "word": "exploit", "level": "B2", "match": ["exploiting"], "note": "高: exploiting workers ｜ 中: hard pressure on workers ｜ 低: lost jobs" },
+        { "word": "dataset", "level": "C1", "match": ["dataset"], "note": "高: the huge picture dataset（ImageNet）｜ 中/低: 未提 Fei-Fei Li 段" },
+        { "word": "mass surveillance", "level": "C1", "match": ["mass surveillance"], "note": "高: mass surveillance ｜ 中: watching everyone ｜ 低: too much watching of ordinary people" }
+      ]
+    },
+    {
+      "name": "引语保留与原文难词",
+      "words": [
+        { "word": "superintelligence", "level": "超罕见", "match": ["superintelligence", "superintelligent"], "note": "引语原词 + 高版术语 ｜ 中: AI smarter than humans ｜ 低: smarter than people" },
+        { "word": "gambling", "level": "C1", "match": ["gambling"], "note": "引语 \"gambling with our lives\" ｜ 低转述: playing with our lives" },
+        { "word": "quarantine", "level": "B2", "match": ["quarantine"], "note": "高保留 Bannon 引语原话 ｜ We should quarantine now every aspect..." },
+        { "word": "aspect", "level": "B2", "match": ["aspect"], "note": "同上引语 ｜ every aspect of the ecosystem" },
+        { "word": "ecosystem", "level": "B2", "match": ["ecosystem"], "note": "同上引语 ｜ the ecosystem of artificial intelligence" },
+        { "word": "crescendo", "level": "C2", "match": ["crescendo"], "note": "原文 reached a crescendo ｜ 高: a boiling point ｜ 中: become loud" },
+        { "word": "supercharged", "level": "C2", "match": ["supercharged"], "note": "原文 claims supercharged the debate ｜ 高: gave huge energy ｜ 低: After that" },
+        { "word": "wreak", "level": "C2", "match": ["wreak"], "note": "原文 damage AI could wreak ｜ 高/中: the damage AI could cause ｜ 低: 未提" },
+        { "word": "stint", "level": "B2", "match": ["stint"], "note": "原文 after a previous stint ｜ 高: after a period ｜ 中: after a time" },
+        { "word": "propel", "level": "C1", "match": ["propel"], "note": "原文 propel medical advancements ｜ 高: push medicine forward ｜ 中/低: better medicine" },
+        { "word": "unencumbered", "level": "C2", "match": ["unencumbered"], "note": "原文 unencumbered by regulation ｜ 高: free from regulation ｜ 低: do not slow AI down" },
+        { "word": "perpetuate", "level": "C1", "match": ["perpetuate"], "note": "原文 perpetuate existing societal biases ｜ 高: repeat unfair treatment ｜ 低: treats people unfairly" },
+        { "word": "tendency", "level": "B2", "match": ["tendency"], "note": "原文 their tendency to generate ｜ 高: their habit of ｜ 低: 未提" },
+        { "word": "misleading", "level": "C1", "match": ["misleading"], "note": "原文 harmful or misleading language ｜ 高: made-up answers ｜ 低: 未提" }
+      ]
+    }
+  ]
+}
