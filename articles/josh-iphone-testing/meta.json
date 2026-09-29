@@ -1,0 +1,44 @@
+{
+  "slug": "josh-iphone-testing",
+  "title": "Local Testing on an iPhone",
+  "source": "Josh W. Comeau (blog)",
+  "sourceUrl": "https://www.joshwcomeau.com/blog/local-testing-on-an-iphone/",
+  "author": "Josh W. Comeau",
+  "date": "2025-03-14",
+  "added": "2026-09-29",
+  "tags": ["dev", "frontend", "tutorial"],
+  "versions": {
+    "low": {
+      "label": "低", "density": 0.8, "target": "<2%", "desc": "A2 摘编，两步工作流白话版",
+      "keyWords": [
+        { "word": "terminal", "en": "the program where you type commands" },
+        { "word": "inspector", "en": "Web Inspector — the tool that lets a computer look inside a phone's page" },
+        { "word": "cable", "en": "a wire that connects the phone to the computer" }
+      ]
+    },
+    "mid": {
+      "label": "中", "density": 3.4, "target": "2–5%", "desc": "i+1 理想区，保留调试工作流主线",
+      "keyWords": [
+        { "word": "debug", "en": "to look for and fix problems in code" },
+        { "word": "tunnel", "en": "to dig a private path through a network" },
+        { "word": "token", "en": "a secret string that proves who you are" }
+      ]
+    },
+    "high": {
+      "label": "高", "density": 7.4, "target": "5–8%", "desc": "接近原文，保留作者语气与习语",
+      "keyWords": [
+        { "word": "culprit", "en": "the thing that caused the problem" },
+        { "word": "reproducible", "en": "able to be made to happen again" },
+        { "word": "burrow", "en": "to dig a path through something" }
+      ]
+    },
+    "original": {
+      "label": "原文", "density": 13.7, "target": "—", "desc": "博客原文（代码块已剥离）",
+      "keyWords": [
+        { "word": "localhost", "en": "the address of a test site running on your own computer" },
+        { "word": "scrollburglar", "en": "the author's joke word: a bug that 'steals' your time with sideways scrolling" },
+        { "word": "trade-off", "en": "giving up one good thing to get another" }
+      ]
+    }
+  }
+}

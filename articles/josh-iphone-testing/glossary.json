@@ -1,0 +1,73 @@
+{
+  "groups": [
+    {
+      "name": "主题词与工具名（不计生词，必认）",
+      "words": [
+        { "word": "localhost", "level": "术语", "match": ["localhost"], "en": "the address of a test site running on your own computer", "note": "主题词，三版都保留（grader 不计）｜ e.g. localhost:3000" },
+        { "word": "ngrok", "level": "术语", "match": ["ngrok"], "en": "a tool that gives your local test site a public web address", "note": "核心工具名，三版保留" },
+        { "word": "iPhone", "level": "B2", "match": ["iPhone"], "en": "Apple's mobile phone", "note": "高版保留 ×6 ｜ 中版 ×5 ｜ 低版 ×1（其余用 phone）" },
+        { "word": "iOS", "level": "B2", "match": ["iOS"], "en": "the system that runs iPhones", "note": "中/高: 保留 ｜ 低: a program that acts like a phone" },
+        { "word": "Safari", "level": "B2", "match": ["Safari"], "en": "the web app that comes with iPhones", "note": "调试主线必用词 ｜ 低版: the web app / Safari 各半" },
+        { "word": "Scrollburglar", "level": "术语", "match": ["scrollburglar"], "en": "the author's joke word: a bug that 'steals' your time with sideways scrolling", "note": "作者造词（burglar = 小偷）｜ 高/中: 保留笑点 ｜ 低: the side-to-side problem" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "debug", "level": "C2", "match": ["debug", "debugging"], "en": "to look for and fix problems in code", "note": "中/高: debug ｜ 低: find the problem" },
+        { "word": "developer tools", "level": "B2", "match": ["developer"], "en": "the tools that let you look inside a web page", "note": "中/高: developer tools ｜ 低: some special tools" },
+        { "word": "browser", "level": "C1", "match": ["browser"], "en": "the program you use to visit websites", "note": "中/高: browser ｜ 低: the web app" },
+        { "word": "server", "level": "B2", "match": ["server"], "en": "the program on your computer that serves the test site", "note": "高: dev server / test server ｜ 中: test site / local site ｜ 低: test website" },
+        { "word": "tunnel", "level": "B2", "match": ["tunnel", "tunnelling"], "en": "to dig a private path through a network", "note": "中/高: tunnelling service ｜ 低: a small program that helps" },
+        { "word": "token", "level": "B2", "match": ["token"], "en": "a secret string that proves who you are", "note": "中/高: token ｜ 低: secret key" },
+        { "word": "terminal", "level": "B2", "match": ["terminal"], "en": "the program where you type commands", "note": "三版保留（教程必需）" },
+        { "word": "cable", "level": "B2", "match": ["cable"], "en": "a wire that connects the phone to the computer", "note": "三版保留 ｜ 中版: lightning cable 简化为 cable" },
+        { "word": "bug", "level": "B2", "match": ["bug"], "en": "a mistake in code that causes wrong behavior", "note": "中/高: bug ｜ 低: problem" },
+        { "word": "console", "level": "B2", "match": ["console"], "en": "the place where error messages appear", "note": "中/高: console logs ｜ 低: the error messages" },
+        { "word": "storage", "level": "C1", "match": ["storage"], "en": "saved data in the browser", "note": "中/高: clear local storage ｜ 低: clear saved data" },
+        { "word": "inspector", "level": "B2", "match": ["inspector"], "en": "Web Inspector — Safari's tool for looking inside pages", "note": "三版保留（设置项名称）" },
+        { "word": "load", "level": "B2", "match": ["load"], "en": "to open (a page)", "note": "高: load localhost:3000 ｜ 低/中: open" },
+        { "word": "command", "level": "B2", "match": ["command"], "en": "an instruction you type for the computer", "note": "高: with one command ｜ 低/中: the start line" },
+        { "word": "enable", "level": "B2", "match": ["enable", "enabled"], "en": "to turn on", "note": "高: enabled ｜ 低/中: turn on" },
+        { "word": "setup", "level": "B2", "match": ["setup"], "en": "the work of getting tools ready", "note": "低/中已改为 set it up（动词短语免费）" },
+        { "word": "folder", "level": "B2", "match": ["folder"], "en": "a place to keep files", "note": "高: home folder ｜ 低: somewhere safe" },
+        { "word": "install", "level": "B2", "match": ["install"], "en": "to put a program on your computer", "note": "高: doesn't need to be installed ｜ 低/中: set anything up" },
+        { "word": "expose", "level": "B2", "match": ["expose"], "en": "to make something reachable from outside", "note": "高: expose a port ｜ 低/中: give a public web address" },
+        { "word": "subscribe", "level": "B2", "match": ["subscribe"], "en": "to sign up for updates", "note": "高: subscribe ｜ 低/中: sign up for updates" },
+        { "word": "friction", "level": "B2", "match": ["friction"], "en": "hassle; effort in the way", "note": "高: low-friction ｜ 低: so easy" },
+        { "word": "advance / Advanced", "level": "B2", "match": ["Advanced"], "en": "extra settings section in Safari", "note": "设置路径里的菜单名 ｜ 低/中部分改为 the extra settings" }
+      ]
+    },
+    {
+      "name": "仅高版出现（作者语气与习语）",
+      "words": [
+        { "word": "reproducible", "level": "C2", "match": ["reproducible"], "en": "able to be made to happen again", "note": "高: wasn't reproducible ｜ 低/中: didn't show up" },
+        { "word": "emulate", "level": "C1", "match": ["emulate", "emulating"], "en": "to pretend to be something else", "note": "高: emulating the phone ｜ 低: made the computer pretend" },
+        { "word": "culprit", "level": "C1", "match": ["culprit"], "en": "the thing that caused the problem", "note": "高: figure out the culprit ｜ 低: find the code that caused it" },
+        { "word": "tinker", "level": "C1", "match": ["tinkering"], "en": "to try small changes until something works", "note": "高: took some tinkering ｜ 中: a lot of trying ｜ 低: took a long time" },
+        { "word": "burrow", "level": "C1", "match": ["burrows"], "en": "to dig a path through something", "note": "高: burrows through the firewall ｜ 低: goes through the network walls" },
+        { "word": "firewall", "level": "C1", "match": ["firewall"], "en": "the security wall that protects a network", "note": "中/高保留 ｜ 低: network walls" },
+        { "word": "router", "level": "C1", "match": ["router"], "en": "the box that manages your home internet", "note": "中/高保留" },
+        { "word": "protocol", "level": "C1", "match": ["protocol"], "en": "the kind of web address, like HTTP or HTTPS", "note": "高: the first part is the protocol ｜ 低: what kind of address you want" },
+        { "word": "clipboard", "level": "C2", "match": ["clipboard"], "en": "the place where copied text is kept", "note": "高: copy it to the clipboard ｜ 低/中: copy it" },
+        { "word": "unzip", "level": "C2", "match": ["unzip"], "en": "to open a compressed file", "note": "高: unzip it ｜ 中: it's a single file" },
+        { "word": "authenticate", "level": "C2", "match": ["authenticate"], "en": "to prove who you are", "note": "高: authenticate with your token ｜ 低/中: run the start line with your key" },
+        { "word": "confession", "level": "C1", "match": ["confession"], "en": "admitting something you feel a bit ashamed of", "note": "高/中: I have a confession to make ｜ 低: Here is a little secret" },
+        { "word": "troublemaker", "level": "C2", "match": ["troublemaker"], "en": "a person or thing that causes trouble", "note": "高/中: everybody's least favourite troublemaker/pain ｜ 低: 删去" },
+        { "word": "horizontal", "level": "B2", "match": ["horizontal"], "en": "going from side to side", "note": "高/中: horizontal scrollburglar ｜ 低: side-to-side" },
+        { "word": "verify", "level": "C1", "match": ["verify"], "en": "to check that something is true", "note": "高: verify that an issue is real ｜ 中: check ｜ 低: see" },
+        { "word": "companion", "level": "C1", "match": ["companion"], "en": "a partner piece; a second guide", "note": "高: a companion piece ｜ 低/中: a second guide" },
+        { "word": "desktop", "level": "C1", "match": ["desktop"], "en": "a computer with a big screen", "note": "高: the desktop client ｜ 低/中: computer" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "rock-solid", "level": "B1", "match": ["rock-solid"], "en": "very strong and reliable", "note": "高: rock-solid on iOS ｜ 低: works well" },
+        { "word": "under the hood", "level": "B2", "match": ["hood"], "en": "inside the machine (idiom)", "note": "高: look under the hood ｜ 低/中: look inside the page" },
+        { "word": "hot mess", "level": "B1", "match": ["hot mess"], "en": "a very disorganized situation", "note": "中/高: a hot mess ｜ 低: That was a mess" },
+        { "word": "rabbit-hole", "level": "B2", "match": ["rabbit-hole"], "en": "a side story that takes you far away from the point", "note": "中/高: spare you the rabbit-hole story ｜ 低: save you the story" }
+      ]
+    }
+  ]
+}
