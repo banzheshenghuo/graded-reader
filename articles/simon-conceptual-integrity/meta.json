@@ -1,0 +1,44 @@
+{
+  "slug": "simon-conceptual-integrity",
+  "title": "Conceptual Integrity and Counting Lines of Code",
+  "source": "Simon Willison (blog)",
+  "sourceUrl": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+  "author": "Simon Willison",
+  "date": "2026-08-19",
+  "added": "2026-10-02",
+  "tags": ["AI", "dev", "essay"],
+  "versions": {
+    "low": {
+      "label": "低", "density": 1.7, "target": "<2%", "desc": "A2 白话版：两个观点+鬼屋故事",
+      "keyWords": [
+        { "word": "podcast", "en": "a recorded talk show you can listen to online" },
+        { "word": "discipline", "en": "making yourself follow good rules even when it is hard" },
+        { "word": "debate", "en": "a discussion where people disagree" }
+      ]
+    },
+    "mid": {
+      "label": "中", "density": 3.8, "target": "2–5%", "desc": "i+1 理想区，两个论点完整保留",
+      "keyWords": [
+        { "word": "cognitive", "en": "about thinking and the mind" },
+        { "word": "capacity", "en": "how much of something fits inside" },
+        { "word": "integrity", "en": "being one complete, well-joined whole" }
+      ]
+    },
+    "high": {
+      "label": "高", "density": 7.6, "target": "5–8%", "desc": "接近原文，两段播客引语原样保留",
+      "keyWords": [
+        { "word": "churn", "en": "to produce a lot of something quickly (churn out)" },
+        { "word": "analogy", "en": "explaining one thing by comparing it to another" },
+        { "word": "widow", "en": "a woman whose husband has died" }
+      ]
+    },
+    "original": {
+      "label": "原文", "density": 9.6, "target": "—", "desc": "博客原文",
+      "keyWords": [
+        { "word": "disfluencies", "en": "little hesitations and filler words in natural speech" },
+        { "word": "bus factor", "en": "the risk a project faces if one key person suddenly leaves" },
+        { "word": "maintainable", "en": "easy to keep fixing and improving over time" }
+      ]
+    }
+  }
+}

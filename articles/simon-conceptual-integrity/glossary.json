@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "conceptual integrity", "level": "C1", "match": ["conceptual", "integrity"], "en": "when all parts of a software design fit together as one clean whole", "note": "主题词，三版保留 ｜ 低: everything fits together well" },
+        { "word": "cognitive capacity", "level": "C1", "match": ["cognitive", "capacity"], "en": "how much your brain can hold and manage at once", "note": "主题词 ｜ 高/中: cognitive capacity ｜ 低: the size of a human head / how much you can hold in your mind" },
+        { "word": "productivity", "level": "C1", "match": ["productivity"], "en": "how much useful work you get done", "note": "高: indicator of productivity ｜ 中: measure your work ｜ 低: measure your work" },
+        { "word": "coding agents", "level": "B2", "match": ["agents"], "en": "AI tools that write code for you", "note": "主题词 ｜ 低: AI tools" },
+        { "word": "debug", "level": "C2", "match": ["debug", "debugged"], "en": "to find and fix problems in code", "note": "中/高: debugged code ｜ 低: good, working code" },
+        { "word": "prompt", "level": "B2", "match": ["prompt"], "en": "the instruction you type to an AI", "note": "中/高保留 ｜ 低: type a request" },
+        { "word": "maintainable", "level": "C2", "match": ["maintainable"], "en": "easy to keep fixing and improving over time", "note": "高保留 ｜ 中: easy to change ｜ 低: easy to change" },
+        { "word": "churn out", "level": "C1", "match": ["churn"], "en": "to produce a lot of something quickly", "note": "高/中: churn out code ｜ 低/中: produce code" },
+        { "word": "integrity", "level": "C1", "match": ["integrity"], "en": "being one complete, well-joined whole", "note": "高 ×5 ｜ 中 ×2 ｜ 低: fits together" }
+      ]
+    },
+    {
+      "name": "B2 档替换词",
+      "words": [
+        { "word": "cognitive", "level": "C1", "match": ["cognitive"], "en": "about thinking and the mind", "note": "中/高: cognitive capacity ｜ 低: in my mind" },
+        { "word": "capacity", "level": "B2", "match": ["capacity"], "en": "how much of something fits inside", "note": "中/高保留 ｜ 低: how much you can hold" },
+        { "word": "conceptual", "level": "B2", "match": ["conceptual"], "en": "about ideas and design, not details", "note": "中/高: conceptual integrity ｜ 低: 未用术语" },
+        { "word": "discipline", "level": "B2", "match": ["discipline"], "en": "making yourself follow good rules even when it is hard", "note": "三版保留（文眼）" },
+        { "word": "justify", "level": "B2", "match": ["justify"], "en": "to give a good reason for something", "note": "高 ×2 ｜ 中 ×1 ｜ 低: easier to say yes" },
+        { "word": "podcast", "level": "B2", "match": ["podcast"], "en": "a recorded talk show you can listen to online", "note": "三版保留" },
+        { "word": "psychic", "level": "B2", "match": ["psychic"], "en": "a person who claims to talk to spirits and see the future", "note": "中/高保留（鬼屋故事）｜ 低: afraid of ghosts" },
+        { "word": "rifle", "level": "C1", "match": ["rifle"], "en": "a long gun", "note": "高保留（Winchester rifle）｜ 低: gun" },
+        { "word": "haunted", "level": "B2", "match": ["haunted", "haunt"], "en": "visited and troubled by ghosts", "note": "高/中: haunted ｜ 低: afraid of ghosts" },
+        { "word": "bump", "level": "B2", "match": ["bump"], "en": "a small raised area; here: unplanned bits added to software", "note": "高: weird bumps ｜ 中: strange extras ｜ 低: grow in strange directions" },
+        { "word": "load balance", "level": "B2", "match": ["load"], "en": "to spread work evenly across a team", "note": "高: load balance ｜ 中/低: share the thinking" },
+        { "word": "senior", "level": "B2", "match": ["senior"], "en": "at a high level of experience", "note": "高/中: senior engineers ｜ 低: a good engineer" },
+        { "word": "meaningful", "level": "B2", "match": ["meaningful"], "en": "real and important", "note": "高/中: a real improvement ｜ 低: a real improvement" },
+        { "word": "indicator", "level": "B2", "match": ["indicator"], "en": "a sign that shows something", "note": "高: indicator of productivity ｜ 中/低: measure" },
+        { "word": "transcript", "level": "C1", "match": ["transcript"], "en": "the written text of a recorded conversation", "note": "高: from the transcript ｜ 低/中: our talk" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "analogy", "level": "C1", "match": ["analogy"], "en": "explaining one thing by comparing it to another", "note": "高: You know my analogy? ｜ 低/中: Claire told a story / compared this to" },
+        { "word": "widow", "level": "C1", "match": ["widow"], "en": "a woman whose husband has died", "note": "高: the widow of the guy who invented... ｜ 低/中: the woman who built it" },
+        { "word": "lightly edited", "level": "B2", "match": ["edited"], "en": "cleaned up a little, without changing meaning", "note": "高: lightly edited transcript ｜ 中/低: cleaned up the recording" },
+        { "word": "enforce", "level": "C1", "match": ["enforced"], "en": "to make a rule actually happen", "note": "高: enforced on you ｜ 中: came from time ｜ 低: gone" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "bus factor", "level": "B1", "match": ["bus factor"], "en": "the risk if one key person suddenly leaves the team", "note": "高/中: bus factor thing ｜ 低: 未提" },
+        { "word": "Winchester Mystery House", "level": "B1", "match": ["Winchester"], "en": "a famous 140-room house in California, built continuously for about 38 years", "note": "故事道具，三版保留 ｜ 低: a famous house with 140 rooms" },
+        { "word": "The Mythical Man-Month", "level": "B1", "match": ["Mythical"], "en": "a classic 1975 book on software teams by Fred Brooks", "note": "高保留书名 ｜ 低/中: an old book on software teams" },
+        { "word": "hard limit", "level": "B1", "match": ["hard limit"], "en": "a maximum that cannot be crossed", "note": "中/高保留" }
+      ]
+    }
+  ]
+}
