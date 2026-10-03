@@ -75,6 +75,7 @@
       "</nav>" +
       "<p class='ver-desc' id='ver-desc'></p>" +
       "<div class='key-words' id='key-words'></div>" +
+      "<div class='audio-box' id='audio-box'></div>" +
       "<div class='prose' id='prose'></div>" +
       glossarySection(a) +
       pager(a, versions);
@@ -103,6 +104,13 @@
     if (current) store.set("gr:pos:" + a.slug + ":" + current, window.scrollY);
     current = v;
     $("#prose").innerHTML = a.versions[v].html;
+    const ab = $("#audio-box");
+    if (ab) {
+      const au = a.versions[v].audio;
+      ab.innerHTML = au
+        ? "<audio controls preload='none' src='" + esc(au) + "'></audio>"
+        : "";
+    }
     $("#ver-desc").textContent =
       (a.versions[v].desc || "") +
       (a.versions[v].target && a.versions[v].target !== "—" ? " · 生词密度目标 " + a.versions[v].target : "");
