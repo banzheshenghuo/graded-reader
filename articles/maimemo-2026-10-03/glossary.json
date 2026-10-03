@@ -1,0 +1,124 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING，文中出现 2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "奶奶的旧职业，也是文章最后一句的比喻", "en": "a person who does office work, like letters and records" },
+        { "word": "chase", "level": "B2", "match": ["chase"], "note": "两处：Bobby 追猫", "en": "to run after something" },
+        { "word": "nervous", "level": "A2", "match": ["nervous"], "note": "两处：怕密码、第一次拿手机", "en": "worried and a little afraid" },
+        { "word": "moreover", "level": "B2", "match": ["moreover"], "note": "两处句首连接词", "en": "also; used to add information" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "两处：贴纸条的冰箱、app 报食材新鲜度", "en": "the cold box where food is kept" },
+        { "word": "roast", "level": "B2", "match": ["roast"], "note": "两处：Sunday roast 传统 + roast chicken", "en": "to cook meat in an oven; a big cooked meal" },
+        { "word": "blind", "level": "B2", "match": ["blind"], "note": "两处：不戴眼镜几乎看不见、blind to phones", "en": "not able to see; not noticing something" },
+        { "word": "nightmare", "level": "B2", "match": ["nightmare"], "note": "两处：首晚部署、结尾呼应", "en": "a very bad dream; a very bad experience" }
+      ]
+    },
+    {
+      "group": "今日所学 · 10-03",
+      "words": [
+        { "word": "console", "level": "B2", "match": ["console"], "en": "the black window where a program prints its messages" },
+        { "word": "early", "level": "A1", "match": ["early", "earlier"], "en": "before the usual time" },
+        { "word": "cluster", "level": "C1", "match": ["cluster"], "en": "a small group of things together" },
+        { "word": "spot", "level": "B1", "match": ["spot", "spotted"], "en": "to see or find something" },
+        { "word": "probably", "level": "A1", "match": ["probably"], "en": "very likely" },
+        { "word": "ought", "level": "B1", "match": ["ought"], "en": "should" },
+        { "word": "belt", "level": "A2", "match": ["belt"], "en": "a band you wear around the middle of your clothes" },
+        { "word": "give oneself away", "level": "B2", "match": ["give oneself away", "gave herself away"], "en": "to show a hidden feeling by accident" },
+        { "word": "contributor", "level": "C1", "match": ["contributor"], "en": "a person who helps build something, often open-source software" },
+        { "word": "turn over sth.", "level": "B1", "match": ["turn over", "turned over"], "en": "to flip something to its other side" },
+        { "word": "cozy", "level": "B2", "match": ["cozy"], "en": "warm and comfortable" },
+        { "word": "migrate", "level": "C1", "match": ["migrate", "migrated"], "en": "to move from one place to another" }
+      ]
+    },
+    {
+      "group": "昨日所学 · 10-02",
+      "words": [
+        { "word": "frustrate", "level": "C2", "match": ["frustrate"], "en": "to make someone feel upset because nothing works" },
+        { "word": "comb something", "level": "A2", "match": ["combed"], "en": "to smooth hair; to search carefully through information" },
+        { "word": "repository", "level": "C1", "match": ["repository"], "en": "a place where code or files are stored" },
+        { "word": "assume", "level": "B2", "match": ["assume", "assumed"], "en": "to think something is true without checking" },
+        { "word": "excuse oneself", "level": "B2", "match": ["excused herself"], "en": "to say politely that you must leave" },
+        { "word": "purple", "level": "A1", "match": ["purple"], "en": "the color of grapes" },
+        { "word": "trade-off", "level": "B1", "match": ["trade-off"], "en": "giving up one good thing to get another" },
+        { "word": "turn one's head", "level": "A1", "match": ["turned his head"], "en": "to move the head to look" },
+        { "word": "theory", "level": "B1", "match": ["theory"], "en": "an idea that explains how something works" },
+        { "word": "authentication", "level": "C1", "match": ["authentication"], "en": "proving who you are before using a system" },
+        { "word": "wait", "level": "A1", "match": ["wait", "waits"], "en": "to stay until something happens" },
+        { "word": "friendly", "level": "A1", "match": ["friendly"], "en": "kind and easy to like" },
+        { "word": "product", "level": "A1", "match": ["product"], "en": "a thing that is made and sold" },
+        { "word": "primary", "level": "B1", "match": ["primary"], "en": "first and most important" },
+        { "word": "schema", "level": "C1", "match": ["schema"], "en": "the plan of how data is organized" },
+        { "word": "behind", "level": "A1", "match": ["behind"], "en": "at the back of" },
+        { "word": "sheet", "level": "A2", "match": ["sheets"], "en": "a big piece of cloth for a bed" },
+        { "word": "grandma", "level": "B2", "match": ["grandma"], "en": "the mother of your mother or father" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "en": "a big book with facts about many things" },
+        { "word": "lacks", "level": "B1", "match": ["lacked"], "en": "does not have something" },
+        { "word": "instruments", "level": "A2", "match": ["instruments"], "en": "tools for making music or doing careful work" }
+      ]
+    },
+    {
+      "group": "前日词 · 顺带复现（10-01）",
+      "words": [
+        { "word": "occupation", "level": "B2", "match": ["occupation"], "en": "a person's job" },
+        { "word": "several", "level": "A2", "match": ["several"], "en": "more than two but not many" },
+        { "word": "train", "level": "A1", "match": ["train"], "en": "a long vehicle on rails" },
+        { "word": "precision", "level": "C1", "match": ["precision"], "en": "being exact" },
+        { "word": "touch sth. up", "level": "B2", "match": ["touched it up"], "en": "to make small repairs to paint or color" },
+        { "word": "something's up", "level": "B1", "match": ["something is up"], "en": "something strange is happening" },
+        { "word": "zipper", "level": "C1", "match": ["zipper"], "en": "the thing that opens bags and jackets" },
+        { "word": "array", "level": "C1", "match": ["array"], "en": "a list of values in a program" },
+        { "word": "scope", "level": "C1", "match": ["scope"], "en": "the range of what a project will do" },
+        { "word": "compile", "level": "C1", "match": ["compiled"], "en": "to turn code into a running program" },
+        { "word": "layer", "level": "B1", "match": ["layer"], "en": "one level on top of another" },
+        { "word": "deploy", "level": "C1", "match": ["deployed"], "en": "to put software where people can use it" },
+        { "word": "yum", "level": "C1", "match": ["yum"], "en": "a word that shows food tastes good" },
+        { "word": "hybrid", "level": "B2", "match": ["hybrid"], "en": "a mix of two things" },
+        { "word": "paint", "level": "A1", "match": ["painted"], "en": "to cover a wall with color" },
+        { "word": "calm", "level": "B1", "match": ["calm"], "en": "quiet and not excited" },
+        { "word": "recall", "level": "B2", "match": ["recalled"], "en": "to remember something from the past" },
+        { "word": "driver", "level": "A1", "match": ["driver"], "en": "a person who drives" },
+        { "word": "excuse", "level": "B2", "match": ["excuse", "excused"], "en": "a reason; to forgive" },
+        { "word": "bread", "level": "A1", "match": ["bread"], "en": "baked food made from flour" },
+        { "word": "boots", "level": "B2", "match": ["boots"], "en": "strong shoes that cover the ankle" },
+        { "word": "sit", "level": "A1", "match": ["sit", "sat", "sits"], "en": "to rest on a chair" },
+        { "word": "project", "level": "A2", "match": ["project"], "en": "a planned piece of work" }
+      ]
+    },
+    {
+      "group": "明日预习 · 今晚先见（今日未学词）",
+      "words": [
+        { "word": "automate", "level": "C1", "match": ["automates"], "en": "to make something work by itself" },
+        { "word": "protocol", "level": "C1", "match": ["protocol"], "en": "a set of rules for machines to talk" },
+        { "word": "specification", "level": "C1", "match": ["specification"], "en": "a written plan of what to build" },
+        { "word": "architecture", "level": "A2", "match": ["architecture"], "en": "the design structure of a building or system" },
+        { "word": "responsive", "level": "B2", "match": ["responsive"], "en": "reacting quickly to touch" },
+        { "word": "battery", "level": "B1", "match": ["battery"], "en": "the part that keeps power in a phone" },
+        { "word": "keyboard", "level": "B1", "match": ["keyboard"], "en": "the part with letters for typing" },
+        { "word": "plug", "level": "C1", "match": ["plug", "plugs"], "en": "to connect to power" },
+        { "word": "store", "level": "A2", "match": ["store"], "en": "a shop; to keep something" },
+        { "word": "carry", "level": "A1", "match": ["carries", "carry"], "en": "to hold something and move" },
+        { "word": "spare", "level": "B2", "match": ["spare"], "en": "an extra one" },
+        { "word": "milk", "level": "A1", "match": ["milk"], "en": "the white drink from cows" },
+        { "word": "rice", "level": "A1", "match": ["rice"], "en": "small white grains we cook and eat" },
+        { "word": "cough", "level": "B2", "match": ["cough"], "en": "to push air out of the throat when sick" },
+        { "word": "prescription", "level": "C1", "match": ["prescription"], "en": "a doctor's paper for medicine" },
+        { "word": "implicit", "level": "C1", "match": ["implicit"], "en": "understood without being said" },
+        { "word": "wind", "level": "A2", "match": ["wind"], "en": "moving air" },
+        { "word": "animation", "level": "B2", "match": ["animation"], "en": "moving pictures on a screen" }
+      ]
+    },
+    {
+      "group": "计划外生词 · 顺带认识",
+      "words": [
+        { "word": "pill", "level": "B2", "match": ["pill", "pills"], "en": "a small piece of medicine you swallow" },
+        { "word": "password", "level": "B2", "match": ["password"], "en": "secret letters that open an account" },
+        { "word": "treasure", "level": "B2", "match": ["treasure"], "en": "something very dear" },
+        { "word": "silence", "level": "B2", "match": ["silence"], "en": "no sound" },
+        { "word": "cable", "level": "B2", "match": ["cable"], "en": "a wire that carries power or data" },
+        { "word": "shook", "level": "B2", "match": ["shook"], "en": "past of shake" },
+        { "word": "gently", "level": "B2", "match": ["gently"], "en": "in a soft way" },
+        { "word": "helper", "level": "C1", "match": ["helper"], "en": "a person or thing that helps" }
+      ]
+    }
+  ]
+}

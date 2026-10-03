@@ -1,0 +1,23 @@
+{
+  "slug": "maimemo-2026-10-03",
+  "title": "The Purple App for Grandma",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-03",
+  "added": "2026-10-03",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 1.4,
+      "target": "≤5%（非目标词）",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 今昨 33 词全覆盖 + 前日 23 词复现 + 18 词预习",
+      "keyWords": [
+        { "word": "nightmare", "en": "a very bad dream; a very bad experience" },
+        { "word": "refrigerator", "en": "the cold box where food is kept" },
+        { "word": "moreover", "en": "also; used to add information" }
+      ]
+    }
+  }
+}
