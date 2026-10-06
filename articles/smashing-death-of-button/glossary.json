@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "name": "主题词（双主轴）",
+      "words": [
+        { "word": "interface", "level": "C1", "match": ["interface", "interfaces"], "en": "the part of software you see and interact with", "note": "原文 ×25 ｜ 高 ×8 ｜ 中 ×2 ｜ 低: screen / what you see and click" },
+        { "word": "intent", "level": "C1", "match": ["intent", "intent-driven"], "en": "what you want to achieve; your goal", "note": "原文 ×16 ｜ 高 ×6 ｜ 中 ×3（intent-driven design）｜ 低: goal" },
+        { "word": "generative UI", "level": "C2", "match": ["generative"], "en": "interfaces built on the fly by AI for each request", "note": "原文: Generative UI ｜ 高: generative pages ｜ 中/低: the page builds itself" },
+        { "word": "UI", "level": "缩写", "match": ["UI"], "en": "user interface — the screen part of software", "note": "ALL-CAPS 缩写不计密度，可放心使用（原文传统 UI paradigm）" },
+        { "word": "UX", "level": "缩写", "match": ["UX"], "en": "user experience — how software feels to use", "note": "缩写不计密度" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "interaction", "level": "B2", "match": ["interaction", "interactive"], "en": "the back-and-forth between you and software", "note": "高: hyper-interactive / more interaction ｜ 低: clicking" },
+        { "word": "filter", "level": "C1", "match": ["filter", "filters"], "en": "a setting that removes results you don't want", "note": "高/中: set filters / a wrong filter ｜ 低: 未用" },
+        { "word": "tab", "level": "B2", "match": ["tab", "tabs"], "en": "one open page in your browser", "note": "高/中: open ten tabs ｜ 低: many pages" },
+        { "word": "drag", "level": "B2", "match": ["drag", "dragging"], "en": "to pull something across the screen with your mouse", "note": "三版保留（设计工具语境）" },
+        { "word": "slider", "level": "C1", "match": ["slider", "sliders"], "en": "a little control you drag left and right to set a value", "note": "高/低保留 ｜ 中: little window 换掉了日历、sliders 删去" },
+        { "word": "booking", "level": "B2", "match": ["booking"], "en": "reserving and paying for a trip", "note": "高/中: booking steps ｜ 低: doing the work" },
+        { "word": "plain-English", "level": "B2", "match": ["plain"], "en": "in normal everyday language", "note": "高/中: a plain-English request ｜ 低: a plain-English request 保留一处" },
+        { "word": "maze", "level": "B2", "match": ["maze"], "en": "a confusing network of paths", "note": "高: a maze of menus ｜ 中: many menus ｜ 低: click, and click, and click" },
+        { "word": "illusion", "level": "B2", "match": ["illusion"], "en": "a false picture of something", "note": "高: the illusion of control ｜ 中: the feeling of control ｜ 低: You lose control" },
+        { "word": "trust", "level": "B2", "match": ["trust"], "en": "belief that something is honest and safe", "note": "高: stop trusting ｜ 中: lose faith ｜ 低: 未用" },
+        { "word": "engagement", "level": "C1", "match": ["engagement"], "en": "how much people use and interact with a product", "note": "高: engagement metrics ｜ 中/低: 未提（行业指标段删）" },
+        { "word": "era", "level": "C1", "match": ["era"], "en": "a period of history", "note": "高: entering an era ｜ 中/低: 未用" },
+        { "word": "completion", "level": "C1", "match": ["completion"], "en": "the finishing of a task", "note": "高: invisible completion（结尾金句）｜ 中: 删 ｜ 低: doing the work" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "patronizing", "level": "C2", "match": ["patronizing"], "en": "treating someone as if they are less clever than you", "note": "高: it can quickly feel patronizing ｜ 中: looks down on you ｜ 低: 删" },
+        { "word": "passive", "level": "C1", "match": ["passive"], "en": "not acting; just receiving", "note": "高: a passive box of data ｜ 中: a box of data that does nothing ｜ 低: just a box of information" },
+        { "word": "paradigm", "level": "B2", "match": ["paradigm"], "en": "a model or pattern that shapes how things are done", "note": "原文: point-and-click UI paradigm ｜ 高: the ruling idea ｜ 中/低: 删" },
+        { "word": "dashboard", "level": "B2", "match": ["dashboard"], "en": "a screen full of controls and numbers", "note": "高: a dashboard of choices ｜ 中/低: 删" },
+        { "word": "refine", "level": "C1", "match": ["refine"], "en": "to improve something step by step", "note": "高: refine by talking ｜ 中/低: 删" },
+        { "word": "autism spectrum", "level": "C1", "match": ["autism", "spectrum"], "en": "the range of people with autism", "note": "高保留（Goblin.tools 用户群）｜ 中/低: 删" },
+        { "word": "graphical", "level": "C1", "match": ["graphical"], "en": "made of pictures and windows, not only text", "note": "高: early graphical systems ｜ 中/低: 删" },
+        { "word": "black box", "level": "C1", "match": ["black-box"], "en": "a system whose inner workings you cannot see", "note": "高: the black-box problem ｜ 中: closed-box ｜ 低: closed box" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "point-and-click", "level": "B1", "match": ["point-and-click"], "en": "using software by pointing at things and clicking", "note": "三版保留（时代名）" },
+        { "word": "pop-up", "level": "B1", "match": ["pop-up", "pop-ups"], "en": "a small window that appears over the page", "note": "三版保留" },
+        { "word": "hyper-interactive", "level": "B2", "match": ["hyper"], "en": "extremely, exhaustingly interactive", "note": "高保留 ｜ 中: made for endless clicking ｜ 低: click, and click, and click" }
+      ]
+    }
+  ]
+}

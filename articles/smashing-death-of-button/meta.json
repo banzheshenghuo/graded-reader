@@ -1,0 +1,99 @@
+{
+  "slug": "smashing-death-of-button",
+  "title": "The Death of the Button: Why the Best Interface Is No Interface",
+  "source": "Smashing Magazine",
+  "sourceUrl": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+  "author": "Carrie Webster",
+  "date": "2026-09-09",
+  "added": "2026-10-06",
+  "tags": [
+    "frontend",
+    "UX",
+    "AI"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.6,
+      "target": "<2%",
+      "desc": "A2 白话版：点按时代的烦恼与目标驱动的新设计",
+      "keyWords": [
+        {
+          "word": "slider",
+          "en": "a little control you drag left and right to set a value"
+        },
+        {
+          "word": "drag",
+          "en": "to pull something across the screen with your mouse"
+        },
+        {
+          "word": "draft",
+          "en": "a first version of a piece of writing"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-death-of-button/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 2.9,
+      "target": "2–5%",
+      "desc": "i+1 理想区，三大支柱与两大风险完整",
+      "keyWords": [
+        {
+          "word": "intent",
+          "en": "what you want to achieve; your goal"
+        },
+        {
+          "word": "interface",
+          "en": "the part of software you see and interact with"
+        },
+        {
+          "word": "filter",
+          "en": "a setting that removes results you don't want"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-death-of-button/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.3,
+      "target": "5–8%",
+      "desc": "接近原文，保留 UX 术语与论证",
+      "keyWords": [
+        {
+          "word": "intent-driven",
+          "en": "designed around what the user wants, not the clicks"
+        },
+        {
+          "word": "patronizing",
+          "en": "treating someone as if they are less clever than you"
+        },
+        {
+          "word": "black box",
+          "en": "a system whose inner workings you cannot see"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-death-of-button/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 23.4,
+      "target": "—",
+      "desc": "Smashing Magazine 原文",
+      "keyWords": [
+        {
+          "word": "paradigm",
+          "en": "a model or pattern that shapes how things are done"
+        },
+        {
+          "word": "generative UI",
+          "en": "interfaces built on the fly by AI for each request"
+        },
+        {
+          "word": "usability heuristics",
+          "en": "Nielsen's classic rules of thumb for usable design"
+        }
+      ]
+    }
+  }
+}
