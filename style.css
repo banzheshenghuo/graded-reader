@@ -182,3 +182,16 @@ details.gloss-box summary .cnt { color: var(--accent); font-weight: 500; font-si
 /* 音频播放器（meta.versions.{v}.audio 存在时渲染） */
 .audio-box { margin: 0 0 14px; }
 .audio-box audio { width: 100%; height: 40px; }
+
+/* 段后中文翻译（原生 details，默认收起） */
+details.zh { margin: -4px 0 16px; }
+details.zh summary {
+  cursor: pointer; font-size: 12px; color: var(--ink-soft); user-select: none;
+  width: fit-content; padding: 2px 0; outline: none; opacity: .75;
+}
+details.zh summary:hover { opacity: 1; }
+details.zh p {
+  font-size: 14px; line-height: 1.75; color: var(--ink-soft); margin: 6px 0 2px;
+  padding: 8px 12px; background: var(--bg); border-left: 3px solid var(--line);
+  border-radius: 0 6px 6px 0;
+}

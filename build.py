@@ -19,10 +19,15 @@ BASE = Path(__file__).resolve().parent
 ARTICLES = BASE / "articles"
 
 
-def md_to_html(md: str) -> str:
-    """极简 Markdown：段落 / ## 小标题 / > 引用，行内 **粗** *斜* `码`。"""
+def md_to_html(md: str, translations: list | None = None) -> str:
+    """极简 Markdown：段落 / ## 小标题 / > 引用，行内 **粗** *斜* `码`。
+
+    translations: 按 <p> 段落顺序的中文译文列表；存在时在每个段落后
+    插入原生 <details>（默认收起，点击展开），标题与引用块不配译。
+    """
     raw_blocks = re.split(r"\n\s*\n", md.strip())
     out = []
+    ti = 0  # 翻译数组游标（只随 <p> 段推进）
     for block in raw_blocks:
         block = block.strip()
         if not block:
@@ -35,6 +40,10 @@ def md_to_html(md: str) -> str:
             out.append("<blockquote>" + "<br>".join(lines) + "</blockquote>")
             continue
         out.append("<p>" + inline(block.replace("\n", " ")) + "</p>")
+        if translations and ti < len(translations) and translations[ti]:
+            zh = html.escape(translations[ti], quote=False)
+            out.append(f"<details class='zh'><summary>显示中文</summary><p>{zh}</p></details>")
+        ti += 1
     return "\n".join(out)
 
 
@@ -65,13 +74,15 @@ def main() -> None:
             sys.exit(f"{slug}: 缺少 {e.filename}")
 
         versions = {}
+        trans_path = d / "translations.json"
+        trans = json.loads(trans_path.read_text(encoding="utf-8")) if trans_path.exists() else {}
         for key in meta.get("versions", {}):
             md_path = d / f"{key}.md"
             if not md_path.exists():
                 sys.exit(f"{slug}: 缺少 {key}.md（meta.json 里声明了）")
             versions[key] = {
                 **meta["versions"][key],
-                "html": md_to_html(strip_h1(md_path.read_text(encoding="utf-8"))),
+                "html": md_to_html(strip_h1(md_path.read_text(encoding="utf-8")), trans.get(key)),
             }
 
         n_words = sum(len((d / f"{k}.md").read_text(encoding="utf-8").split()) for k in versions)
