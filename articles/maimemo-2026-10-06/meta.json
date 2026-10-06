@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-06",
+  "title": "The Purple App Goes Travelling",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-06",
+  "added": "2026-10-06",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 2.8,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-06/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 今日 40 词全覆盖 + 昨日 29 词复现 + 前日 12 词顺带（今日 40/40 全背完，无预习层）",
+      "keyWords": [
+        { "word": "reservation", "en": "a seat saved and paid for ahead" },
+        { "word": "aisle seat", "en": "the seat next to the walking path" },
+        { "word": "constraint", "en": "a limit that you must work inside" }
+      ]
+    }
+  }
+}
