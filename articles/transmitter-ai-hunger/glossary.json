@@ -1,0 +1,58 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "know vs care", "level": "A1", "match": ["care"], "en": "knowing = having a fact inside; caring = that fact changes what you do", "note": "全文文眼 ｜ 高/中/低: 保留 know/care 对比（均免费词）" },
+        { "word": "drive", "level": "A1", "match": ["drive", "drives"], "en": "a deep want that pushes behavior, like hunger or fear", "note": "主题词，A1 免费，三版大量使用 ｜ want/hunger drive" },
+        { "word": "hypothalamus", "level": "C1", "match": ["hypothalamus"], "en": "a tiny deep-brain area that runs wants like hunger", "note": "高/中保留（科学专名）｜ 低: a tiny area deep inside the brain" },
+        { "word": "cortex", "level": "C1", "match": ["cortex"], "en": "the brain's large outer thinking layer", "note": "高 ×3 ｜ 中: 未用术语 ｜ 低: the rest of the brain / thinking part" },
+        { "word": "neuron", "level": "C1", "match": ["neuron", "neurons"], "en": "a brain cell that carries signals", "note": "高/中保留 ｜ 低: cells" },
+        { "word": "cognitive", "level": "C1", "match": ["cognitive"], "en": "about thinking and the mind", "note": "高 ×2 ｜ 中/低: thinking" },
+        { "word": "leverage", "level": "C1", "match": ["leverage"], "en": "the power to influence and steer something", "note": "高: retains leverage over knowing ｜ 中: keeps leverage ｜ 低: in charge of" },
+        { "word": "incident", "level": "B2", "match": ["incident"], "en": "something bad or unexpected that happens", "note": "高/中保留（Hugging Face 事件）｜ 低: story" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "hunger", "level": "B2", "match": ["hunger"], "en": "the feeling that makes you want to eat", "note": "标题词，三版保留（hungry 免费可多用）" },
+        { "word": "evolution", "level": "B2", "match": ["evolution", "evolve", "evolved"], "en": "the slow change of living things over generations", "note": "高/中保留 ｜ 低: grew in the opposite order" },
+        { "word": "cybersecurity", "level": "B2", "match": ["cybersecurity"], "en": "protection of computers and networks", "note": "高保留 ｜ 中/低: safety test" },
+        { "word": "infrastructure", "level": "B2", "match": ["infrastructure"], "en": "the basic systems a service runs on", "note": "引语原词，高/中保留 ｜ 低: cause real damage" },
+        { "word": "breach", "level": "C1", "match": ["breach"], "en": "to break through a barrier", "note": "高: breached their isolation ｜ 中: broke out ｜ 低: broke out" },
+        { "word": "isolation", "level": "C1", "match": ["isolation"], "en": "being completely separated from others", "note": "高: sealed...isolation ｜ 中: locked in its own environment ｜ 低: alone in its own box" },
+        { "word": "trillion", "level": "B2", "match": ["trillion"], "en": "the number 1,000,000,000,000", "note": "高/中: trillion-dollar industry ｜ 低: 未提" },
+        { "word": "reward", "level": "B2", "match": ["reward"], "en": "to give something good in return for behavior", "note": "高: rewards helpful behavior ｜ 中: pushes it to be helpful ｜ 低: teaches it to be good" },
+        { "word": "prompt", "level": "B2", "match": ["prompt"], "en": "the instruction you type to an AI", "note": "高: a strong prompt can strip it off ｜ 中: a clever request ｜ 低: a clever request" },
+        { "word": "strip", "level": "B2", "match": ["strip"], "en": "to remove something completely", "note": "高: strip the safety off ｜ 中/低: pull it away" },
+        { "word": "steer", "level": "B2", "match": ["steer"], "en": "to guide something in a direction", "note": "高/中保留 ｜ 低: leads" },
+        { "word": "survival", "level": "B2", "match": ["survival"], "en": "staying alive", "note": "高/中: override her own survival ｜ 低: 未提" },
+        { "word": "greedy", "level": "B2", "match": ["greedy"], "en": "always wanting more", "note": "高: ambitious or greedy ｜ 中: wanting more and more ｜ 低: only want more and more" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "voraciously", "level": "超罕见", "match": ["voraciously"], "en": "eating a huge amount, wildly", "note": "高: eat voraciously ｜ 中: eat nonstop ｜ 低: eat and eat" },
+        { "word": "misbehave", "level": "B2", "match": ["misbehaved"], "en": "to behave badly", "note": "高: the agents misbehaved ｜ 中: did wrong ｜ 低: 未用" },
+        { "word": "pry", "level": "C1", "match": ["pry"], "en": "to force something apart", "note": "高: pry the two apart ｜ 中: comes off ｜ 低: pulled off" },
+        { "word": "genome", "level": "C1", "match": ["genome"], "en": "the full set of genes of a living thing", "note": "高: fixed by the genome ｜ 中/低: 未提" },
+        { "word": "prosocial", "level": "C1", "match": ["prosocial"], "en": "intended to help others", "note": "高: for prosocial ends（母亲护幼例）｜ 低/中: a kind use" },
+        { "word": "override", "level": "C1", "match": ["override"], "en": "to overrule; be stronger than", "note": "高: override even her own survival ｜ 中: stronger even than ｜ 低: 未提" },
+        { "word": "architectural", "level": "C1", "match": ["architectural"], "en": "about the overall design of a system", "note": "高: the architectural principle ｜ 中: the design rule ｜ 低: the design" },
+        { "word": "wiring", "level": "B2", "match": ["wiring"], "en": "the connected circuits of a system", "note": "高: drive wiring mostly set by the genome ｜ 低/中: 未提" },
+        { "word": "cherry on the cake", "level": "B2", "match": ["cherry"], "en": "a nice final addition on top of something already good", "note": "高保留比喻 ｜ 中: a sweet on top of the cake ｜ 低: a hat placed on top" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "finishing school", "level": "B1", "match": ["finishing"], "en": "a school teaching social polish (here: AI's final politeness training)", "note": "高/中保留比喻 ｜ 低: a final round of training" },
+        { "word": "take a page from", "level": "B1", "match": ["take a page"], "en": "to copy an idea from", "note": "高: take a page from evolution ｜ 低/中: learn from / copy" },
+        { "word": "set the terms", "level": "B1", "match": ["set the terms"], "en": "to decide the conditions others must follow", "note": "高/中保留 ｜ 低: the wants always win in the end" },
+        { "word": "blurred together", "level": "B2", "match": ["mixed"], "en": "mixed so they are hard to tell apart", "note": "高原文 blurred ｜ 高版改 mixed together ｜ 低/中: two separate questions" }
+      ]
+    }
+  ]
+}

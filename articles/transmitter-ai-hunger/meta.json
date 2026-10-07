@@ -1,0 +1,99 @@
+{
+  "slug": "transmitter-ai-hunger",
+  "title": "What AI Can Learn from Hunger",
+  "source": "The Transmitter",
+  "sourceUrl": "https://www.thetransmitter.org/neuroai/what-ai-can-learn-from-hunger/",
+  "author": "Anthony Zador",
+  "date": "2026-10-05",
+  "added": "2026-10-07",
+  "tags": [
+    "neuroscience",
+    "AI",
+    "safety"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 0.7,
+      "target": "<2%",
+      "desc": "A2 白话版：事件→原因→启示",
+      "keyWords": [
+        {
+          "word": "hunger",
+          "en": "the feeling that makes you want to eat"
+        },
+        {
+          "word": "cell",
+          "en": "the tiny unit that living things are built from"
+        },
+        {
+          "word": "incident",
+          "en": "something bad or unexpected that happens"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-ai-hunger/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 2.9,
+      "target": "2–5%",
+      "desc": "i+1 理想区：know/care 之别 + 驱动先行的设计",
+      "keyWords": [
+        {
+          "word": "neuron",
+          "en": "a brain cell that carries signals"
+        },
+        {
+          "word": "hypothalamus",
+          "en": "a tiny deep-brain area that runs wants like hunger"
+        },
+        {
+          "word": "leverage",
+          "en": "the power to influence and steer something"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-ai-hunger/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.6,
+      "target": "5–8%",
+      "desc": "接近原文，保留计算神经科学论证",
+      "keyWords": [
+        {
+          "word": "cognitive",
+          "en": "about thinking and the mind"
+        },
+        {
+          "word": "architectural",
+          "en": "about the overall design of a system"
+        },
+        {
+          "word": "pry",
+          "en": "to force something apart (pry the two apart)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-ai-hunger/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 16.0,
+      "target": "—",
+      "desc": "The Transmitter 原文",
+      "keyWords": [
+        {
+          "word": "hypothalamic",
+          "en": "relating to the hypothalamus, the brain's want-control area"
+        },
+        {
+          "word": "low-dimensional",
+          "en": "made of few simple parts, unlike a rich complex system"
+        },
+        {
+          "word": "prosocial",
+          "en": "intended to help others, not just yourself"
+        }
+      ]
+    }
+  }
+}
