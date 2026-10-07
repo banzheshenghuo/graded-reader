@@ -51,6 +51,22 @@ body {
 .site-header .home:hover { color: var(--accent); }
 a { color: var(--accent); }
 
+/* ---------- index 分类小标题 ---------- */
+.sec-head {
+  display: flex; align-items: baseline; gap: 8px;
+  margin: 32px 0 4px; padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+main .sec-head:first-child { margin-top: 12px; }
+.sec-head h2 {
+  margin: 0; font-size: 15px; font-weight: 600; letter-spacing: .5px;
+  display: flex; align-items: center; gap: 7px;
+}
+.sec-head h2::before { content: ""; width: 8px; height: 8px; border-radius: 50%; }
+.sec-head.sec-maimemo h2::before { background: var(--accent); }
+.sec-head.sec-news h2::before { background: var(--lv-low); }
+.sec-head .cnt { color: var(--ink-soft); font-size: 12.5px; }
+
 /* ---------- index cards ---------- */
 .card {
   display: block; margin: 16px 0; padding: 18px 20px;

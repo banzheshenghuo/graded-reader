@@ -13,6 +13,16 @@
 
   const VERSION_ORDER = ["low", "mid", "high", "original"];
 
+  /* 分类与顺序：墨墨词表定制单独一组，其余归入新闻；两组各自按时间倒序 */
+  const isMaimemo = a => (a.tags || []).includes("maimemo");
+  const byDateDesc = (x, y) =>
+    String(y.date || y.added || "").localeCompare(String(x.date || x.added || ""));
+  const ORDERED = [...D.articles].sort(byDateDesc); // 首页分组与上一篇/下一篇共用
+  const GROUPS = [
+    { key: "maimemo", name: "墨墨单词", test: isMaimemo },
+    { key: "news", name: "新闻", test: a => !isMaimemo(a) },
+  ];
+
   /* ================= index ================= */
   function renderIndex() {
     const main = $("#article-list");
@@ -21,19 +31,29 @@
       return;
     }
     main.innerHTML = "";
-    D.articles.forEach(a => {
-      const last = store.get("gr:last:" + a.slug, null);
-      const card = document.createElement("a");
-      card.className = "card";
-      card.href = "article.html?slug=" + encodeURIComponent(a.slug);
-      card.innerHTML =
-        "<h2>" + esc(a.title) + "</h2>" +
-        "<p class='meta'>" + esc([a.source, a.author].filter(Boolean).join(" · ")) +
-        (a.date ? " · " + esc(a.date) : "") + "</p>" +
-        "<p class='badges'>" + versionBadges(a) + "</p>" +
-        (last ? "<p class='resume'>继续读 → " + esc(last.label) + "</p>" : "");
-      main.appendChild(card);
+    GROUPS.forEach(g => {
+      const list = ORDERED.filter(g.test);
+      if (!list.length) return;
+      const head = document.createElement("div");
+      head.className = "sec-head sec-" + g.key;
+      head.innerHTML = "<h2>" + esc(g.name) + "</h2><span class='cnt'>" + list.length + " 篇</span>";
+      main.appendChild(head);
+      list.forEach(a => main.appendChild(cardFor(a)));
     });
+  }
+
+  function cardFor(a) {
+    const last = store.get("gr:last:" + a.slug, null);
+    const card = document.createElement("a");
+    card.className = "card";
+    card.href = "article.html?slug=" + encodeURIComponent(a.slug);
+    card.innerHTML =
+      "<h2>" + esc(a.title) + "</h2>" +
+      "<p class='meta'>" + esc([a.source, a.author].filter(Boolean).join(" · ")) +
+      (a.date ? " · " + esc(a.date) : "") + "</p>" +
+      "<p class='badges'>" + versionBadges(a) + "</p>" +
+      (last ? "<p class='resume'>继续读 → " + esc(last.label) + "</p>" : "");
+    return card;
   }
 
   function versionBadges(a) {
@@ -302,8 +322,8 @@
 
   /* ---------- pager ---------- */
   function pager(a, versions) {
-    const idx = D.articles.indexOf(a);
-    const prev = D.articles[idx - 1], next = D.articles[idx + 1];
+    const idx = ORDERED.indexOf(a);
+    const prev = ORDERED[idx - 1], next = ORDERED[idx + 1];
     return "<div class='pager'>" +
       (prev ? "<a href='article.html?slug=" + encodeURIComponent(prev.slug) + "'>← 上一篇<b>" + esc(prev.title) + "</b></a>" : "<span></span>") +
       (next ? "<a href='article.html?slug=" + encodeURIComponent(next.slug) + "'>下一篇 →<b>" + esc(next.title) + "</b></a>" : "<span></span>") +
