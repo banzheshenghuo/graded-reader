@@ -1,0 +1,142 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING，文中出现 2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "售票员/公车乘客 ×2", "en": "a person who does office work, like letters and records" },
+        { "word": "chase", "level": "B2", "match": ["chased", "chasing"], "note": "猴子互追 + Bobby 梦里追鸽子", "en": "to run after something" },
+        { "word": "sink", "level": "A2", "match": ["sink"], "note": "水槽原谅一切", "en": "the place where you wash dishes" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "en": "the cold box where food is kept" },
+        { "word": "unfortunately", "level": "B1", "match": ["Unfortunately", "unfortunately"], "en": "it is sad that..." },
+        { "word": "moreover", "level": "B2", "match": ["Moreover", "moreover"], "en": "also; used to add information" },
+        { "word": "repository", "level": "C1", "match": ["repository"], "en": "a place where code is stored and shared" },
+        { "word": "swing", "level": "A2", "match": ["swings"], "note": "她还太小，秋千在等她", "en": "the seat that moves back and forward" },
+        { "word": "wave", "level": "A2", "match": ["waved", "wave"], "note": "猴子挥手，宝宝挥手", "en": "to move the hand to say hello" },
+        { "word": "protocol", "level": "C1", "match": ["protocol"], "note": "动物园投喂规程 / 夜间流程已成历史", "en": "a set of rules that people or machines follow" },
+        { "word": "instruments", "level": "A2", "match": ["instruments"], "note": "音乐会四件乐器 ×2", "en": "tools for making music" },
+        { "word": "prescription", "level": "C1", "match": ["prescription"], "note": "晚间三步曲：奶瓶、洗澡、睡觉", "en": "a doctor's paper for medicine" },
+        { "word": "fare", "level": "B1", "match": ["fare"], "note": "车费又涨了 ×2", "en": "the money you pay to ride a bus" },
+        { "word": "tune", "level": "B1", "match": ["tune"], "en": "a short piece of music" }
+      ]
+    },
+    {
+      "group": "今日所学 · 10-08（已背 15/40）",
+      "words": [
+        { "word": "dependency", "level": "B2", "match": ["dependency"], "note": "核心依赖死去，fork 之", "en": "the code your project needs from others" },
+        { "word": "compile", "level": "C1", "match": ["compiled"], "en": "to turn code into a running program" },
+        { "word": "concert", "level": "B1", "match": ["concert"], "en": "music played live for people" },
+        { "word": "batch", "level": "B2", "match": ["batches"], "en": "a group of things done together" },
+        { "word": "reservation", "level": "B2", "match": ["reservation"], "en": "a booking made ahead" },
+        { "word": "several", "level": "A2", "match": ["several"], "en": "more than two but not many" },
+        { "word": "constraint", "level": "C1", "match": ["constraint"], "en": "a limit that you must work inside" },
+        { "word": "implicit", "level": "C1", "match": ["implicit"], "en": "understood without being said" },
+        { "word": "trade-off", "level": "B1", "match": ["trade-off"], "en": "giving up one good thing to get another" },
+        { "word": "theory", "level": "B1", "match": ["theory"], "note": "同月同乐理论 / 小代码理论", "en": "an idea that explains how something works" },
+        { "word": "architecture", "level": "A2", "match": ["architecture"], "en": "the design structure of a system" },
+        { "word": "transformer", "level": "B2", "match": ["transformer"], "note": "神经网络让老照片动起来", "en": "a neural network that understands data" },
+        { "word": "broken", "level": "A1", "match": ["broken"], "note": "电梯坏的一周", "en": "not working; in pieces" },
+        { "word": "sign", "level": "A1", "match": ["sign", "signed"], "note": "请安静的告示 / 签名发布", "en": "a board with words on it; to write your name" }
+      ]
+    },
+    {
+      "group": "昨日复现 · 10-06/07",
+      "words": [
+        { "word": "hotel", "level": "A2", "match": ["hotel"], "en": "a place you pay to sleep when travelling" },
+        { "word": "balcony", "level": "B1", "match": ["balcony"], "en": "the small outside floor of a room" },
+        { "word": "gate", "level": "A2", "match": ["gate"], "en": "the door of a park or zoo" },
+        { "word": "approach", "level": "B1", "match": ["approached"], "en": "to come near" },
+        { "word": "guidebook", "level": "B2", "match": ["guidebook"], "en": "the book that explains a place" },
+        { "word": "swallow", "level": "B2", "match": ["swallowed"], "en": "to make food go down your throat" },
+        { "word": "reserve", "level": "B1", "match": ["reserved"], "note": "乐队为家庭预留了前排草地", "en": "to keep something for someone" },
+        { "word": "wipe", "level": "B1", "match": ["wiped"], "en": "to clean with a cloth" },
+        { "word": "field", "level": "A2", "match": ["field"], "en": "open grass land" },
+        { "word": "route", "level": "A2", "match": ["route"], "en": "the path you travel" },
+        { "word": "robust", "level": "B2", "match": ["robust"], "en": "strong and hard to break" },
+        { "word": "decrypt", "level": "C2", "match": ["decrypted"], "en": "to turn locked data back into words" },
+        { "word": "efficient", "level": "B2", "match": ["efficient"], "en": "working well without waste" },
+        { "word": "cluster", "level": "C1", "match": ["cluster"], "en": "a group of servers working together" },
+        { "word": "deploy", "level": "C1", "match": ["deployed"], "en": "to put software where people use it" },
+        { "word": "quantity", "level": "A2", "match": ["quantity"], "en": "how much of something there is" },
+        { "word": "authentication", "level": "C1", "match": ["Authentication"], "en": "proving who you are" },
+        { "word": "specification", "level": "C1", "match": ["specification"], "en": "a written plan of what to build" },
+        { "word": "spare", "level": "B2", "match": ["spare"], "en": "an extra one" },
+        { "word": "credential", "level": "C2", "match": ["credentials"], "en": "the keys that prove who you are" },
+        { "word": "suitcase", "level": "A2", "match": ["suitcase"], "en": "the bag you travel with" },
+        { "word": "understand", "level": "A1", "match": ["understands", "understand"], "en": "to know what something means" },
+        { "word": "represent sth.", "level": "B1", "match": ["represent"], "note": "四件乐器代表整个理念", "en": "to stand for something bigger" },
+        { "word": "aisle seat", "level": "C1", "match": ["aisle seat"], "en": "the seat next to the walking path" },
+        { "word": "newsletter", "level": "B2", "match": ["newsletter"], "en": "a letter that comes on a schedule" },
+        { "word": "vector", "level": "B2", "match": ["vector"], "note": "护士说列表像数学家说向量", "en": "a list of numbers; an arrow" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "en": "a lesson that shows you, step by step" },
+        { "word": "requirement", "level": "B1", "match": ["requirement"], "en": "what a task asks you to do" },
+        { "word": "intelligence", "level": "B2", "match": ["intelligence"], "note": "兔子假装思考的智慧", "en": "the ability to learn and understand" },
+        { "word": "link", "level": "A1", "match": ["link"], "en": "one ring in a chain" },
+        { "word": "luggage", "level": "B1", "match": ["luggage"], "en": "the bags you travel with" },
+        { "word": "window", "level": "A1", "match": ["window"], "en": "the glass you look through" },
+        { "word": "extra cost", "level": "A2", "match": ["extra cost"], "en": "money you did not plan to spend" },
+        { "word": "fund", "level": "B1", "match": ["fund"], "en": "money kept for a purpose" },
+        { "word": "pants", "level": "A2", "match": ["pants"], "en": "clothing for your legs" }
+      ]
+    },
+    {
+      "group": "前日顺带 · 10-05（部分命中）",
+      "words": [
+        { "word": "rabbit", "level": "A2", "match": ["rabbit"], "en": "the animal with long ears" },
+        { "word": "museum", "level": "B1", "match": ["museum"], "note": "像打量博物馆展品", "en": "the house where old things tell stories" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "什么都不想本身就是药", "en": "what you take to feel better" },
+        { "word": "cough", "level": "B2", "match": ["coughed"], "en": "to push air out of the throat" },
+        { "word": "phone", "level": "A1", "match": ["phones", "phone"], "en": "the small machine in your pocket" },
+        { "word": "up", "level": "A1", "match": ["up"], "en": "toward the sky" },
+        { "word": "feed sb.", "level": "A1", "match": ["fed"], "en": "to give food to someone" },
+        { "word": "chew", "level": "B2", "match": ["chewed"], "en": "to break food with your teeth" },
+        { "word": "sorry", "level": "A1", "match": ["SORRY", "sorry"], "note": "电梯道歉启事", "en": "the word for small accidents" }
+      ]
+    },
+    {
+      "group": "明日预习 · 今晚先见（今日未背 25 词中的 19 个）",
+      "words": [
+        { "word": "lion", "level": "A1", "match": ["lions"], "en": "the big cat that sleeps like a king" },
+        { "word": "monkey", "level": "A1", "match": ["monkeys"], "en": "the animal that waves at babies" },
+        { "word": "sunburn", "level": "B2", "match": ["sunburn", "sunburned"], "note": "忘带帽子的代价", "en": "skin hurt by too much sun" },
+        { "word": "elevator", "level": "A2", "match": ["elevator"], "note": "坏了一整周的主角", "en": "the small room that goes up and down" },
+        { "word": "madam", "level": "A2", "match": ["Madam"], "en": "a polite word for a woman" },
+        { "word": "yogurt", "level": "A2", "match": ["yogurt"], "en": "the soft cold milk food" },
+        { "word": "socks", "level": "A1", "match": ["socks"], "en": "the small clothes for feet" },
+        { "word": "delicious", "level": "A2", "match": ["Delicious"], "en": "very good to eat" },
+        { "word": "wash", "level": "A1", "match": ["washed", "wash"], "en": "to clean with water" },
+        { "word": "buy", "level": "A1", "match": ["bought"], "en": "to get with money" },
+        { "word": "tired", "level": "A1", "match": ["tired"], "en": "needing rest" },
+        { "word": "rate", "level": "B1", "match": ["rate"], "note": "动物园物价是一门科学", "en": "the price per thing or hour" },
+        { "word": "fork", "level": "C1", "match": ["fork"], "note": "亲手扛起一个死去的依赖", "en": "to copy a project and carry it yourself" },
+        { "word": "dependency", "level": "B2", "match": ["dependency"], "en": "the code your project needs from others" },
+        { "word": "framework", "level": "B2", "match": ["framework"], "en": "the base structure of code" },
+        { "word": "workflow", "level": "B2", "match": ["workflow"], "en": "the path work travels" },
+        { "word": "layout", "level": "B2", "match": ["layout"], "en": "how parts are placed" },
+        { "word": "neural", "level": "B2", "match": ["neural"], "en": "of the brain or its machine copies" },
+        { "word": "commit oneself", "level": "B2", "match": ["committed myself"], "note": "committed myself to the fork", "en": "to promise yourself to something" }
+      ]
+    },
+    {
+      "group": "计划外生词 · 顺带认识",
+      "words": [
+        { "word": "zoo", "level": "A1", "match": ["zoo"], "en": "the park where animals live" },
+        { "word": "blanket", "level": "B1", "match": ["blankets"], "en": "the warm cloth you sit or sleep on" },
+        { "word": "feeding", "level": "B2", "match": ["feeding"], "en": "giving food to animals" },
+        { "word": "noon", "level": "C1", "match": ["noon"], "en": "twelve o'clock in the day" },
+        { "word": "clap", "level": "A1", "match": ["clapped"], "en": "to hit your hands together" },
+        { "word": "pigeon", "level": "B2", "match": ["pigeons"], "en": "the gray city bird" },
+        { "word": "log", "level": "C1", "match": ["logs"], "en": "the recorded history of a program" },
+        { "word": "forgive", "level": "B2", "match": ["forgives"], "note": "水槽原谅一切", "en": "to let go of a small wrong" },
+        { "word": "budget", "level": "B1", "match": ["budget"], "en": "the money plan" },
+        { "word": "pill", "level": "B2", "match": ["pill"], "en": "a small piece of medicine" },
+        { "word": "approve", "level": "B2", "match": ["approved"], "en": "to say yes officially" },
+        { "word": "server", "level": "B2", "match": ["servers"], "en": "the computer that serves many phones" },
+        { "word": "signature", "level": "B2", "match": ["signature"], "note": "签名即代码世界的认可", "en": "your name written by hand; a sign of approval" },
+        { "word": "somehow", "level": "B1", "match": ["somehow"], "en": "in a way nobody can explain" },
+        { "word": "softly", "level": "B2", "match": ["softly"], "en": "in a gentle way" },
+        { "word": "grandpa", "level": "B2", "match": ["Grandpa"], "en": "the father of your mother or father" },
+        { "word": "mathematician", "level": "C1", "match": ["mathematicians"], "en": "a person who studies numbers" }
+      ]
+    }
+  ]
+}
