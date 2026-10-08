@@ -44,28 +44,29 @@ body {
 .wrap { max-width: 680px; margin: 0 auto; padding: 0 20px 80px; }
 
 /* ---------- header ---------- */
-.site-header { padding: 28px 20px 8px; max-width: 680px; margin: 0 auto; }
+.site-header {
+  padding: 28px 20px 8px; max-width: 680px; margin: 0 auto;
+  display: flex; align-items: flex-start; justify-content: space-between;
+  gap: 12px; flex-wrap: wrap;
+}
 .site-header h1 { margin: 0; font-size: 22px; letter-spacing: .3px; }
 .site-header .sub { margin: 6px 0 0; color: var(--ink-soft); font-size: 14px; }
 .site-header .home { color: var(--ink-soft); text-decoration: none; font-size: 14px; }
 .site-header .home:hover { color: var(--accent); }
-a { color: var(--accent); }
 
-/* ---------- index 分类小标题 ---------- */
-.sec-head {
-  display: flex; align-items: baseline; gap: 8px;
-  margin: 32px 0 4px; padding-bottom: 8px;
-  border-bottom: 1px solid var(--line);
+/* header 右上角分组 tab（index 页） */
+.group-tabs { display: flex; gap: 6px; padding-top: 3px; flex: 0 0 auto; }
+.gtab {
+  padding: 5px 13px; border-radius: 999px; cursor: pointer; font-size: 13.5px;
+  border: 1px solid var(--line); background: var(--bg-card); color: var(--ink-soft);
+  transition: border-color .15s, color .15s;
 }
-main .sec-head:first-child { margin-top: 12px; }
-.sec-head h2 {
-  margin: 0; font-size: 15px; font-weight: 600; letter-spacing: .5px;
-  display: flex; align-items: center; gap: 7px;
-}
-.sec-head h2::before { content: ""; width: 8px; height: 8px; border-radius: 50%; }
-.sec-head.sec-maimemo h2::before { background: var(--accent); }
-.sec-head.sec-news h2::before { background: var(--lv-low); }
-.sec-head .cnt { color: var(--ink-soft); font-size: 12.5px; }
+.gtab:hover { border-color: var(--accent); color: var(--accent); }
+.gtab .n { font-size: 11px; opacity: .7; margin-left: 4px; }
+.gtab.active[data-group="maimemo"] { background: var(--accent); border-color: var(--accent); color: var(--bg-card); }
+.gtab.active[data-group="news"] { background: var(--lv-low); border-color: var(--lv-low); color: var(--bg-card); }
+.gtab.active { pointer-events: none; }
+a { color: var(--accent); }
 
 /* ---------- index cards ---------- */
 .card {

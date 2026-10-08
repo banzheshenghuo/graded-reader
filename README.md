@@ -39,8 +39,8 @@ articles/
 
 然后 `python3 build.py` 重新生成 data.js，push 即上线。
 
-首页按 tags 里的 `maimemo` 分成「墨墨单词」「新闻」两组各自展示，组内按 `date`
-（缺省回退 `added`）倒序；上一篇/下一篇也走同一顺序。
+首页按 tags 里的 `maimemo` 分「墨墨单词」「新闻」两组，右上角 tab 切换（选择记在
+localStorage），组内按 `date`（缺省回退 `added`）倒序；上一篇/下一篇只在本组内走。
 
 内容生产管线在 `eng-news-learner`（workspace）：重写 → `grader.py` 验收密度 → 达标后把
 四个 md 拷进来。glossary.json 参照现有文章的格式，`match` 字段列出要在正文里高亮的词形。

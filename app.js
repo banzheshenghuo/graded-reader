@@ -31,15 +31,45 @@
       return;
     }
     main.innerHTML = "";
+    const panels = {};
     GROUPS.forEach(g => {
       const list = ORDERED.filter(g.test);
       if (!list.length) return;
-      const head = document.createElement("div");
-      head.className = "sec-head sec-" + g.key;
-      head.innerHTML = "<h2>" + esc(g.name) + "</h2><span class='cnt'>" + list.length + " 篇</span>";
-      main.appendChild(head);
-      list.forEach(a => main.appendChild(cardFor(a)));
+      const panel = document.createElement("div");
+      panel.className = "group-panel";
+      panel.dataset.group = g.key;
+      list.forEach(a => panel.appendChild(cardFor(a)));
+      main.appendChild(panel);
+      panels[g.key] = panel;
     });
+
+    const nav = $("#group-tabs");
+    if (!nav) return;
+    const saved = store.get("gr:tab", null);
+    const active0 = GROUPS.find(g => g.key === saved && panels[g.key]) ||
+      GROUPS.find(g => panels[g.key]);
+    let active = active0.key;
+    nav.innerHTML = "";
+    GROUPS.forEach(g => {
+      if (!panels[g.key]) return;
+      const b = document.createElement("button");
+      b.className = "gtab";
+      b.dataset.group = g.key;
+      b.innerHTML = esc(g.name) + "<span class='n'>" + ORDERED.filter(g.test).length + "</span>";
+      b.addEventListener("click", () => {
+        active = g.key;
+        store.set("gr:tab", g.key);
+        syncTabs();
+      });
+      nav.appendChild(b);
+    });
+    function syncTabs() {
+      nav.querySelectorAll(".gtab").forEach(b =>
+        b.classList.toggle("active", b.dataset.group === active));
+      Object.keys(panels).forEach(k =>
+        panels[k].style.display = (k === active) ? "" : "none");
+    }
+    syncTabs();
   }
 
   function cardFor(a) {
@@ -322,8 +352,10 @@
 
   /* ---------- pager ---------- */
   function pager(a, versions) {
-    const idx = ORDERED.indexOf(a);
-    const prev = ORDERED[idx - 1], next = ORDERED[idx + 1];
+    const g = GROUPS.find(x => x.test(a)); // 翻页只在本组内走
+    const list = g ? ORDERED.filter(g.test) : ORDERED;
+    const idx = list.indexOf(a);
+    const prev = list[idx - 1], next = list[idx + 1];
     return "<div class='pager'>" +
       (prev ? "<a href='article.html?slug=" + encodeURIComponent(prev.slug) + "'>← 上一篇<b>" + esc(prev.title) + "</b></a>" : "<span></span>") +
       (next ? "<a href='article.html?slug=" + encodeURIComponent(next.slug) + "'>下一篇 →<b>" + esc(next.title) + "</b></a>" : "<span></span>") +
