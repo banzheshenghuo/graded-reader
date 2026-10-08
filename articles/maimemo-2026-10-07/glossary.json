@@ -1,0 +1,130 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING，文中出现 2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "en": "a person who does office work, like letters and records" },
+        { "word": "chase", "level": "B2", "match": ["chase", "chased"], "en": "to run after something" },
+        { "word": "sink", "level": "A2", "match": ["sink"], "note": "酒店厨房水池堆奶瓶，和家里一模一样", "en": "the place where you wash dishes" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "像第三位老朋友一样嗡嗡响", "en": "the cold box where food is kept" },
+        { "word": "unfortunately", "level": "B1", "match": ["Unfortunately", "unfortunately"], "en": "it is sad that..." },
+        { "word": "moreover", "level": "B2", "match": ["Moreover", "moreover"], "en": "also; used to add information" },
+        { "word": "repository", "level": "C1", "match": ["repository"], "en": "a place where code is stored and shared" },
+        { "word": "swing", "level": "A2", "match": ["swing"], "note": "宝宝第二次荡秋千，已经是行家了", "en": "a seat that hangs and moves back and forth" },
+        { "word": "wave", "level": "A2", "match": ["waves", "waved", "wave"], "note": "海浪的 wave 和挥手的 wave 是同一个词", "en": "moving water on the sea; to move your hand to say hello" },
+        { "word": "protocol", "level": "B2", "match": ["protocol"], "note": "酒店的 protocol：七点咖啡、十点安静", "en": "a set of rules everyone follows" },
+        { "word": "instruments", "level": "B1", "match": ["instruments"], "note": "酒店钢琴是爷爷乐器们的姊妹", "en": "things that make music, like pianos" },
+        { "word": "prescription", "level": "B2", "match": ["prescription"], "en": "a doctor's paper that lets you get medicine" },
+        { "word": "fare", "level": "B1", "match": ["fare"], "note": " unfortunately, the fare had grown again", "en": "the money you pay to travel" },
+        { "word": "tune", "level": "B1", "match": ["tune"], "note": "舞厅老曲子，Mrs. Bell 一听就认出来了", "en": "a short piece of music" }
+      ]
+    },
+    {
+      "group": "当日 10-07 已背（39 词全覆盖）",
+      "words": [
+        { "word": "hotel", "level": "A1", "match": ["hotel"], "en": "a place where you pay to sleep when away" },
+        { "word": "balcony", "level": "B2", "match": ["balcony"], "note": "10-07 标记 FORGET，重点感受", "en": "a small outside platform up on a wall" },
+        { "word": "swallow", "level": "B2", "match": ["swallow"], "note": "10-07 标记 FORGET；文中是燕子", "en": "a small fast bird; also: to make food go down" },
+        { "word": "approach", "level": "B1", "match": ["approached"], "note": "10-07 标记 FORGET", "en": "to come near" },
+        { "word": "pants", "level": "A1", "match": ["pants"], "en": "clothes you wear on your legs" },
+        { "word": "route", "level": "B1", "match": ["route"], "en": "the way from one place to another" },
+        { "word": "gate", "level": "A1", "match": ["gate"], "en": "a door in a wall or fence" },
+        { "word": "robust", "level": "B2", "match": ["robust"], "note": "salt, small staff, old machines — it is robust", "en": "strong; it keeps working in hard times" },
+        { "word": "reserve", "level": "B1", "match": ["reservation"], "en": "to keep something for later use" },
+        { "word": "decrypt", "level": "C2", "match": ["decrypted"], "note": "解开了 1998 年的旧账本", "en": "to turn locked data back into readable words" },
+        { "word": "efficient", "level": "B2", "match": ["efficient"], "en": "working well without waste" },
+        { "word": "wipe", "level": "A2", "match": ["wiped", "wipes"], "en": "to clean with a cloth" },
+        { "word": "field", "level": "A1", "match": ["fields"], "en": "open land with grass; also your work area" },
+        { "word": "cluster", "level": "C1", "match": ["cluster"], "note": "前台后头那三台老机器", "en": "a group of things close together" },
+        { "word": "deploy", "level": "C1", "match": ["deploy"], "en": "to set up software so people can use it" },
+        { "word": "quantity", "level": "B1", "match": ["Quantity"], "note": "Quantity of talent: almost none. Quality of the evening: complete.", "en": "how much of something there is" },
+        { "word": "authentication", "level": "C1", "match": ["authentication"], "en": "proving who you are before you log in" },
+        { "word": "specification", "level": "B2", "match": ["specification"], "en": "the exact written plan for how something works" },
+        { "word": "spare", "level": "B1", "match": ["spare"], "en": "extra, kept in case you need it" },
+        { "word": "credential", "level": "C1", "match": ["credentials"], "note": "keys should fit old hands", "en": "the name and secret that let you log in" },
+        { "word": "suitcase", "level": "A2", "match": ["suitcase"], "en": "a bag you carry clothes in when you travel" },
+        { "word": "understand", "level": "A1", "match": ["understood", "understands"], "en": "to know what something means" },
+        { "word": "represent sth.", "level": "B1", "match": ["represents"], "note": "那支曲子 represents the whole coast", "en": "to stand for something; to be a sign of it" },
+        { "word": "aisle seat", "level": "B1", "match": ["aisle seat"], "note": "逃生通道，家庭出行必备", "en": "the seat next to the walking path" },
+        { "word": "newsletter", "level": "B2", "match": ["newsletter"], "en": "a short paper or email sent to readers" },
+        { "word": "vector", "level": "C1", "match": ["vectors"], "note": "词向量地图：friend 和 warm 是邻居", "en": "an arrow with size and direction" },
+        { "word": "tutorial", "level": "B2", "match": ["tutorial"], "en": "a short lesson that shows you how to do something" },
+        { "word": "requirement", "level": "B1", "match": ["requirement"], "en": "a thing that is needed" },
+        { "word": "intelligence", "level": "B1", "match": ["intelligence"], "en": "the ability to learn and understand" },
+        { "word": "sign", "level": "A1", "match": ["signed", "sign"], "en": "to write your name on a paper to make it true" },
+        { "word": "guidebook", "level": "B2", "match": ["guidebook"], "en": "a small book for travelers" },
+        { "word": "link", "level": "A2", "match": ["link"], "en": "a connection; a place you click" },
+        { "word": "luggage", "level": "A2", "match": ["luggage"], "en": "all the bags you travel with" },
+        { "word": "window", "level": "A1", "match": ["window"], "en": "glass you look through" },
+        { "word": "extra cost", "level": "A2", "match": ["extra cost"], "note": "婴儿床的 extra cost 被 Mrs. Bell 悄悄划掉了", "en": "money you must pay more than the base price" },
+        { "word": "fund", "level": "B1", "match": ["fund"], "en": "money kept for a purpose" }
+      ]
+    },
+    {
+      "group": "昨日 10-06 复现（20 词全覆盖）",
+      "words": [
+        { "word": "router", "level": "B2", "match": ["router"], "note": "和 grandma 家同款老毛病", "en": "the box that sends internet through a house" },
+        { "word": "museum", "level": "A1", "match": ["museum"], "en": "a building full of old things to look at" },
+        { "word": "quality", "level": "A2", "match": ["Quality"], "en": "how good something is" },
+        { "word": "baggage", "level": "B1", "match": ["baggage"], "note": "The baggage was, again, a science.", "en": "all the bags you travel with" },
+        { "word": "one-way", "level": "B1", "match": ["one-way"], "note": "这次不是 one-way 了", "en": "going only; not coming back" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "en": "the thing that holds power for a phone" },
+        { "word": "underwear", "level": "A2", "match": ["underwear"], "en": "clothes you wear under other clothes" },
+        { "word": "cough", "level": "B1", "match": ["cough"], "en": "to push air out of your throat with a noise" },
+        { "word": "specific", "level": "B1", "match": ["specific"], "note": "给累人看的说明书要 specific", "en": "exact and clear, not general" },
+        { "word": "medicine", "level": "A1", "match": ["medicine"], "en": "what you take to feel better" },
+        { "word": "rabbit", "level": "A1", "match": ["rabbit"], "note": "花坛里有主见的兔子", "en": "a small animal with long ears" },
+        { "word": "up", "level": "A1", "match": ["up"], "en": "toward the sky" },
+        { "word": "script", "level": "B2", "match": ["script"], "en": "a small program that does one job" },
+        { "word": "phone", "level": "A1", "match": ["phone"], "en": "the thing you call people on" },
+        { "word": "cat", "level": "A1", "match": ["cat"], "note": "酒店老猫，住在收据盒上", "en": "a small soft animal that says meow" },
+        { "word": "feed sb.", "level": "A1", "match": ["fed"], "en": "to give food to someone" },
+        { "word": "event", "level": "A2", "match": ["event"], "en": "something that happens; a planned activity" },
+        { "word": "chew", "level": "B1", "match": ["chewed"], "en": "to bite food again and again" },
+        { "word": "single", "level": "A1", "match": ["single"], "note": "two single seats", "en": "one only" },
+        { "word": "sorry", "level": "A1", "match": ["Sorry"], "en": "the word you say when you feel bad about something" }
+      ]
+    },
+    {
+      "group": "前日 10-05 复现（21 词顺带全进）",
+      "words": [
+        { "word": "tenant", "level": "B2", "match": ["tenants"], "note": "app 的四百个 tenant，如今多了二十间客房", "en": "a person who pays to live in a place" },
+        { "word": "inflation", "level": "B2", "match": ["inflation"], "note": "grandma 的口头禅之一", "en": "prices going up over time" },
+        { "word": "diaper", "level": "B1", "match": ["diapers"], "en": "the paper pants for a baby" },
+        { "word": "clap", "level": "A2", "match": ["clapped"], "en": "to hit your hands together" },
+        { "word": "validation", "level": "C1", "match": ["validation"], "en": "a check that data is correct" },
+        { "word": "integer", "level": "C1", "match": ["integer"], "note": "咖啡杯数的 integer 夜里数错了", "en": "a whole number, like 3 or 42" },
+        { "word": "commit", "level": "C1", "match": ["committed"], "en": "to save your changes into the code base" },
+        { "word": "turn one's head", "level": "A1", "match": ["turned her head"], "en": "to move your head to look" },
+        { "word": "wallet", "level": "A2", "match": ["wallet"], "en": "the small folded thing that holds money" },
+        { "word": "carry", "level": "A1", "match": ["carried"], "en": "to hold something and move it" },
+        { "word": "plug", "level": "A2", "match": ["plugged"], "en": "to push the power tail into the wall" },
+        { "word": "unsupervised", "level": "C1", "match": ["unsupervised"], "en": "working alone, with no one watching" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "en": "a number that looks wrong or strange" },
+        { "word": "conclusion", "level": "B1", "match": ["conclusion"], "en": "what you decide after looking at facts" },
+        { "word": "supermarket", "level": "A1", "match": ["supermarket"], "en": "a big shop for food" },
+        { "word": "dollar", "level": "A1", "match": ["dollar"], "en": "money unit; one dollar" },
+        { "word": "desk", "level": "A1", "match": ["desk"], "en": "the table you work at" },
+        { "word": "snow", "level": "A1", "match": ["snow"], "en": "soft white water that falls in cold weather" },
+        { "word": "floor", "level": "A1", "match": ["floors"], "en": "the part of a room you stand on" },
+        { "word": "handbag", "level": "B1", "match": ["handbag"], "note": "grandma 下巴士，handbag first", "en": "a small bag a woman carries" },
+        { "word": "sunny", "level": "A1", "match": ["sunny"], "en": "full of sun" }
+      ]
+    },
+    {
+      "group": "计划外生词（正文出现、非当日词表，认识即可）",
+      "words": [
+        { "word": "server", "level": "B2", "match": ["server"], "en": "a computer that serves many users" },
+        { "word": "counter", "level": "B1", "match": ["counter"], "en": "a long table in a shop; front desk area" },
+        { "word": "booking", "level": "B2", "match": ["booking"], "en": "the record of a room or seat kept for you" },
+        { "word": "pharmacy", "level": "B2", "match": ["pharmacy"], "en": "a shop that sells medicine" },
+        { "word": "password", "level": "A2", "match": ["password"], "en": "the secret word you type to log in" },
+        { "word": "arrow", "level": "B1", "match": ["arrows"], "en": "a line with a point, showing direction" },
+        { "word": "notebook", "level": "A2", "match": ["notebook"], "en": "a small book for writing notes" },
+        { "word": "bench", "level": "B1", "match": ["bench"], "en": "a long seat for more than one person" },
+        { "word": "eternal", "level": "C1", "match": ["eternal"], "note": "弟弟的 eternal advice", "en": "lasting forever" },
+        { "word": "hum", "level": "B2", "match": ["hummed", "humming"], "en": "to make music with your mouth closed" }
+      ]
+    }
+  ]
+}

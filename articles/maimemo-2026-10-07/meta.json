@@ -1,0 +1,37 @@
+{
+  "slug": "maimemo-2026-10-07",
+  "title": "The Purple App Checks In",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-07",
+  "added": "2026-10-08",
+  "tags": [
+    "custom",
+    "maimemo",
+    "family-tech"
+  ],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 2.2,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-07/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 当日 39 词全覆盖 + 昨日 24 词复现 + 前日 24 词顺带（39/40 背完，无预习层；10-07 定时漏跑，10-08 手动补发）",
+      "keyWords": [
+        {
+          "word": "balcony",
+          "en": "a small outside platform up on a wall"
+        },
+        {
+          "word": "credential",
+          "en": "the name and secret that let you log in"
+        },
+        {
+          "word": "fare",
+          "en": "the money you pay for a trip"
+        }
+      ]
+    }
+  }
+}
