@@ -1,0 +1,119 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING，文中出现 2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "en": "a person who does office work, like letters and records" },
+        { "word": "chase", "level": "B2", "match": ["chased", "chase"], "note": "Bobby 追鸽子 / 宝宝追鸽子", "en": "to run after something" },
+        { "word": "sink", "level": "A2", "match": ["sink"], "note": "酒店水槽变奶瓶工作站", "en": "the place where you wash things" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator", "refrigerators"], "note": "奶奶嫌这词太长", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "foreign city ×2 + foreign swing", "en": "of another country" },
+        { "word": "unfortunately", "level": "B1", "match": ["Unfortunately", "unfortunately"], "en": "it is sad that..." },
+        { "word": "moreover", "level": "B2", "match": ["Moreover", "moreover"], "en": "also; used to add information" },
+        { "word": "repository", "level": "C1", "match": ["repository", "repositories"], "en": "a place where code is stored and shared" },
+        { "word": "bottleneck", "level": "C1", "match": ["bottleneck"], "note": "机场队列 / 会议签到台", "en": "the narrow part that slows everything down" },
+        { "word": "swing", "level": "A2", "match": ["swing"], "note": "她的第一架外国秋千", "en": "the seat that moves back and forward" },
+        { "word": "wave", "level": "A2", "match": ["waved", "wave"], "en": "to move the hand to say hello" },
+        { "word": "protocol", "level": "C1", "match": ["protocol"], "note": "酒店静音流程 / app 夜检", "en": "a set of rules people or machines follow" },
+        { "word": "instruments", "level": "A2", "match": ["instruments"], "note": "街头乐手 / 酒店弦乐四重奏", "en": "tools for making music" },
+        { "word": "prescription", "level": "C1", "match": ["prescription"], "note": "药盒盖里的药方 / 旅行的处方", "en": "a doctor's paper for medicine" },
+        { "word": "tune", "level": "B1", "match": ["tune", "tuneless"], "en": "a short piece of music" },
+        { "word": "chew", "level": "B2", "match": ["chewed"], "note": "嚼饼干 / 嚼意面", "en": "to break food with your teeth" },
+        { "word": "swallow", "level": "B2", "match": ["swallowed", "swallow"], "en": "to make food go down" },
+        { "word": "approach", "level": "B1", "match": ["approach", "approached"], "note": "接近喷泉广场 / 我对错误的处理路数", "en": "to come near; a way of doing things" },
+        { "word": "balcony", "level": "B1", "match": ["balcony"], "note": "全家在阳台过了头一晚", "en": "the small outside floor of a room" }
+      ]
+    },
+    {
+      "group": "今日所学 · 10-09（已背 8/40）",
+      "words": [
+        { "word": "proxy", "level": "C1", "match": ["proxy"], "note": "坏网络怎么办：走代理", "en": "a middle server that carries your requests" },
+        { "word": "bundle", "level": "B2", "match": ["bundle"], "note": "整个 app 才 40KB", "en": "the one package your code ships in" },
+        { "word": "fix", "level": "A1", "match": ["fix", "fixing"], "en": "to repair" },
+        { "word": "agent", "level": "B1", "match": ["agent"], "note": "会前先问代理的小帮手", "en": "a small helper program that acts for you" },
+        { "word": "push", "level": "A1", "match": ["pushed"], "note": "她追问内存余量", "en": "to press; to send code out" },
+        { "word": "boring", "level": "A1", "match": ["boring"], "note": "无趣的人生是我的选择", "en": "not interesting" },
+        { "word": "router", "level": "C1", "match": ["router"], "note": "女儿的玩具路由器", "en": "the box that sends internet through a house" },
+        { "word": "fare", "level": "B1", "match": ["fare"], "note": "出租车费也涨了", "en": "the money you pay for a ride" }
+      ]
+    },
+    {
+      "group": "昨日复现 · 10-08",
+      "words": [
+        { "word": "reservation", "level": "B2", "match": ["reservation"], "note": "早餐晚宴全凭预约", "en": "a booking made ahead" },
+        { "word": "concert", "level": "B1", "match": ["concert"], "en": "music played live" },
+        { "word": "compile", "level": "C1", "match": ["compile"], "en": "to turn code into a running program" },
+        { "word": "batch", "level": "B2", "match": ["batch"], "en": "a group of things done together" },
+        { "word": "several", "level": "A2", "match": ["Several"], "en": "more than two but not many" },
+        { "word": "trade-off", "level": "B1", "match": ["trade-off"], "en": "giving up one good thing for another" },
+        { "word": "theory", "level": "B1", "match": ["theory"], "note": "我是严肃开发者这一理论卒于周一早晨", "en": "an idea that explains something" },
+        { "word": "implicit", "level": "C1", "match": ["implicit"], "note": "三个人之间不必说破的协议", "en": "understood without being said" },
+        { "word": "architecture", "level": "A2", "match": ["architecture"], "note": "架构如小房子：房间少，墙要结实", "en": "the design structure of a system" },
+        { "word": "constraint", "level": "C1", "match": ["constraint"], "note": "用户 79 岁和 11 个月大", "en": "a limit you must work inside" },
+        { "word": "broken", "level": "A1", "match": ["broken"], "en": "not working" },
+        { "word": "sign", "level": "A1", "match": ["sign"], "note": "学生在会议证上要签名", "en": "to write your name" },
+        { "word": "transformer", "level": "B2", "match": ["transformer"], "note": "给老默片配声音", "en": "a neural network that understands data" },
+        { "word": "fork", "level": "C1", "match": ["fork"], "en": "to copy a project and carry it yourself" },
+        { "word": "sunburn", "level": "B2", "match": ["sunburn"], "en": "skin hurt by too much sun" },
+        { "word": "elevator", "level": "A2", "match": ["elevator"], "note": "酒店的电梯好得很，我夸了它", "en": "the small room that goes up and down" },
+        { "word": "madam", "level": "A2", "match": ["Madam"], "en": "a polite word for a woman" },
+        { "word": "yogurt", "level": "A2", "match": ["yogurt"], "note": "阳台上分一杯酸奶像两个少年", "en": "the soft cold milk food" },
+        { "word": "socks", "level": "A1", "match": ["socks"], "en": "clothes for your feet" },
+        { "word": "delicious", "level": "A2", "match": ["delicious"], "en": "very good to eat" },
+        { "word": "dependency", "level": "B2", "match": ["dependency"], "en": "code your project needs from others" },
+        { "word": "wash", "level": "A1", "match": ["washing"], "en": "to clean with water" },
+        { "word": "lion", "level": "A1", "match": ["lion"], "note": "明信片上画的小狮子", "en": "the big sleeping cat" },
+        { "word": "monkey", "level": "A1", "match": ["monkey"], "en": "the animal that waves at babies" },
+        { "word": "framework", "level": "B2", "match": ["framework"], "en": "the base structure of code" },
+        { "word": "commit oneself", "level": "B2", "match": ["committed myself"], "note": "每晚一小时帮他修 issue", "en": "to promise yourself to something" },
+        { "word": "tired", "level": "A1", "match": ["tired"], "en": "needing rest" },
+        { "word": "rate", "level": "B1", "match": ["rate"], "note": "万物皆有 rate 且都在涨", "en": "a price or speed measure" },
+        { "word": "buy", "level": "A1", "match": ["bought"], "en": "to get with money" },
+        { "word": "workflow", "level": "B2", "match": ["workflow"], "note": "他的医院工作流", "en": "the path work travels" },
+        { "word": "layout", "level": "B2", "match": ["layout"], "note": "五百岁的街道布局好过任何地图", "en": "how parts are placed" }
+      ]
+    },
+    {
+      "group": "明日预习 · 今晚先见（今日未背 32 词中的 14 个）",
+      "words": [
+        { "word": "sightseeing", "level": "B1", "match": ["sightseeing"], "en": "visiting the famous places of a city" },
+        { "word": "delay sth.", "level": "A2", "match": ["delayed"], "note": "航班延误两小时", "en": "to make something later" },
+        { "word": "lobby", "level": "B1", "match": ["lobby"], "note": "大到自带天气的大堂", "en": "the big entrance hall of a hotel" },
+        { "word": "shrimp", "level": "A2", "match": ["shrimp"], "note": "宝宝像小法官一样盯着每只虾", "en": "the small pink sea food" },
+        { "word": "accent", "level": "B1", "match": ["accent"], "note": "口音最温柔地出卖了他", "en": "the way your home town lives in your voice" },
+        { "word": "daddy", "level": "A1", "match": ["Daddy", "daddy"], "note": "她的第二个词，第一个是 hot", "en": "a child's word for father" },
+        { "word": "give sb. away", "level": "B2", "match": ["gave him away", "gave myself away"], "note": "口音暴露家乡 / 我笑湿了眼", "en": "to show a hidden truth about someone" },
+        { "word": "post", "level": "A1", "match": ["post", "posted"], "note": "给奶奶的明信片 + 提 issue", "en": "to send; to put a message up" },
+        { "word": "margin", "level": "B1", "match": ["margin"], "note": "内存余量画成绿色", "en": "the extra room you keep just in case" },
+        { "word": "consistency", "level": "B2", "match": ["consistency"], "en": "staying the same across phones" },
+        { "word": "load", "level": "A2", "match": ["load"], "en": "how much work a machine carries" },
+        { "word": "night", "level": "A1", "match": ["night"], "en": "the dark hours" },
+        { "word": "over", "level": "A1", "match": ["over"], "en": "above; finished" },
+        { "word": "inside", "level": "A1", "match": ["inside"], "en": "in the inner part" }
+      ]
+    },
+    {
+      "group": "计划外生词 · 顺带认识",
+      "words": [
+        { "word": "conference", "level": "B1", "match": ["conference"], "en": "a big meeting of one trade" },
+        { "word": "teenager", "level": "B1", "match": ["teenagers"], "en": "a person of 13 to 19" },
+        { "word": "queue", "level": "B1", "match": ["queue"], "en": "a line of waiting people" },
+        { "word": "uniform", "level": "B1", "match": ["uniform"], "en": "the same clothes for a job" },
+        { "word": "biscuit", "level": "B1", "match": ["biscuits"], "en": "a small dry cake" },
+        { "word": "string", "level": "B2", "match": ["string"], "note": "string concert 弦乐", "en": "thin wire for music; a group of violins" },
+        { "word": "violin", "level": "B1", "match": ["violins"], "en": "the small singing instrument" },
+        { "word": "cello", "level": "C1", "match": ["cello"], "en": "the big singing instrument you hold" },
+        { "word": "fountain", "level": "B1", "match": ["fountain"], "en": "water jumping in a square" },
+        { "word": "musician", "level": "B1", "match": ["musicians"], "en": "a person who plays music" },
+        { "word": "church", "level": "A2", "match": ["church"], "en": "the house of God" },
+        { "word": "athlete", "level": "B1", "match": ["athletes"], "en": "a sports professional" },
+        { "word": "judge", "level": "B1", "match": ["judge"], "note": "像小法官审视每只虾", "en": "a person who decides" },
+        { "word": "waiter", "level": "A2", "match": ["waiter"], "en": "a person who brings food" },
+        { "word": "high chair", "level": "B1", "match": ["high chair"], "note": "餐厅没有，我的膝盖当椅子", "en": "the tall chair for a baby" },
+        { "word": "teenage", "level": "B1", "match": ["teenage"], "en": "of the years 13 to 19" },
+        { "word": "kitchen", "level": "A1", "match": ["kitchen"], "en": "the room where food is made" },
+        { "word": "cloud", "level": "A1", "match": ["clouds"], "en": "the white sky ships" }
+      ]
+    }
+  ]
+}

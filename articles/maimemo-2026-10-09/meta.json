@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-09",
+  "title": "Daddy and the Foreign City",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-09",
+  "added": "2026-10-09",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 2.4,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-09/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 今日 8 词全覆盖 + 昨日 40 词复现 + 预习 14 词（今晚背完的 32 个明天见），已过 humanizer 润色轮",
+      "keyWords": [
+        { "word": "bottleneck", "en": "the narrow part that slows everything down" },
+        { "word": "margin", "en": "the extra room you keep just in case" },
+        { "word": "accent", "en": "the way a person's home town lives in their voice" }
+      ]
+    }
+  }
+}
