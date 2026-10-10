@@ -1,0 +1,150 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 17 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "退休秘书的清单哲学", "en": "a person who does office work, like letters and records" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complaints"], "note": "Grandma 上门三连投诉", "en": "to say that something is wrong or not good" },
+        { "word": "sink", "level": "A2", "match": ["sink", "sinks"], "note": "厨房水槽油垢堵塞", "en": "the place where you wash things" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator", "refrigerators"], "note": "十九岁高龄、不认字的冰箱", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "foreign city ×2，衔接昨文", "en": "of another country" },
+        { "word": "unfortunately", "level": "B1", "match": ["Unfortunately", "unfortunately"], "note": "冰箱不认字 / 旅行疲惫追上 Bobby", "en": "it is sad that..." },
+        { "word": "repository", "level": "C1", "match": ["repository"], "note": "厨房卫士的代码仓库", "en": "a place where code is stored and kept" },
+        { "word": "bottleneck", "level": "C1", "match": ["bottleneck", "bottlenecks"], "note": "水管油垢 → 我的打字速度", "en": "the narrow part that slows everything down" },
+        { "word": "swing", "level": "A2", "match": ["swing", "swings"], "note": "公园秋千，鞋尖永远反向", "en": "a seat that moves back and forward on ropes" },
+        { "word": "wave", "level": "A2", "match": ["waves", "waved", "waving"], "note": "阳台热浪 / Bobby 挥手", "en": "to move your hand to say hello or goodbye" },
+        { "word": "protocol", "level": "B2", "match": ["protocol", "protocols"], "note": "第一种丢消息，第二种安静", "en": "a set of rules for sending data" },
+        { "word": "instrument", "level": "B1", "match": ["instruments"], "note": "钢琴+鼓+铃铛 = 三件玩具乐器", "en": "a tool for making music" },
+        { "word": "prescription", "level": "B2", "match": ["prescription"], "note": "写着'八度以下'的医生处方", "en": "the doctor's paper that says what medicine to take" },
+        { "word": "tune", "level": "B1", "match": ["tune", "tunes"], "note": "一分钟六支曲子，一支比一支响", "en": "a short piece of music" },
+        { "word": "swallow", "level": "B1", "match": ["swallowed", "swallow"], "note": "Grandma 吞药 / Bobby 囫囵吞苹果", "en": "to make food or drink go down your throat" },
+        { "word": "approach", "level": "B1", "match": ["approach"], "note": "躺在地上提出的'更好办法'", "en": "a way of doing something" },
+        { "word": "balcony", "level": "A2", "match": ["balcony"], "note": "第二个传感器的家", "en": "a small outside area on a high floor" }
+      ]
+    },
+    {
+      "group": "今日所学（1 词全覆盖）",
+      "words": [
+        { "word": "moreover", "level": "B2", "match": ["Moreover"], "note": "Grandma：再说了，这是我的厨房", "en": "also; used to add information" }
+      ]
+    },
+    {
+      "group": "昨日复现（10-09 学习 41 词，37 词进文）",
+      "words": [
+        { "word": "chase", "level": "B2", "match": ["chased"], "note": "Bobby 追玩具兔", "en": "to run after something" },
+        { "word": "push", "level": "A1", "match": ["push", "pushed"], "note": "推倒钢琴 / 推秋千", "en": "to move something away from you" },
+        { "word": "router", "level": "B2", "match": ["router", "routers"], "note": "数据经过家里的路由器", "en": "the box that sends internet around the house" },
+        { "word": "boring", "level": "A2", "match": ["boring"], "note": "Grandma 问活儿无不无聊", "en": "not interesting" },
+        { "word": "proxy", "level": "C1", "match": ["proxy"], "note": "对不认识的东西一律说不", "en": "a middleman that passes requests along" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "周末安排早就做好了", "en": "a plan for how something will happen" },
+        { "word": "fix", "level": "A2", "match": ["fix"], "note": "修法直接但不好看", "en": "to repair something" },
+        { "word": "bundle", "level": "B2", "match": ["bundle"], "note": "一小捆代码画红线", "en": "a group of things tied together" },
+        { "word": "agent", "level": "B2", "match": ["agent"], "note": "每分钟读一次传感器的小 agent", "en": "a program that does a job by itself" },
+        { "word": "variable", "level": "B1", "match": ["variable"], "note": "改了一个变量就通了", "en": "a name for a value that can change" },
+        { "word": "excuse oneself", "level": "B2", "match": ["excused herself"], "note": "Grandma 失陪去接电话", "en": "to politely leave a place or conversation" },
+        { "word": "fare", "level": "B1", "match": ["fare"], "note": "深夜出租车费翻倍", "en": "the money you pay for a trip" },
+        { "word": "rabbit", "level": "A2", "match": ["rabbit"], "note": "永远领先一只手的玩具兔", "en": "a small animal with long ears" },
+        { "word": "chew", "level": "B1", "match": ["chewed"], "note": "Bobby 小心翼翼嚼虾", "en": "to break food with your teeth" },
+        { "word": "fork", "level": "A2", "match": ["fork"], "note": "握叉子像握锤子", "en": "the tool with points for eating" },
+        { "word": "sunburn", "level": "B1", "match": ["sunburn"], "note": "鼻子上还有上周的颜色", "en": "red painful skin from too much sun" },
+        { "word": "elevator", "level": "A2", "match": ["elevator"], "note": "Bobby 睡着没看见电梯", "en": "the box that carries people between floors" },
+        { "word": "yogurt", "level": "A2", "match": ["yogurt"], "note": "Bobby 的晚餐之一", "en": "a soft food made from milk" },
+        { "word": "socks", "level": "A1", "match": ["sock"], "note": "秋千座位下丢了一只", "en": "what you wear inside shoes" },
+        { "word": "framework", "level": "B2", "match": ["framework"], "note": "上班那套框架直接复用", "en": "a base structure that code is built on" },
+        { "word": "tired", "level": "A2", "match": ["tired"], "note": "朋友看出我累了", "en": "needing rest" },
+        { "word": "neural", "level": "C1", "match": ["neural"], "note": "大会每两场一场讲神经网络", "en": "of a network like the brain" },
+        { "word": "sightseeing", "level": "B1", "match": ["sightseeing"], "note": "睡前看观光照片", "en": "visiting the famous places of a city" },
+        { "word": "delay", "level": "B1", "match": ["delay"], "note": "航班延误两小时", "en": "when something happens later than planned" },
+        { "word": "load", "level": "B1", "match": ["load"], "note": "数据量很小", "en": "the amount of work or data" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "两个传感器读数差不到一度", "en": "staying the same over time" },
+        { "word": "daddy", "level": "A1", "match": ["Daddy"], "note": "Bobby 说了一遍又说一遍", "en": "a word for father" },
+        { "word": "over", "level": "A1", "match": ["over"], "note": "watched over my shoulder 等", "en": "above; across; more than" },
+        { "word": "night", "level": "A1", "match": ["night", "nights"], "note": "周五深夜到家 / 整夜每小时", "en": "the dark time when we sleep" },
+        { "word": "lobby", "level": "B1", "match": ["lobby"], "note": "睡着的 Bobby 错过大堂", "en": "the entrance hall of a building" },
+        { "word": "margin", "level": "C1", "match": ["margin"], "note": "读数相差不到一度", "en": "the extra room you keep just in case" },
+        { "word": "shrimp", "level": "B1", "match": ["shrimp"], "note": "明天的晚餐买了虾", "en": "a small sea animal people eat" },
+        { "word": "give sb. away", "level": "C1", "match": ["gave me away"], "note": "我的脸出卖了我", "en": "to show a secret about someone" },
+        { "word": "accent", "level": "B1", "match": ["accents"], "note": "照片里满是外国口音", "en": "the way a person's home town lives in their voice" },
+        { "word": "post", "level": "A2", "match": ["posted"], "note": "没配文字就发了", "en": "to put something online" },
+        { "word": "inside", "level": "A1", "match": ["inside", "Inside"], "note": "传感器放进冰箱 / 牛奶后面", "en": "in the inner part of something" },
+        { "word": "courage", "level": "B1", "match": ["courage"], "note": "秋千上胆子越推越大", "en": "being brave when you are afraid" }
+      ]
+    },
+    {
+      "group": "前日条件复现（10-08 词表，自然植入 24 词）",
+      "words": [
+        { "word": "several", "level": "A2", "match": ["several"], "note": "第一个小时问题一个接一个", "en": "more than two but not many" },
+        { "word": "concert", "level": "B1", "match": ["concert"], "note": "Grandma 像在听音乐会", "en": "a live music show" },
+        { "word": "reservation", "level": "B1", "match": ["reservation"], "note": "周日六人位订好了", "en": "a saved table or seat" },
+        { "word": "compile", "level": "B2", "match": ["compiled"], "note": "配置改完重新编译", "en": "to turn code into a running program" },
+        { "word": "batch", "level": "B2", "match": ["batch"], "note": "第一批数字覆盖六十分钟", "en": "a group of things handled together" },
+        { "word": "trade-off", "level": "C1", "match": ["trade-off"], "note": "检查多一点，代码慢一点", "en": "giving up one good thing to get another" },
+        { "word": "theory", "level": "B1", "match": ["theory"], "note": "理论上一个传感器就够", "en": "an idea that explains why" },
+        { "word": "implicit", "level": "C1", "match": ["implicit"], "note": "她的信任问都不用问", "en": "understood without being said" },
+        { "word": "architecture", "level": "B2", "match": ["architecture"], "note": "读数、发送、画图", "en": "the way parts of a system fit together" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "唯一的约束：墙上不打孔", "en": "a rule that limits what you can do" },
+        { "word": "broken", "level": "A2", "match": ["broken"], "note": "坏水管提前一周被逮住", "en": "not working; in pieces" },
+        { "word": "sign", "level": "A1", "match": ["signs"], "note": "照片里陌生的招牌", "en": "a board with words or pictures" },
+        { "word": "transformer", "level": "C1", "match": ["transformer"], "note": "小变压器降到五伏", "en": "a part that changes voltage" },
+        { "word": "madam", "level": "B2", "match": ["Madam"], "note": "鱼摊老板称呼 Grandma", "en": "a polite word for a woman" },
+        { "word": "delicious", "level": "A2", "match": ["delicious"], "note": "Grandma 说鸡蛋美味", "en": "very good to eat" },
+        { "word": "dependency", "level": "C1", "match": ["dependency"], "note": "代码只依赖一个外部库", "en": "something your code needs from outside" },
+        { "word": "wash", "level": "A1", "match": ["washed"], "note": "Grandma 洗碗我擦干", "en": "to clean with water" },
+        { "word": "lion", "level": "A2", "match": ["lions"], "note": "栅栏边木头狮子", "en": "the big wild cat" },
+        { "word": "monkey", "level": "A1", "match": ["monkeys"], "note": "旧漆画的眼睛", "en": "the animal that climbs trees" },
+        { "word": "commit oneself", "level": "C1", "match": ["committed myself"], "note": "下决心晚饭前搞定", "en": "to promise yourself to do something" },
+        { "word": "rate", "level": "B1", "match": ["rate"], "note": "照这个速率一年的数字小过一张照片", "en": "speed; how often per time" },
+        { "word": "buy", "level": "A1", "match": ["bought"], "note": "回家路上买虾", "en": "to get something with money" },
+        { "word": "workflow", "level": "B2", "match": ["workflow"], "note": "流程稳定在每分钟一报", "en": "the steps of a repeated piece of work" },
+        { "word": "layout", "level": "B2", "match": ["layout"], "note": "左水槽右冰箱的厨房布局", "en": "the way things are placed in a space" }
+      ]
+    },
+    {
+      "group": "明日预习（今晚队列未背 17 词，全部顺路进文）",
+      "words": [
+        { "word": "context", "level": "B2", "match": ["context"], "note": "照片脱离语境像度假", "en": "the situation around words or events" },
+        { "word": "rinse", "level": "B2", "match": ["rinse"], "note": "热水肥皂一遍遍冲洗", "en": "to wash quickly with water" },
+        { "word": "pixel", "level": "B2", "match": ["pixel"], "note": "红线一个像素一个像素地画", "en": "one tiny dot on a screen" },
+        { "word": "please", "level": "A1", "match": ["Please"], "note": "拜托，别在我墙上打孔", "en": "a polite word when asking" },
+        { "word": "sleeve", "level": "B1", "match": ["sleeves"], "note": "卷起袖子躺到水槽下", "en": "the part of a shirt that covers the arm" },
+        { "word": "small", "level": "A1", "match": ["small"], "note": "小人儿需要荡秋千", "en": "little in size" },
+        { "word": "vision", "level": "B2", "match": ["vision"], "note": "Grandma 对未来的想象", "en": "a picture of the future you hold in mind" },
+        { "word": "tag", "level": "A2", "match": ["tag"], "note": "传感器贴编号标签", "en": "a small label with a name or number" },
+        { "word": "pain", "level": "A2", "match": ["pain"], "note": "肩膀酸疼的活儿", "en": "the feeling when something hurts" },
+        { "word": "straightforward", "level": "B2", "match": ["straightforward"], "note": "修法直接但不好看", "en": "simple and direct" },
+        { "word": "await", "level": "B2", "match": ["await"], "note": "靠在椅背上等第一个小时", "en": "to wait for something" },
+        { "word": "translate", "level": "B1", "match": ["translated"], "note": "把红线翻译成人话", "en": "to change from one language to another" },
+        { "word": "hat", "level": "A1", "match": ["hat"], "note": "遮阳帽 / 纸帽子被吃掉一点", "en": "a cover for the head" },
+        { "word": "bear", "level": "A2", "match": ["bears"], "note": "药片打起架来像熊", "en": "the big wild animal" },
+        { "word": "bump", "level": "B1", "match": ["bumped"], "note": "额头撞额头，又故意撞一次", "en": "to hit softly, by accident" },
+        { "word": "sour", "level": "B1", "match": ["sour"], "note": "吃药皱起的酸脸", "en": "the sharp taste of a lemon" },
+        { "word": "opposite", "level": "A2", "match": ["opposite"], "note": "鞋尖和秋千反方向", "en": "the other way around" }
+      ]
+    },
+    {
+      "group": "计划外生词（20 词根，密度 2.40% ≤ 5%）",
+      "words": [
+        { "word": "sensor", "level": "B2", "match": ["sensor", "sensors"], "note": "全文核心装置，×8", "en": "a small part that measures something" },
+        { "word": "pill", "level": "B2", "match": ["pill", "pills"], "note": "Grandma 的药片，×4", "en": "a small hard piece of medicine" },
+        { "word": "drain", "level": "C1", "match": ["drains"], "note": "水槽下水慢", "en": "to flow away slowly" },
+        { "word": "candle", "level": "B2", "match": ["candle"], "note": "油垢硬得像蜡烛", "en": "a stick of wax that burns for light" },
+        { "word": "wax", "level": "B2", "match": ["wax"], "note": "同上", "en": "a soft warm substance, like from bees" },
+        { "word": "approve", "level": "B2", "match": ["approved"], "note": "Bobby 用自己的方式批准", "en": "to say yes to a plan" },
+        { "word": "tap", "level": "B2", "match": ["tapped"], "note": "Grandma 打拍子", "en": "to hit lightly, again and again" },
+        { "word": "crawl", "level": "C1", "match": ["crawled"], "note": "Bobby 爬着追兔", "en": "to move on hands and knees" },
+        { "word": "slide", "level": "B2", "match": ["slid"], "note": "兔子滑到一边", "en": "to move smoothly over something" },
+        { "word": "server", "level": "B2", "match": ["server"], "note": "数字发到我的服务器", "en": "a computer that serves data" },
+        { "word": "volt", "level": "C1", "match": ["volts"], "note": "降到五伏", "en": "the unit of electrical push" },
+        { "word": "setup", "level": "B2", "match": ["setup"], "note": "配置写得更平实", "en": "the way something is arranged to work" },
+        { "word": "plain", "level": "B2", "match": ["plainer"], "note": "配置写得更平实", "en": "simple, without decoration" },
+        { "word": "lid", "level": "B2", "match": ["lid"], "note": "合上电脑盖", "en": "the top cover of a box or computer" },
+        { "word": "settle", "level": "B2", "match": ["settled"], "note": "流程稳定下来", "en": "to become calm and steady" },
+        { "word": "trust", "level": "B2", "match": ["trust"], "note": "她的信任不言自明", "en": "believing someone will do right" },
+        { "word": "noon", "level": "C1", "match": ["noon"], "note": "中午吃药", "en": "twelve o'clock in the day" },
+        { "word": "gently", "level": "B2", "match": ["gently"], "note": "轻轻推秋千", "en": "softly, with care" },
+        { "word": "forehead", "level": "B2", "match": ["forehead"], "note": "额头撞额头", "en": "the part of the face above the eyes" },
+        { "word": "hammer", "level": "B2", "match": ["hammer"], "note": "握叉子像握锤子", "en": "the tool for hitting nails" }
+      ]
+    }
+  ]
+}
