@@ -1,0 +1,1074 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 18 词，文中 ≥2 次）",
+      "words": [
+        {
+          "word": "secretary",
+          "level": "A2",
+          "match": [
+            "secretary"
+          ],
+          "note": "排队专家二十年 + 无薪无监督看守",
+          "en": "a person who does office work, like letters and records"
+        },
+        {
+          "word": "complain",
+          "level": "B1",
+          "match": [
+            "complained"
+          ],
+          "note": "全身在抗议 / 高高兴兴抱怨汤价",
+          "en": "to say that something is wrong"
+        },
+        {
+          "word": "sink",
+          "level": "A2",
+          "match": [
+            "sink"
+          ],
+          "note": "冲洗药勺 / 厨房水槽滴一下停了",
+          "en": "the place where you wash things"
+        },
+        {
+          "word": "refrigerator",
+          "level": "B2",
+          "match": [
+            "refrigerator"
+          ],
+          "note": "卫士传感器 / 冰箱比孩子乖",
+          "en": "the cold box where food is kept"
+        },
+        {
+          "word": "foreign",
+          "level": "A2",
+          "match": [
+            "foreign"
+          ],
+          "note": "医生的口音，把数字说得很温柔",
+          "en": "of another country"
+        },
+        {
+          "word": "unfortunately",
+          "level": "B1",
+          "match": [
+            "Unfortunately",
+            "unfortunately"
+          ],
+          "note": "今天不是想这些的日子 / 酸药瓶正等着",
+          "en": "it is sad that..."
+        },
+        {
+          "word": "frustrate",
+          "level": "B2",
+          "match": [
+            "frustrated"
+          ],
+          "note": "第二勺药两人都泄气 / 工作撞上睡觉的孩子",
+          "en": "to make you feel blocked and angry"
+        },
+        {
+          "word": "bottleneck",
+          "level": "C1",
+          "match": [
+            "bottleneck"
+          ],
+          "note": "排错队的窗口 / 半笔记本半药的餐桌",
+          "en": "the narrow part that slows everything down"
+        },
+        {
+          "word": "swing",
+          "level": "A2",
+          "match": [
+            "swing"
+          ],
+          "note": "指着空秋千被婉拒",
+          "en": "a seat that moves back and forward"
+        },
+        {
+          "word": "protocol",
+          "level": "B2",
+          "match": [
+            "Protocol",
+            "protocol"
+          ],
+          "note": "协议一数温度，协议二数开门",
+          "en": "a set of rules for sending data"
+        },
+        {
+          "word": "instrument",
+          "level": "B1",
+          "match": [
+            "instruments"
+          ],
+          "note": "三件乐器轮流给老虎听诊",
+          "en": "a tool for making music"
+        },
+        {
+          "word": "prescription",
+          "level": "B2",
+          "match": [
+            "prescription"
+          ],
+          "note": "医生的处方 / 明早的酸药瓶",
+          "en": "the doctor's paper that says what medicine to take"
+        },
+        {
+          "word": "unsupervised",
+          "level": "C1",
+          "match": [
+            "unsupervised"
+          ],
+          "note": "无人监督看完整个派对 / 无薪看守",
+          "en": "working alone, with no one watching"
+        },
+        {
+          "word": "anomaly",
+          "level": "C1",
+          "match": [
+            "anomaly"
+          ],
+          "note": "医生：不是异常，是周日 / 机器眼里三次红旗",
+          "en": "something that does not fit the pattern"
+        },
+        {
+          "word": "approach",
+          "level": "B1",
+          "match": [
+            "approach"
+          ],
+          "note": "先查玩具赢得病人 / 工作法撞上睡眠",
+          "en": "a way of doing something"
+        },
+        {
+          "word": "consistency",
+          "level": "C1",
+          "match": [
+            "consistency"
+          ],
+          "note": "肚子要的是规律 / 无聊而健康的读数一致性",
+          "en": "staying the same over time"
+        },
+        {
+          "word": "accent",
+          "level": "B1",
+          "match": [
+            "accent"
+          ],
+          "note": "week 说得又圆又慢像一个月",
+          "en": "the way a person's home town lives in their voice"
+        },
+        {
+          "word": "bump",
+          "level": "B1",
+          "match": [
+            "bumped"
+          ],
+          "note": "医生手指轻敲 / 洗澡前额头轻轻一碰",
+          "en": "to hit softly"
+        }
+      ]
+    },
+    {
+      "group": "今日所学（4 词全覆盖）",
+      "words": [
+        {
+          "word": "nervous",
+          "level": "B1",
+          "match": [
+            "nervous"
+          ],
+          "note": "他紧张，我害怕",
+          "en": "worried about what will happen"
+        },
+        {
+          "word": "gesture",
+          "level": "B2",
+          "match": [
+            "gestures",
+            "gesture"
+          ],
+          "note": "手放肚子再放嘴 / 指碗再指嘴，比语言清楚",
+          "en": "a movement that means something"
+        },
+        {
+          "word": "scared",
+          "level": "A2",
+          "match": [
+            "scared"
+          ],
+          "note": "只有一个大人表现了出来",
+          "en": "feeling fear"
+        },
+        {
+          "word": "dig",
+          "level": "A2",
+          "match": [
+            "dug"
+          ],
+          "note": "从玩具堆里扒出老虎 / 翻抽屉找小勺",
+          "en": "to search by moving things"
+        }
+      ]
+    },
+    {
+      "group": "昨日复现（10-11 学习 40 词，35 词进文）",
+      "words": [
+        {
+          "word": "repository",
+          "level": "C1",
+          "match": [
+            "repository"
+          ],
+          "note": "推送等了又等",
+          "en": "a place where code is stored"
+        },
+        {
+          "word": "upgrade sth.",
+          "level": "B1",
+          "match": [
+            "upgraded",
+            "upgrade"
+          ],
+          "note": "诊所系统这些年升级过吗",
+          "en": "to make something better and newer"
+        },
+        {
+          "word": "famous",
+          "level": "A2",
+          "match": [
+            "famous"
+          ],
+          "note": "本地地标诊所以儿童窗口出名",
+          "en": "known by many people"
+        },
+        {
+          "word": "search",
+          "level": "A2",
+          "match": [
+            "searched"
+          ],
+          "note": "翻玩具篮找兔子",
+          "en": "to look carefully for something"
+        },
+        {
+          "word": "variable",
+          "level": "B1",
+          "match": [
+            "variable"
+          ],
+          "note": "在他两次呼吸之间改一个变量",
+          "en": "a name for a value that can change"
+        },
+        {
+          "word": "spoon",
+          "level": "A2",
+          "match": [
+            "spoon",
+            "spoons"
+          ],
+          "note": "三勺软粥封顶 / 酸药第二勺",
+          "en": "the tool you eat with"
+        },
+        {
+          "word": "specific",
+          "level": "B1",
+          "match": [
+            "specific"
+          ],
+          "note": "医生的问题短而具体",
+          "en": "exact and particular"
+        },
+        {
+          "word": "vector",
+          "level": "C1",
+          "match": [
+            "vector"
+          ],
+          "note": "周一叫号屏背后的数字向量",
+          "en": "an ordered list of numbers"
+        },
+        {
+          "word": "swallow",
+          "level": "B1",
+          "match": [
+            "swallowed"
+          ],
+          "note": "半勺酸药，尝柠檬的脸",
+          "en": "to make food or drink go down"
+        },
+        {
+          "word": "balcony",
+          "level": "A2",
+          "match": [
+            "balcony"
+          ],
+          "note": "阳台传感器报平安",
+          "en": "a small outside area on a high floor"
+        },
+        {
+          "word": "courage",
+          "level": "B1",
+          "match": [
+            "courage"
+          ],
+          "note": "小病人有柔软的勇气",
+          "en": "being brave when it is hard"
+        },
+        {
+          "word": "rinse",
+          "level": "B2",
+          "match": [
+            "rinsed"
+          ],
+          "note": "在水槽冲洗药勺",
+          "en": "to wash quickly with water"
+        },
+        {
+          "word": "sleeve",
+          "level": "B1",
+          "match": [
+            "sleeve"
+          ],
+          "note": "一只袖子湿到胳膊肘",
+          "en": "the part of a shirt covering the arm"
+        },
+        {
+          "word": "opposite",
+          "level": "A2",
+          "match": [
+            "opposite"
+          ],
+          "note": "舌头说的是'一点也不吓人'的反面",
+          "en": "the other way around"
+        },
+        {
+          "word": "teeth",
+          "level": "A2",
+          "match": [
+            "teeth"
+          ],
+          "note": "四颗忙碌的牙",
+          "en": "the hard white things in your mouth"
+        },
+        {
+          "word": "jump",
+          "level": "A2",
+          "match": [
+            "jump"
+          ],
+          "note": "膝盖想跳，我按住了",
+          "en": "to push yourself up suddenly"
+        },
+        {
+          "word": "carry away",
+          "level": "B2",
+          "match": [
+            "carried the tiger away"
+          ],
+          "note": "把老虎抱去床上",
+          "en": "to take something away while walking"
+        },
+        {
+          "word": "cream",
+          "level": "A2",
+          "match": [
+            "cream"
+          ],
+          "note": "第一口冰淇淋+奶油甜点的账单",
+          "en": "the thick top part of milk"
+        },
+        {
+          "word": "year",
+          "level": "A1",
+          "match": [
+            "years"
+          ],
+          "note": "秘书生涯二十年",
+          "en": "twelve months"
+        },
+        {
+          "word": "landmark",
+          "level": "B2",
+          "match": [
+            "landmark"
+          ],
+          "note": "本地地标诊所",
+          "en": "a well-known building or place"
+        },
+        {
+          "word": "sleepy",
+          "level": "A2",
+          "match": [
+            "sleepy"
+          ],
+          "note": "病好了三分之二，边缘还困着",
+          "en": "needing sleep"
+        },
+        {
+          "word": "source",
+          "level": "B1",
+          "match": [
+            "source"
+          ],
+          "note": "病源毫无悬念",
+          "en": "where something comes from"
+        },
+        {
+          "word": "brand",
+          "level": "A2",
+          "match": [
+            "brand"
+          ],
+          "note": "Grandma 还不太信的药品牌子",
+          "en": "the maker's name on a product"
+        },
+        {
+          "word": "bee",
+          "level": "A2",
+          "match": [
+            "bee"
+          ],
+          "note": "本季最后一只蜜蜂半睡在窗台",
+          "en": "the insect that makes honey"
+        },
+        {
+          "word": "right",
+          "level": "A1",
+          "match": [
+            "right"
+          ],
+          "note": "那个对的远端窗口",
+          "en": "correct"
+        },
+        {
+          "word": "input",
+          "level": "B1",
+          "match": [
+            "inputs"
+          ],
+          "note": "数据库的输入",
+          "en": "what goes into a program"
+        },
+        {
+          "word": "busy",
+          "level": "A1",
+          "match": [
+            "busy"
+          ],
+          "note": "开诊八分钟就忙起来 / 四颗忙牙",
+          "en": "full of activity"
+        },
+        {
+          "word": "feature",
+          "level": "B1",
+          "match": [
+            "feature"
+          ],
+          "note": "这些年加过一个功能吗",
+          "en": "a part of a program you can see"
+        },
+        {
+          "word": "smell",
+          "level": "A2",
+          "match": [
+            "smelled"
+          ],
+          "note": "大堂里肥皂和冷手的味道",
+          "en": "the sense through the nose"
+        },
+        {
+          "word": "local",
+          "level": "A2",
+          "match": [
+            "local"
+          ],
+          "note": "本地地标诊所",
+          "en": "of this neighborhood"
+        },
+        {
+          "word": "ice",
+          "level": "A1",
+          "match": [
+            "ice"
+          ],
+          "note": "禁冰淇淋一周",
+          "en": "frozen water"
+        },
+        {
+          "word": "departure",
+          "level": "B2",
+          "match": [
+            "departure"
+          ],
+          "note": "离院很慢：外套、老虎、鞋、排队号留作纪念",
+          "en": "the act of leaving"
+        },
+        {
+          "word": "render",
+          "level": "C1",
+          "match": [
+            "renders"
+          ],
+          "note": "屏幕怎么渲染这些数字",
+          "en": "to turn data into something you can see"
+        },
+        {
+          "word": "merge",
+          "level": "B2",
+          "match": [
+            "merge"
+          ],
+          "note": "想把他午睡和我的上午合并，失败",
+          "en": "to join things into one"
+        },
+        {
+          "word": "come",
+          "level": "A1",
+          "match": [
+            "comes"
+          ],
+          "note": "等早晨来",
+          "en": "to move toward a place"
+        }
+      ]
+    },
+    {
+      "group": "前日条件复现（10-10 词表，自然植入 31 词）",
+      "words": [
+        {
+          "word": "moreover",
+          "level": "B2",
+          "match": [
+            "moreover"
+          ],
+          "note": "再说了，还抱怨了汤价",
+          "en": "also; used to add information"
+        },
+        {
+          "word": "inflation",
+          "level": "B2",
+          "match": [
+            "inflation"
+          ],
+          "note": "通货膨胀就是这样",
+          "en": "prices going up over time"
+        },
+        {
+          "word": "hotel",
+          "level": "A2",
+          "match": [
+            "hotel"
+          ],
+          "note": "候诊椅像小机场酒店",
+          "en": "a place you pay to sleep"
+        },
+        {
+          "word": "give oneself away",
+          "level": "C1",
+          "match": [
+            "gave yourself away"
+          ],
+          "note": "你一小时前就把自己暴露了",
+          "en": "to show your own secret"
+        },
+        {
+          "word": "integer",
+          "level": "C1",
+          "match": [
+            "integer"
+          ],
+          "note": "体重整数、体温整数",
+          "en": "a whole number"
+        },
+        {
+          "word": "evaluation",
+          "level": "B2",
+          "match": [
+            "evaluation"
+          ],
+          "note": "诊断直白得像收据",
+          "en": "a careful look at how good something is"
+        },
+        {
+          "word": "throughput",
+          "level": "C1",
+          "match": [
+            "throughput"
+          ],
+          "note": "满候诊室的吞吐量",
+          "en": "how much work gets through"
+        },
+        {
+          "word": "wave",
+          "level": "A2",
+          "match": [
+            "waved"
+          ],
+          "note": "医生挥手、Bobby 用虎爪回",
+          "en": "to move your hand hello or goodbye"
+        },
+        {
+          "word": "schema",
+          "level": "C1",
+          "match": [
+            "schema"
+          ],
+          "note": "病历单是干净线条的 schema",
+          "en": "the shape of the data"
+        },
+        {
+          "word": "sheet",
+          "level": "B1",
+          "match": [
+            "sheet"
+          ],
+          "note": "病历纸/夜报表",
+          "en": "one page of a table"
+        },
+        {
+          "word": "credential",
+          "level": "C1",
+          "match": [
+            "credentials"
+          ],
+          "note": "系统核验的凭证",
+          "en": "the keys a program uses to log in"
+        },
+        {
+          "word": "tune",
+          "level": "B1",
+          "match": [
+            "tune"
+          ],
+          "note": "边听诊边哼不成调的小曲",
+          "en": "a short piece of music"
+        },
+        {
+          "word": "delicious",
+          "level": "A2",
+          "match": [
+            "delicious"
+          ],
+          "note": "软面条看表情就知道好吃",
+          "en": "very good to eat"
+        },
+        {
+          "word": "lobby",
+          "level": "B1",
+          "match": [
+            "lobby"
+          ],
+          "note": "诊所大堂",
+          "en": "the entrance hall"
+        },
+        {
+          "word": "margin",
+          "level": "C1",
+          "match": [
+            "margin"
+          ],
+          "note": "两个传感器照常在误差内吻合",
+          "en": "the extra room you keep just in case"
+        },
+        {
+          "word": "shrimp",
+          "level": "B1",
+          "match": [
+            "shrimp"
+          ],
+          "note": "医嘱：一阵子不许吃虾",
+          "en": "a small sea animal people eat"
+        },
+        {
+          "word": "post",
+          "level": "A2",
+          "match": [
+            "posted"
+          ],
+          "note": "把听诊视频发给哥哥，回复：升职",
+          "en": "to put something online"
+        },
+        {
+          "word": "context",
+          "level": "B2",
+          "match": [
+            "context"
+          ],
+          "note": "机器的铁标准全然不看语境",
+          "en": "the situation around words"
+        },
+        {
+          "word": "pixel",
+          "level": "B2",
+          "match": [
+            "pixel"
+          ],
+          "note": "每小时一个灰像素排成线",
+          "en": "one tiny dot on a screen"
+        },
+        {
+          "word": "please",
+          "level": "A1",
+          "match": [
+            "Please"
+          ],
+          "note": "请让我一起去",
+          "en": "a polite word when asking"
+        },
+        {
+          "word": "small",
+          "level": "A1",
+          "match": [
+            "small"
+          ],
+          "note": "小小的人/小手势",
+          "en": "little in size"
+        },
+        {
+          "word": "vision",
+          "level": "B2",
+          "match": [
+            "vision"
+          ],
+          "note": "她对安静汤周的想象",
+          "en": "a picture you hold in your mind"
+        },
+        {
+          "word": "tag",
+          "level": "A2",
+          "match": [
+            "tagged"
+          ],
+          "note": "每次开门打上小红旗",
+          "en": "to mark with a label"
+        },
+        {
+          "word": "pain",
+          "level": "A2",
+          "match": [
+            "pains"
+          ],
+          "note": "小病痛不吵不闹照单全收",
+          "en": "the feeling when something hurts"
+        },
+        {
+          "word": "straightforward",
+          "level": "B2",
+          "match": [
+            "straightforward"
+          ],
+          "note": "诊断像收据一样直白",
+          "en": "simple and direct"
+        },
+        {
+          "word": "await",
+          "level": "B2",
+          "match": [
+            "awaiting"
+          ],
+          "note": "等了一下午的四点报",
+          "en": "to wait for something"
+        },
+        {
+          "word": "translate",
+          "level": "B1",
+          "match": [
+            "translated"
+          ],
+          "note": "我给 grandma 翻译他的手势",
+          "en": "to change words to another language"
+        },
+        {
+          "word": "hat",
+          "level": "A1",
+          "match": [
+            "hat"
+          ],
+          "note": "—",
+          "en": "a cover for the head"
+        },
+        {
+          "word": "bear",
+          "level": "A2",
+          "match": [
+            "bear"
+          ],
+          "note": "护士发的勇敢小熊贴纸",
+          "en": "the big wild animal"
+        },
+        {
+          "word": "sour",
+          "level": "B1",
+          "match": [
+            "sour"
+          ],
+          "note": "酸药瓶",
+          "en": "the sharp taste of a lemon"
+        }
+      ]
+    },
+    {
+      "group": "明日预习（今晚队列未背 16 词，全部顺路进文）",
+      "words": [
+        {
+          "word": "enough",
+          "level": "A2",
+          "match": [
+            "enough"
+          ],
+          "note": "三勺粥封顶，双手说'够了'",
+          "en": "as much as needed"
+        },
+        {
+          "word": "database",
+          "level": "B2",
+          "match": [
+            "database"
+          ],
+          "note": "叫号屏背后的数据库",
+          "en": "an organized store of data"
+        },
+        {
+          "word": "tiger",
+          "level": "A2",
+          "match": [
+            "tiger"
+          ],
+          "note": "全场 MVP：先就诊、先吃药、先睡觉",
+          "en": "the big wild cat"
+        },
+        {
+          "word": "vulnerable",
+          "level": "C1",
+          "match": [
+            "vulnerable"
+          ],
+          "note": "这周他小小的、软软的、有点脆弱",
+          "en": "easily hurt"
+        },
+        {
+          "word": "bib",
+          "level": "B2",
+          "match": [
+            "bib"
+          ],
+          "note": "平时是装饰，今天干了实事",
+          "en": "the cloth that keeps food off clothes"
+        },
+        {
+          "word": "scale",
+          "level": "B1",
+          "match": [
+            "scale"
+          ],
+          "note": "上秤：九公斤加一口早饭",
+          "en": "the machine that weighs you"
+        },
+        {
+          "word": "head",
+          "level": "A1",
+          "match": [
+            "head"
+          ],
+          "note": "医生用手背试额头",
+          "en": "the top part of the body"
+        },
+        {
+          "word": "flight",
+          "level": "B1",
+          "match": [
+            "flight"
+          ],
+          "note": "面包店旁一小段楼梯",
+          "en": "a set of stairs; a trip by plane"
+        },
+        {
+          "word": "here",
+          "level": "A1",
+          "match": [
+            "here"
+          ],
+          "note": "我在，去上班吧",
+          "en": "in this place"
+        },
+        {
+          "word": "empty",
+          "level": "A2",
+          "match": [
+            "empty"
+          ],
+          "note": "碗几乎是空的 / 指着空碗再指嘴",
+          "en": "with nothing inside"
+        },
+        {
+          "word": "tongue",
+          "level": "B1",
+          "match": [
+            "tongue"
+          ],
+          "note": "医生看舌头：一点也不吓人",
+          "en": "the part you taste with"
+        },
+        {
+          "word": "stomachache",
+          "level": "B1",
+          "match": [
+            "stomachache"
+          ],
+          "note": "凌晨五点新哭法：肚子疼",
+          "en": "pain in the stomach"
+        },
+        {
+          "word": "airport",
+          "level": "A2",
+          "match": [
+            "airport"
+          ],
+          "note": "候诊椅像小机场",
+          "en": "where planes leave and land"
+        },
+        {
+          "word": "server",
+          "level": "B2",
+          "match": [
+            "server"
+          ],
+          "note": "屏幕背后的服务器",
+          "en": "a computer that serves data"
+        },
+        {
+          "word": "bowl",
+          "level": "A2",
+          "match": [
+            "bowl"
+          ],
+          "note": "空碗/整碗软面",
+          "en": "the deep round dish"
+        },
+        {
+          "word": "soft",
+          "level": "A1",
+          "match": [
+            "soft"
+          ],
+          "note": "软粥/软食/软软的勇气",
+          "en": "not hard"
+        }
+      ]
+    },
+    {
+      "group": "计划外生词（47 token，密度 2.97% ≤ 5%）",
+      "words": [
+        {
+          "word": "rabbit",
+          "level": "B2",
+          "match": [
+            "rabbit"
+          ],
+          "note": "×3，兔子在角落等这一周过去",
+          "en": "a small animal with long ears"
+        },
+        {
+          "word": "clinic",
+          "level": "B2",
+          "match": [
+            "clinic"
+          ],
+          "note": "×3，本地诊所",
+          "en": "a small place for seeing doctors"
+        },
+        {
+          "word": "yogurt",
+          "level": "B2",
+          "match": [
+            "yogurt"
+          ],
+          "note": "×2，第二笔账",
+          "en": "a soft food made from milk"
+        },
+        {
+          "word": "tap",
+          "level": "B2",
+          "match": [
+            "tapped"
+          ],
+          "note": "×2，医生敲虎肚两下/Bobby 学样",
+          "en": "to hit lightly, again and again"
+        },
+        {
+          "word": "math",
+          "level": "B2",
+          "match": [
+            "math"
+          ],
+          "note": "黑暗里算账",
+          "en": "numbers and counting"
+        },
+        {
+          "word": "debt",
+          "level": "B2",
+          "match": [
+            "debt"
+          ],
+          "note": "还债式吃酸奶（周日梗回收）",
+          "en": "money you must pay back"
+        },
+        {
+          "word": "dessert",
+          "level": "B2",
+          "match": [
+            "dessert"
+          ],
+          "note": "奶油甜点",
+          "en": "the sweet last part of a meal"
+        },
+        {
+          "word": "porridge",
+          "level": "C1",
+          "match": [
+            "porridge"
+          ],
+          "note": "软米粥",
+          "en": "soft cooked grain for breakfast"
+        },
+        {
+          "word": "decoration",
+          "level": "B2",
+          "match": [
+            "decoration"
+          ],
+          "note": "围嘴平时是装饰",
+          "en": "something pretty but not useful"
+        },
+        {
+          "word": "roar",
+          "level": "B2",
+          "match": [
+            "roar"
+          ],
+          "note": "生病要叫声最响的那只陪",
+          "en": "the deep loud sound of a tiger"
+        },
+        {
+          "word": "stethoscope",
+          "level": "C1",
+          "match": [
+            "stethoscope"
+          ],
+          "note": "听诊器的冷圈",
+          "en": "the tool doctors listen with"
+        },
+        {
+          "word": "souvenir",
+          "level": "B2",
+          "match": [
+            "souvenir"
+          ],
+          "note": "排队号留作纪念",
+          "en": "something kept to remember a place"
+        }
+      ]
+    }
+  ]
+}
