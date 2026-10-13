@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-13",
+  "title": "The Quiet Tuesday",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-13",
+  "added": "2026-10-13",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.0,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-13/mid.m4a",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 今日 17 词全覆盖 + 昨日 35 词复现 + 预习 18 词，已过 humanizer 润色轮；病后第二天：百科全书 T 卷的老虎 bedtime story + 健身房重返 + 厨房卫士 v3 数据导出日。音频为 edge-tts 403 期间的 macOS say 回退版（Samantha）",
+      "keyWords": [
+        { "word": "encyclopedia", "en": "Grandma's bread-box-sized cure for sick afternoons — volume T is tigers" },
+        { "word": "consistency", "en": "same hours, same bowls — the other half of the medicine" },
+        { "word": "boolean", "en": "true or false, no opinions — how a door should report itself" }
+      ]
+    }
+  }
+}
