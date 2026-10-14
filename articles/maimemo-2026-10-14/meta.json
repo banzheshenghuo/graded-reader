@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-14",
+  "title": "Cream Day",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-14",
+  "added": "2026-10-14",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.6,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-14/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 今日 43 词全覆盖 + 昨日 31 词复现（无预习层），已过 humanizer 润色轮；cream 解禁日：四点整冰箱小旗为真 + 散步看月 + B 卷熊提前到货。edge-tts 已恢复（403 两日后解除）",
+      "keyWords": [
+        { "word": "briefcase", "en": "one broken zipper, one coffee smell, every job I've had" },
+        { "word": "purple", "en": "the one room Grandma repainted and defends like a border" },
+        { "word": "availability", "en": "the whole family is free at five — checked like a secretary" }
+      ]
+    }
+  }
+}
