@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-15",
+  "title": "Swing Day",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-15",
+  "added": "2026-10-15",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.7,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-15/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 复现 + 今日 9 词全覆盖 + 昨日 43 词复现 + 预习 14 词，已过 humanizer 润色轮；秋千日兑现（周三不是周四，周四是）+ 第一节婴儿游泳课（巴西教练中文流利）+ S 卷海是咸的",
+      "keyWords": [
+        { "word": "swimsuit", "en": "small and blue, the size of a letter, drying all morning" },
+        { "word": "bias", "en": "Grandma's bias against pools in October lasted four minutes" },
+        { "word": "commit oneself", "en": "leaning forward with the whole body, all at once" }
+      ]
+    }
+  }
+}
