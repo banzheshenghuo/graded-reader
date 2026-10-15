@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "exodus", "level": "B2", "match": ["exodus"], "en": "a departure of many people at once (from the Bible story)", "note": "标题词 ｜ 高: the biggest exodus ｜ 中/低: a record number have left / the wave of leavers" },
+        { "word": "relocate", "level": "C1", "match": ["relocate", "relocating"], "en": "to move to a new place to live or work", "note": "高: relocating to Spain ｜ 中/低: moved" },
+        { "word": "expat", "level": "C1", "match": ["expat", "expats"], "en": "someone living in a country that is not their own", "note": "高: expats there ｜ 中: people living abroad ｜ 低: people who move" },
+        { "word": "healthcare", "level": "B2", "match": ["healthcare"], "en": "the service of doctors and hospitals", "note": "中/高保留 ｜ 低: doctors and hospitals / health service" },
+        { "word": "wealthy", "level": "B2", "match": ["wealthy"], "en": "having a lot of money", "note": "高 ×2 ｜ 中/低: rich" },
+        { "word": "crumble", "level": "C1", "match": ["crumble"], "en": "to slowly fall apart or stop working", "note": "高: watching the NHS crumble ｜ 中: watch the NHS struggle ｜ 低: having a hard time" },
+        { "word": "grind", "level": "C1", "match": ["grinding"], "en": "to keep going through something hard and tiring", "note": "高: grinding through the grey weather ｜ 低/中: years of grey weather" },
+        { "word": "rat race", "level": "B2", "match": ["rat"], "en": "the tiring, endless competition of working life", "note": "习语 ｜ 高/中保留原话 ｜ 低: 未提" },
+        { "word": "taxpayer", "level": "C1", "match": ["taxpayer", "taxpayers"], "en": "a person who pays tax", "note": "高/原文: 69,300 taxpayers ｜ 低/中: people" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "sunshine", "level": "B2", "match": ["sunshine"], "en": "bright light and warmth from the sun", "note": "关键引语词，三版保留（sun 免费）" },
+        { "word": "billionaire", "level": "B2", "match": ["billionaire"], "en": "a person with at least a billion dollars", "note": "高 ×2 ｜ 中 ×1 ｜ 低: 题目提及正文用 very rich people" },
+        { "word": "millionaire", "level": "B2", "match": ["millionaire", "millionaires"], "en": "a person with at least a million dollars", "note": "高: reasons millionaires move ｜ 低/中: 未用" },
+        { "word": "blame", "level": "B2", "match": ["blame"], "en": "to say someone or something is at fault", "note": "高: takes most of the blame ｜ 中/低: 不用怪罪句式" },
+        { "word": "struggle", "level": "B2", "match": ["struggle"], "en": "to have great difficulty", "note": "中: watch the NHS struggle ｜ 高: crumble ｜ 低: having a hard time" },
+        { "word": "household", "level": "B2", "match": ["household", "households"], "en": "a family and its home counted together", "note": "高: dearer for households ｜ 低/中: family costs" },
+        { "word": "resident", "level": "B2", "match": ["resident", "residents"], "en": "a person who lives in a place", "note": "高: billionaire residents ｜ 低/中: people who live there" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "for good", "level": "A2", "match": ["for good"], "en": "permanently, not for a short time", "note": "三版保留（免费表达永久离开）" },
+        { "word": "rat race 引语", "level": "A2", "match": ["done"], "en": "\"I'm done with the rat race\" = I have had enough of this competition", "note": "高/中保留 Stanley 原话 ｜ 低: 未提" },
+        { "word": "eye up", "level": "B1", "match": ["eyeing"], "en": "to look at with interest (as a possible choice)", "note": "高: eyeing up Switzerland ｜ 低/中: moved to / looking at" },
+        { "word": "a third more", "level": "B1", "match": ["third"], "en": "up by about 33%", "note": "中/低: one in three more than the year before（原文 32% up）" }
+      ]
+    },
+    {
+      "name": "仅高版出现（财经专名）",
+      "words": [
+        { "word": "non-dom regime", "level": "术语", "match": ["non-dom"], "en": "the ended UK tax rule for people officially 'not domiciled' there", "note": "原文/高保留 ｜ 低/中: 未提（税收细节略）" },
+        { "word": "Stamp Duty / VAT", "level": "术语", "match": ["VAT"], "en": "UK taxes on house purchase / on goods", "note": "原文保留 ｜ 高: taxes on homes, private schools ｜ 低/中: many taxes" },
+        { "word": "postcard", "level": "C1", "match": ["postcard"], "en": "a card with a beautiful picture; 'straight off a postcard' = perfectly beautiful", "note": "高: views look like a postcard ｜ 低/中: 未提" },
+        { "word": "HMRC / P85", "level": "缩写", "match": ["HMRC"], "en": "the UK tax office / the form filed when leaving the country", "note": "缩写不计密度 ｜ 低/中: the UK tax office / the special form" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "fortune-uk-exodus",
+  "title": "Not Just Billionaires: a Record 69,300 Workers Have Left the U.K.",
+  "source": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/10/15/billionaires-fleeing-britain-fed-up-better-weather-healthcare-and-tax-record-69000-workers-have-left-uk/",
+  "author": "Orianna Rosa Royle",
+  "date": "2026-10-15",
+  "added": "2026-10-15",
+  "tags": [
+    "finance",
+    "society",
+    "UK"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.2,
+      "target": "<2%",
+      "desc": "A2 白话版：离开英国的不只是有钱人",
+      "keyWords": [
+        {
+          "word": "sunshine",
+          "en": "bright light and warmth from the sun"
+        },
+        {
+          "word": "billionaire",
+          "en": "a person who has at least a billion dollars"
+        },
+        {
+          "word": "fortune",
+          "en": "luck and chance in life (also: a lot of money)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-uk-exodus/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 2.9,
+      "target": "2–5%",
+      "desc": "i+1 理想区：税负叙事 vs 生活方式真相",
+      "keyWords": [
+        {
+          "word": "healthcare",
+          "en": "the service of doctors and hospitals"
+        },
+        {
+          "word": "rat race",
+          "en": "the tiring, endless competition of working life"
+        },
+        {
+          "word": "struggle",
+          "en": "to have great difficulty doing something"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-uk-exodus/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 6.0,
+      "target": "5–8%",
+      "desc": "接近原文，保留引语与财经细节",
+      "keyWords": [
+        {
+          "word": "exodus",
+          "en": "a departure of many people at once (from the Bible story)"
+        },
+        {
+          "word": "relocate",
+          "en": "to move to a new place to live or work"
+        },
+        {
+          "word": "crumble",
+          "en": "to slowly fall apart or stop working"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-uk-exodus/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.5,
+      "target": "—",
+      "desc": "Fortune 原文",
+      "keyWords": [
+        {
+          "word": "non-dom regime",
+          "en": "the UK tax rule (now ended) for people living there but officially 'not domiciled'"
+        },
+        {
+          "word": "Stamp Duty",
+          "en": "the UK tax paid when buying a property"
+        },
+        {
+          "word": "heiress",
+          "en": "a woman who will receive money or property when someone dies"
+        }
+      ]
+    }
+  }
+}
