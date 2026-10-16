@@ -1,0 +1,99 @@
+{
+  "slug": "worldhistory-pirate-crew",
+  "title": "Who's Who in a Pirate Crew",
+  "source": "World History Encyclopedia",
+  "sourceUrl": "https://www.worldhistory.org/article/1835/whos-who-in-a-pirate-crew/",
+  "author": "Terry Breverton",
+  "date": "2021-03-30",
+  "added": "2026-10-16",
+  "tags": [
+    "history",
+    "pirates",
+    "maritime"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.3,
+      "target": "<2%",
+      "desc": "A2 摘编：船长/分赃者/医生难题/厨子",
+      "keyWords": [
+        {
+          "word": "pirate",
+          "en": "a sailor who attacks and robs ships at sea"
+        },
+        {
+          "word": "robber",
+          "en": "a person who takes things that are not theirs"
+        },
+        {
+          "word": "cutting",
+          "en": "here: the doctor's knife work, like taking off a leg"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-pirate-crew/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.5,
+      "target": "2–5%",
+      "desc": "i+1 理想区：全角色轮岗 + 分成制度",
+      "keyWords": [
+        {
+          "word": "quartermaster",
+          "en": "the elected second-in-command who divided the loot"
+        },
+        {
+          "word": "gunner",
+          "en": "the man who led the cannon teams"
+        },
+        {
+          "word": "booty",
+          "en": "goods and treasure taken in battle (booty = loot)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-pirate-crew/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.8,
+      "target": "5–8%",
+      "desc": "接近原文，全部角色与分成细节",
+      "keyWords": [
+        {
+          "word": "charisma",
+          "en": "a natural power to attract and lead people"
+        },
+        {
+          "word": "naval",
+          "en": "belonging to a country's war navy"
+        },
+        {
+          "word": "ambush",
+          "en": "a surprise attack from a hidden place"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-pirate-crew/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 18.4,
+      "target": "—",
+      "desc": "World History Encyclopedia 原文",
+      "keyWords": [
+        {
+          "word": "roistering",
+          "en": "playing noisily and drinking in celebration"
+        },
+        {
+          "word": "press-ganged",
+          "en": "forced into service on a ship"
+        },
+        {
+          "word": "soundings",
+          "en": "measuring how deep the water is"
+        }
+      ]
+    }
+  }
+}

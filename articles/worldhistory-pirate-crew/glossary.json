@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "name": "主题词与角色名",
+      "words": [
+        { "word": "pirate", "level": "C1", "match": ["pirate", "pirates", "piracy"], "en": "a sailor who attacks and robs ships at sea", "note": "主题词，高 ×6 ｜ 中 ×3 ｜ 低 ×1（其余用 these men / robbers of the sea）｜ piracy = 海盗行当" },
+        { "word": "crew", "level": "B2", "match": ["crew", "crews"], "en": "all the people working on a ship", "note": "高 ×5 ｜ 中 ×2 ｜ 低: the men on board" },
+        { "word": "vessel", "level": "C1", "match": ["vessel", "vessels"], "en": "a ship (a formal word)", "note": "高 ×2 ｜ 低/中: ship" },
+        { "word": "seaman", "level": "C1", "match": ["seaman", "seamen"], "en": "a sailor; a man skilled at sea", "note": "高 ×2 ｜ 中/低: sailor / the men" },
+        { "word": "mariner", "level": "C1", "match": ["mariner", "mariners"], "en": "a sailor (a literary word)", "note": "高 ×1 ｜ 低/中: sailor" },
+        { "word": "booty", "level": "C1", "match": ["booty"], "en": "goods and treasure taken in war or piracy", "note": "高 ×2 ｜ 中/低: loot → all they took" },
+        { "word": "loot", "level": "C1", "match": ["loot"], "en": "stolen goods, treasure", "note": "中 ×1 ｜ 高版多用 booty/what was worth taking ｜ 低: the gold" },
+        { "word": "mutineer", "level": "SKIP", "match": ["mutineer", "mutineers"], "en": "a sailor who has risen against his captain", "note": "低频词 grader 不计 ｜ 低: men who turned against their captains" }
+      ]
+    },
+    {
+      "name": "船上角色（多数不计密度）",
+      "words": [
+        { "word": "quartermaster", "level": "C1", "match": ["quartermaster"], "en": "the elected second-in-command who divided the loot", "note": "计费但为核心角色 ｜ 中保留 ｜ 低: his second man ｜ 高 ×2" },
+        { "word": "boatswain", "level": "C2", "match": ["boatswain", "bosun"], "en": "the officer in charge of sails, ropes, and stores ('bosun')", "note": "高 ×2 ｜ 中 ×1 ｜ 低: 未提" },
+        { "word": "navigator", "level": "C1", "match": ["navigator"], "en": "the man who guided the ship by charts and stars", "note": "高/中保留（绰号 the Artist）｜ 低: 未提" },
+        { "word": "carpenter", "level": "B2", "match": ["carpenter"], "en": "the man who repaired the wooden ship", "note": "中 ×2 ｜ 高: repairman（降级）｜ 低: the man who repaired the ship" },
+        { "word": "cooper", "level": "B2", "match": ["cooper"], "en": "the barrel-maker", "note": "高/中: barrel-maker（降级保留人物）" },
+        { "word": "gunner", "level": "C1", "match": ["gunner"], "en": "the leader of the cannon teams", "note": "中 ×1 ｜ 高: their master（降级）" },
+        { "word": "surgeon", "level": "B2", "match": ["surgeon"], "en": "a ship's doctor; also the man who cut off legs", "note": "高 ×1 ｜ 低/中: doctor" },
+        { "word": "coxswain", "level": "SKIP", "match": ["coxswain"], "en": "the man who steered the ship or its small boats", "note": "SKIP 免费 ｜ 中/高保留 ｜ 低: held the wheel" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "capture", "level": "B2", "match": ["capture", "captured"], "en": "to take something or someone by force", "note": "高/中保留 ｜ 低: taken" },
+        { "word": "freedom", "level": "B2", "match": ["freedom"], "en": "the state of being free", "note": "高/中保留 ｜ 低: a free life" },
+        { "word": "brutal", "level": "C1", "match": ["brutal"], "en": "very cruel", "note": "高/中保留（Newfoundland 渔民段）" },
+        { "word": "wound", "level": "B2", "match": ["wound", "wounds"], "en": "an injury where the skin is broken", "note": "高/中保留 ｜ 低: 未提" },
+        { "word": "gunpowder", "level": "C1", "match": ["gunpowder"], "en": "the powder that makes guns fire", "note": "高/中保留 ｜ 高版变体: powder for guns" },
+        { "word": "cannon", "level": "B2", "match": ["cannon"], "en": "a big ship's gun", "note": "高/中 ×1 ｜ 每门炮 4-6 人" },
+        { "word": "barrel", "level": "C1", "match": ["barrel", "barrels"], "en": "a large round wooden container", "note": "高/中保留（cooper 段）" },
+        { "word": "elect", "level": "B2", "match": ["elected"], "en": "to choose by voting", "note": "高 ×1 ｜ 中: chose him ｜ 低: the men voted him out" },
+        { "word": "liberty", "level": "C1", "match": ["liberty"], "en": "freedom", "note": "高 ×1 ｜ 中: freedom ｜ 低: a free life" },
+        { "word": "charisma", "level": "C1", "match": ["charisma"], "en": "a natural power to attract and lead people", "note": "仅高（Roberts/船长魅力）" },
+        { "word": "discipline", "level": "B2", "match": ["discipline"], "en": "following strict rules; making others do so", "note": "高 ×1 ｜ 低/中: hard rules" },
+        { "word": "share", "level": "A1", "match": ["share", "shares"], "en": "the part of the loot each man received", "note": "免费主题词：captain double share, quartermaster double, bosun/carpenter/gunner 1.5, officers 1.25" }
+      ]
+    },
+    {
+      "name": "仅高版出现（风味词）",
+      "words": [
+        { "word": "roistering", "level": "SKIP", "match": ["roistering"], "en": "playing noisily and drinking in celebration", "note": "高首句保留（SKIP 免费，作者腔调）" },
+        { "word": "charisma / notorious / corpse", "level": "C1", "match": ["charisma", "notorious", "corpse"], "en": "personal magnetism / famous for bad things / a dead body", "note": "高版保留 ×1 each ｜ 低/中降级" },
+        { "word": "grapeshot", "level": "SKIP", "match": ["grapeshot"], "en": "a type of cannon shot made of small metal balls", "note": "SKIP 免费，sailmaker 段保留" },
+        { "word": "Jolly Roger", "level": "专名", "match": ["Jolly"], "en": "the black pirate flag with skull and crossbones", "note": "高保留（专名不计）" },
+        { "word": "Treasure Island", "level": "专名", "match": ["Treasure"], "en": "Robert Louis Stevenson's 1883 novel; Long John Silver was a cook", "note": "高/中保留（低: his well-known book about pirates）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "press-ganged", "level": "B2", "match": ["pressed"], "en": "forced into service on a ship", "note": "高: pressed into the crew ｜ 低/中: forced into the crew" },
+        { "word": "cut-throats", "level": "B1", "match": ["cut-throats"], "en": "violent criminals (literary)", "note": "高首段保留" },
+        { "word": "double share", "level": "A2", "match": ["double"], "en": "twice the normal part of the loot", "note": "三版保留（制度核心，全免费）" }
+      ]
+    }
+  ]
+}
