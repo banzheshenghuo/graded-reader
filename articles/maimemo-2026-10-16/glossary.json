@@ -1,0 +1,149 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 18 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "订婚礼式排动物园 / 一样不落的打包人", "en": "a person who does office work, like letters and records" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complain"], "note": "为水管水费和世纪方向抱怨一分钟 / 门口原则性抱怨票价", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "药架干燥吗 / 紫厨房四度", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "百科里的外国动物 / 店主和善的外国口音", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrated", "frustrated"], "note": "评审气坏作者也改进函数 / 管钳在第四步气坏我", "en": "to make you feel blocked and angry" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "九点到岗 / 门边的包装着明天的地图", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "婚礼级排程 / 安排照旧", "en": "a plan for how something will happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "动物园是袜子事件 / 漏点评估一分钟", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫到深蓝的天空 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "动物全书倒背如流的男孩 / E 卷的百科大象", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "总想查的电池 / 电量低被标记留到周日", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "管钳耐心约束 / 冰淇淋预算既是约束也是承诺", "en": "a rule that limits what you can do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "湿度连升三次 / 全屋再无异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "冰箱的药架 / 一致性就是药，管道工用别的工具", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "卫士的教程变博客 / 六步教程十一分钟", "en": "a lesson that shows you how" },
+        { "word": "intelligence", "level": "B1", "match": ["intelligence"], "note": "无智能可升级是它的品格 / 今晚不需要智能，有耳朵就行", "en": "the ability to learn and understand" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "好卫士的一致性 / 药多半就是一致性", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "一勺惯例 / 冰淇淋预算", "en": "the thick top part of milk" }
+      ]
+    },
+    {
+      "group": "今日所学（5 词全覆盖）",
+      "words": [
+        { "word": "off", "level": "A1", "match": ["off"], "note": "关阀 / 湿度超标（off the chart）", "en": "not on; closed" },
+        { "word": "leak", "level": "B1", "match": ["leak", "leak"], "note": "水槽下的漏 / 漏点的确切座位", "en": "a small escape of water" },
+        { "word": "derive", "level": "C1", "match": ["derive", "derived"], "note": "三份日志推一个数 / 从湿的形状推出漏点", "en": "to get one thing from another by thinking" },
+        { "word": "wear", "level": "B1", "match": ["worn", "Wear"], "note": "磨薄的垫圈 / 磨损分阶段说实话", "en": "to become thin from use" },
+        { "word": "knock", "level": "B1", "match": ["knock", "knocks", "knocking"], "note": "错误钟点的轻敲=水滴 / 秋千链条的轻响 / 停止敲门", "en": "to hit with a sound" }
+      ]
+    },
+    {
+      "group": "昨日复现（10-15 学习 40 词，34 词进文）",
+      "words": [
+        { "word": "rent", "level": "B2", "match": ["rent"], "note": "一天房租一抱付清", "en": "the money paid to stay" },
+        { "word": "upgrade sth.", "level": "B1", "match": ["upgrade"], "note": "无智能可升", "en": "to make something newer" },
+        { "word": "bottleneck", "level": "C1", "match": ["bottleneck"], "note": "湿角是全系统的瓶颈", "en": "the narrow part that slows everything" },
+        { "word": "swimsuit", "level": "B2", "match": ["swimsuit"], "note": "小蓝泳衣本周退役进背包", "en": "the clothes you swim in" },
+        { "word": "console", "level": "B2", "match": ["console"], "note": "职责范围一块屏：控制台", "en": "the screen panel of a system" },
+        { "word": "consist", "level": "B2", "match": ["consisted"], "note": "修复=六步教程", "en": "to be made of" },
+        { "word": "instrument", "level": "B1", "match": ["instruments"], "note": "晚安走完三件乐器", "en": "a tool for making music" },
+        { "word": "animation", "level": "B1", "match": ["animation"], "note": "春天拆走的加载动画的表亲", "en": "moving pictures on a screen" },
+        { "word": "fare", "level": "B1", "match": ["fare"], "note": "多年没涨的票价", "en": "the money you pay for a trip" },
+        { "word": "socks", "level": "A1", "match": ["socks"], "note": "动物园是袜子事件+备用袜", "en": "what you wear inside shoes" },
+        { "word": "commit oneself", "level": "C1", "match": ["committed myself"], "note": "下决心干十一分钟版修复", "en": "to decide fully" },
+        { "word": "lobby", "level": "B1", "match": ["lobby"], "note": "柜底汇起一小堂水", "en": "a hall; a gathered pool" },
+        { "word": "carry away", "level": "B2", "match": ["carried him away"], "note": "最后一段把他抱走，睡着的", "en": "to take along while walking" },
+        { "word": "merge", "level": "B2", "match": ["merged"], "note": "合并一个自己批准自己的空 PR", "en": "to join two lines of work" },
+        { "word": "emergency", "level": "B1", "match": ["emergency"], "note": "两次小紧急都因早抓而小", "en": "a sudden dangerous moment" },
+        { "word": "availability", "level": "C1", "match": ["availability"], "note": "全家余量查了两遍", "en": "being free and able" },
+        { "word": "sneakers", "level": "A2", "match": ["sneakers"], "note": "他穿运动鞋赴约", "en": "shoes made for walking" },
+        { "word": "metro", "level": "B1", "match": ["metro"], "note": "远端站坐地铁回家", "en": "the city train under the ground" },
+        { "word": "immediate", "level": "B2", "match": ["immediately"], "note": "当务之急是一枚垫圈 / 门口立刻抱怨票价", "en": "happening at once" },
+        { "word": "budget", "level": "B1", "match": ["budget"], "note": "冰淇淋预算", "en": "the plan for money" },
+        { "word": "guide", "level": "B1", "match": ["guide"], "note": "游泳向导说的肩膀", "en": "the person who shows the way" },
+        { "word": "fluent", "level": "C1", "match": ["fluent"], "note": "作者流利掌握耐心这门语言", "en": "speaking smoothly and well" },
+        { "word": "corner", "level": "A1", "match": ["corner"], "note": "街角店+湿角", "en": "where two streets meet" },
+        { "word": "style", "level": "B1", "match": ["style"], "note": "风格全是肩膀和高兴", "en": "a way of doing things" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "她对周末动物园的偏见活到看见天气预报为止", "en": "a settled opinion before the facts" },
+        { "word": "native", "level": "B2", "match": ["native"], "note": "他的语言不属于任何国家", "en": "belonging to you from birth" },
+        { "word": "machine learning", "level": "C1", "match": ["machine learning"], "note": "机器学习组要给卫士加智能", "en": "teaching computers from data" },
+        { "word": "terminal", "level": "C1", "match": ["terminal"], "note": "周五安静的地铁终点站", "en": "the end station of a line" },
+        { "word": "job", "level": "A1", "match": ["job"], "note": "一天最后一个任务", "en": "the work you are paid for" },
+        { "word": "take off ...", "level": "A2", "match": ["took my work shoes off"], "note": "门口脱下工作鞋", "en": "to remove clothes" },
+        { "word": "platform", "level": "B1", "match": ["platform"], "note": "平台靠无聊又活一周", "en": "a base system" },
+        { "word": "request", "level": "B1", "match": ["request"], "note": "合并一个拉取请求", "en": "asking for something" },
+        { "word": "salty", "level": "A2", "match": ["salty"], "note": "海那页是咸的", "en": "tasting of salt" },
+        { "word": "stop", "level": "A1", "match": ["stopped"], "note": "水滴停止了敲门", "en": "to come to rest" }
+      ]
+    },
+    {
+      "group": "前日条件复现（10-14 词表，自然植入 33 词）",
+      "words": [
+        { "word": "unfortunately", "level": "B1", "match": ["unfortunately"], "note": "磨损只在分阶段时诚实", "en": "it is sad that..." },
+        { "word": "response", "level": "B1", "match": ["response"], "note": "对此主意最慢的响应，我的，已记录在案", "en": "the answer that comes back" },
+        { "word": "scope", "level": "B2", "match": ["scope"], "note": "职责范围一块屏", "en": "the range of what is included" },
+        { "word": "touch sth. up", "level": "C1", "match": ["touched up"], "note": "润色底层脚本", "en": "to improve with small changes" },
+        { "word": "widget", "level": "C1", "match": ["widget"], "note": "无人监督跑着的老小组件", "en": "a small part of an app" },
+        { "word": "fast", "level": "A2", "match": ["fast"], "note": "页面加载变快", "en": "quick" },
+        { "word": "unsupervised", "level": "C1", "match": ["unsupervised"], "note": "小组件无人监督", "en": "with no one watching" },
+        { "word": "script", "level": "B1", "match": ["script"], "note": "脚本润色", "en": "a small program" },
+        { "word": "yogurt", "level": "A2", "match": ["yogurt"], "note": "半夜酸奶的旧案", "en": "a soft food made from milk" },
+        { "word": "shrimp", "level": "B1", "match": ["shrimp"], "note": "晚饭三只虾", "en": "a small sea animal people eat" },
+        { "word": "rinse", "level": "B2", "match": ["rinsed"], "note": "他自己涮了勺子，这是新的", "en": "to wash quickly with water" },
+        { "word": "bump", "level": "B1", "match": ["bumped"], "note": "管钳碰了下管子，他拍了拍管子，条款通过", "en": "to hit softly" },
+        { "word": "sleepy", "level": "A2", "match": ["sleepy"], "note": "困但非要唱完最后一段", "en": "needing sleep" },
+        { "word": "bowl", "level": "A2", "match": ["bowl"], "note": "好碗里的酸奶", "en": "the deep round dish" },
+        { "word": "grass", "level": "A1", "match": ["grass"], "note": "公园草地那侧的秋千", "en": "the green plant of the ground" },
+        { "word": "give sth. away", "level": "C1", "match": ["given it away"], "note": "机器比水滴早一小时泄了密", "en": "to show a secret" },
+        { "word": "hold ... up", "level": "B1", "match": ["held him up"], "note": "抱着他看最后两分钟", "en": "to keep something up" },
+        { "word": "crib", "level": "B2", "match": ["crib"], "note": "站在婴儿床里喊一个词", "en": "a baby's small bed with rails" },
+        { "word": "thirsty", "level": "A2", "match": ["thirsty"], "note": "全是费口水的活儿", "en": "needing water" },
+        { "word": "integrate", "level": "C1", "match": ["integrated"], "note": "整合一列进周流水线", "en": "to join parts into one" },
+        { "word": "column", "level": "B2", "match": ["column"], "note": "周流水线新列", "en": "one vertical line of a table" },
+        { "word": "cry", "level": "A1", "match": ["crying"], "note": "考虑了一下哭，婉拒了", "en": "to let tears fall" },
+        { "word": "red", "level": "A1", "match": ["red-edged"], "note": "红缘的树", "en": "the color of blood and apples" },
+        { "word": "tree", "level": "A1", "match": ["trees"], "note": "红缘的树上方天空变色", "en": "the tall plant with leaves" },
+        { "word": "star", "level": "A1", "match": ["star"], "note": "一颗星已上岗", "en": "the small light in the night sky" },
+        { "word": "pipeline", "level": "C1", "match": ["pipeline"], "note": "周流水线", "en": "a row of machines passing work along" },
+        { "word": "share", "level": "A2", "match": ["shared"], "note": "把故事分享到家庭群", "en": "to give part of what you have" },
+        { "word": "moon", "level": "A1", "match": ["moon"], "note": "月亮迟了但在来", "en": "the bright circle of the night" },
+        { "word": "back", "level": "A1", "match": ["back"], "note": "春天拆走那表的亲眷 / 回家", "en": "toward where you came from" },
+        { "word": "round", "level": "A2", "match": ["rounds"], "note": "警车不慌不忙的巡逻", "en": "one turn of a watch" },
+        { "word": "police", "level": "A1", "match": ["police"], "note": "警车驶过闸口", "en": "the people who keep the law" },
+        { "word": "dress", "level": "A1", "match": ["dressed"], "note": "一排同事三宽，穿戴整齐入眠", "en": "wearing clothes" },
+        { "word": "suggestion", "level": "B1", "match": ["suggestion"], "note": "同事的建议：卫士教程变博客", "en": "an idea offered gently" }
+      ]
+    },
+    {
+      "group": "明日预习（今晚队列未背 16 词，全部顺路进文）",
+      "words": [
+        { "word": "horse", "level": "A2", "match": ["Horses"], "note": "公园旋转木马上认识的马", "en": "the animal you ride" },
+        { "word": "elephant", "level": "A2", "match": ["elephant", "elephants"], "note": "E 卷周一到，在那之前算惊喜 / 睡前列队第三位", "en": "the big gray animal with a trunk" },
+        { "word": "tomorrow", "level": "A1", "match": ["tomorrow", "Tomorrow"], "note": "明天九点整动物园 / 公文包里装着明天的地图", "en": "the day after today" },
+        { "word": "blog", "level": "B1", "match": ["blog"], "note": "同事建议把卫士写成博客 / 想进博客的那一段", "en": "a public online notebook" },
+        { "word": "goodnight", "level": "A2", "match": ["goodnight"], "note": "今晚的晚安很长，走了全部乐器", "en": "the words before sleep" },
+        { "word": "review", "level": "B1", "match": ["review"], "note": "四十分钟一个函数的深评审", "en": "looking again at work" },
+        { "word": "afford", "level": "B1", "match": ["afford"], "note": "我们买得起他买不起的冰淇淋", "en": "to have enough money for" },
+        { "word": "smart", "level": "A2", "match": ["smart"], "note": "机器学习组要给它加智能，我拒绝了两次", "en": "clever, in the machine way" },
+        { "word": "deep", "level": "B1", "match": ["deep"], "note": "深评审", "en": "going far down" },
+        { "word": "bottle", "level": "A1", "match": ["bottle"], "note": "背包里的奶瓶 / 睡前一瓶", "en": "the thing milk comes in" },
+        { "word": "backpack", "level": "A2", "match": ["backpack"], "note": "门口等着的背包", "en": "the bag carried on the back" },
+        { "word": "row", "level": "A2", "match": ["row"], "note": "一排同事，三个宽", "en": "a line of things" },
+        { "word": "late", "level": "A1", "match": ["late"], "note": "月亮迟了但在来 / 错误钟点", "en": "after the right time" },
+        { "word": "hook", "level": "B2", "match": ["hook"], "note": "给分析组加的一个钩子", "en": "a point where code catches events" },
+        { "word": "sky", "level": "A1", "match": ["sky"], "note": "紫转深蓝的天 / 窗外晴朗的天", "en": "the space above us" },
+        { "word": "minify", "level": "C1", "match": ["minified"], "note": "构建压缩到比自己的名字还轻", "en": "to make code smaller" }
+      ]
+    },
+    {
+      "group": "计划外生词（63 token，密度 4.70% ≤ 5%）",
+      "words": [
+        { "word": "washer", "level": "C1", "match": ["washer"], "note": "×3，硬币大小的垫圈，磨了半年", "en": "the small ring that seals a pipe" },
+        { "word": "drip", "level": "B2", "match": ["drip"], "note": "×3，一秒一滴，耐心如账单", "en": "water falling one drop at a time" },
+        { "word": "wrench", "level": "C1", "match": ["wrench"], "note": "×3，管钳，第四步气坏我", "en": "the tool for turning pipes" },
+        { "word": "trap", "level": "B2", "match": ["trap"], "note": "×2，水槽下的存水弯", "en": "the bent pipe under a sink" },
+        { "word": "humidity", "level": "B2", "match": ["humidity"], "note": "×2，连升三次的湿度", "en": "water in the air" },
+        { "word": "carousel", "level": "C1", "match": ["carousel"], "note": "公园旋转木马", "en": "the riding circle of horses" },
+        { "word": "valve", "level": "C1", "match": ["valve"], "note": "在阀门处关水", "en": "the thing that stops a pipe" },
+        { "word": "analytics", "level": "C1", "match": ["analytics"], "note": "分析组", "en": "the people who count usage" },
+        { "word": "coin", "level": "A2", "match": ["coin"], "note": "硬币大小的垫圈 / 把价格敲进收银机", "en": "the small round money" }
+      ]
+    }
+  ]
+}
