@@ -1,0 +1,99 @@
+{
+  "slug": "npr-starshield",
+  "title": "Ukraine and the U.S. Are at Odds Over Starshield. What to Know",
+  "source": "NPR",
+  "sourceUrl": "https://text.npr.org/nx-s1-6007382",
+  "author": "Kristin Wright",
+  "date": "2026-10-18",
+  "added": "2026-10-19",
+  "tags": [
+    "tech",
+    "AI",
+    "geopolitics"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.3,
+      "target": "<2%",
+      "desc": "A2 摘编：事件→是什么→为何闹翻",
+      "keyWords": [
+        {
+          "word": "clash",
+          "en": "a fight or strong disagreement"
+        },
+        {
+          "word": "slowdown",
+          "en": "the act of making something run slower"
+        },
+        {
+          "word": "lawmaker",
+          "en": "a person who makes laws, like a member of Congress"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-starshield/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 3.1,
+      "target": "2–5%",
+      "desc": "i+1 理想区：事件、背景、罗生门",
+      "keyWords": [
+        {
+          "word": "impose",
+          "en": "to force a rule or limit onto someone"
+        },
+        {
+          "word": "deny",
+          "en": "to say something is not true"
+        },
+        {
+          "word": "inquiry",
+          "en": "an official investigation"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-starshield/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.0,
+      "target": "5–8%",
+      "desc": "接近原文，三段引语原样保留",
+      "keyWords": [
+        {
+          "word": "intercept",
+          "en": "to stop and catch something on its way"
+        },
+        {
+          "word": "drone",
+          "en": "a flying machine controlled from afar or by itself"
+        },
+        {
+          "word": "deliberate",
+          "en": "done on purpose, not by accident"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-starshield/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 13.4,
+      "target": "—",
+      "desc": "NPR 原文",
+      "keyWords": [
+        {
+          "word": "at odds",
+          "en": "in disagreement (idiom)"
+        },
+        {
+          "word": "hinder",
+          "en": "to make it harder for something to happen"
+        },
+        {
+          "word": "categorically",
+          "en": "completely and in every way (said of a denial)"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "主题词（专名 SKIP 免费必认）",
+      "words": [
+        { "word": "Starshield", "level": "专名", "match": ["Starshield"], "en": "SpaceX's high-powered military version of Starlink, shared with Ukraine since 2024", "note": "全篇核心，专名不计密度 ｜ 低: a space internet service for the army" },
+        { "word": "Starlink", "level": "专名", "match": ["Starlink"], "en": "SpaceX's satellite internet network for ordinary users", "note": "专名不计 ｜ 乌军实际使用的服务名" },
+        { "word": "SpaceX", "level": "专名", "match": ["SpaceX"], "en": "Elon Musk's space company", "note": "专名不计" },
+        { "word": "POTUS", "level": "缩写", "match": ["POTUS"], "en": "President Of The United States", "note": "Musk 引语原词，缩写不计" }
+      ]
+    },
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "drone", "level": "B2", "match": ["drone", "drones"], "en": "a flying machine controlled from afar or by itself", "note": "高 ×3 ｜ 中: pilotless aircraft ｜ 低: flying machines（避免计费）" },
+        { "word": "intercept", "level": "C1", "match": ["intercept"], "en": "to stop and catch something on its way", "note": "高: 引语原词 ｜ 低/中: bring down / stop" },
+        { "word": "restriction", "level": "B2", "match": ["restriction", "restrict"], "en": "a limit placed on something", "note": "高: 引语原词 + restricted access ｜ 中: limits ｜ 低: 未提" },
+        { "word": "deliberate", "level": "B2", "match": ["deliberate"], "en": "done on purpose, not by accident", "note": "高: were deliberate ｜ 高2: done on purpose" },
+        { "word": "vulnerable", "level": "C1", "match": ["vulnerable"], "en": "easy to hurt; without protection", "note": "高: an extremely vulnerable moment ｜ 低/中: 未提" },
+        { "word": "sanction", "level": "B2", "match": ["sanction", "sanctions"], "en": "an official punishment against a country", "note": "高/中保留 ×1 ｜ 低: punishments" },
+        { "word": "refinery", "level": "C1", "match": ["refinery", "refineries"], "en": "a factory that turns oil into fuel", "note": "高 ×1 ｜ 中/低: oil-making plants / oil plants" },
+        { "word": "impose", "level": "C1", "match": ["impose"], "en": "to force a rule or limit onto someone", "note": "中: imposed the limits ｜ 高: 引语原词 imposed ｜ 低: 未提" },
+        { "word": "deny", "level": "B2", "match": ["deny", "denied", "denying"], "en": "to say something is not true", "note": "中 ×1 ｜ 高: rejected / said he had nothing to do with it" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "military", "level": "B2", "match": ["military"], "en": "the armed forces of a country", "note": "高 ×2（含引语）｜ 中/低: army" },
+        { "word": "strike", "level": "B2", "match": ["strike", "strikes", "striking"], "en": "a military attack", "note": "高 ×2 ｜ 中: hits ｜ 低: 未用" },
+        { "word": "missile", "level": "C1", "match": ["missile", "missiles"], "en": "a flying weapon that can carry explosives", "note": "高 ×1 ｜ 中: flying bombs ｜ 低: 未提" },
+        { "word": "lawmaker", "level": "C1", "match": ["lawmaker", "lawmakers"], "en": "a person who makes laws, like a member of Congress", "note": "低/高保留 ｜ 中: lawmakers ✓（同一词）" },
+        { "word": "inspector general", "level": "B2", "match": ["inspector"], "en": "the official who investigates wrongdoing inside a U.S. department", "note": "高/中/低保留（职位名）" },
+        { "word": "ease", "level": "B2", "match": ["ease", "eased"], "en": "to make a rule less strict", "note": "高/中: eased sanctions / lifted punishments" },
+        { "word": "resume", "level": "B2", "match": ["resumed"], "en": "to start again after a break", "note": "高/中: has resumed / started again" },
+        { "word": "clash", "level": "C1", "match": ["clash"], "en": "a fight or strong disagreement", "note": "低标题用词 ｜ 高/中: at odds / quarrel" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "categorically", "level": "C1", "match": ["categorically"], "en": "completely and in every way (said of a denial)", "note": "Rubio 引语原词保留" },
+        { "word": "temporarily occupied territories", "level": "C1", "match": ["temporarily", "occupy", "territories"], "en": "lands held by enemy forces during a war", "note": "Zelenskyy 引语原词保留 ｜ 低/中: 简化转述" },
+        { "word": "bipartisan", "level": "C1", "match": ["bipartisan"], "en": "supported by both political parties", "note": "高: from both parties（首轮降级）" },
+        { "word": "front line", "level": "B1", "match": ["front"], "en": "the place where fighting is happening", "note": "三版保留（Zelenskyy 引语）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "at odds", "level": "B1", "match": ["odds"], "en": "in disagreement (idiom)", "note": "标题习语 ｜ 低: in a serious fight" },
+        { "word": "push back", "level": "B1", "match": ["pushed"], "en": "to resist or oppose a decision", "note": "高: pushed back on that（原文）" },
+        { "word": "lash out", "level": "B2", "match": ["lashed"], "en": "to suddenly speak angrily", "note": "高: hit back（降级）" }
+      ]
+    }
+  ]
+}
