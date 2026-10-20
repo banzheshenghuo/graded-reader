@@ -1,0 +1,99 @@
+{
+  "slug": "npr-ai-double-whammy",
+  "title": "What if an AI Bubble Bursts — and That Accelerates AI Job Losses?",
+  "source": "NPR (Planet Money)",
+  "sourceUrl": "https://www.npr.org/2026/10/20/g-s1-148305",
+  "author": "Adrian Ma",
+  "date": "2026-10-20",
+  "added": "2026-10-20",
+  "tags": [
+    "AI",
+    "economy",
+    "tech"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.1,
+      "target": "<2%",
+      "desc": "A2 摘编：双重打击的故事",
+      "keyWords": [
+        {
+          "word": "boom",
+          "en": "a time of fast growth and excitement"
+        },
+        {
+          "word": "bubble",
+          "en": "a price rise built on hope, ready to break"
+        },
+        {
+          "word": "hit",
+          "en": "a blow; something bad that lands on you"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-double-whammy/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 3.6,
+      "target": "2–5%",
+      "desc": "i+1 理想区：泡沫史 + 88% 研究",
+      "keyWords": [
+        {
+          "word": "bust",
+          "en": "a sudden failure; the end of a boom"
+        },
+        {
+          "word": "owe",
+          "en": "to have to pay money back"
+        },
+        {
+          "word": "crash",
+          "en": "a sudden big fall in prices"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-double-whammy/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 10.2,
+      "target": "5–8%",
+      "desc": "⚠ 密度超标 2.2 点——经济学主题词为全文骨架，无法再降而不伤文意",
+      "keyWords": [
+        {
+          "word": "recession",
+          "en": "a period when the economy shrinks and jobs disappear"
+        },
+        {
+          "word": "ticking time bomb",
+          "en": "a problem growing quietly, ready to explode"
+        },
+        {
+          "word": "cathartic",
+          "en": "making you feel cleaner after letting feelings out"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-double-whammy/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 17.1,
+      "target": "—",
+      "desc": "NPR Planet Money 原文",
+      "keyWords": [
+        {
+          "word": "whammy",
+          "en": "a hard hit; two bad things landing together"
+        },
+        {
+          "word": "reckoning",
+          "en": "the moment when you face what you owe or did wrong"
+        },
+        {
+          "word": "ungodly",
+          "en": "(of an amount) shockingly huge"
+        }
+      ]
+    }
+  }
+}

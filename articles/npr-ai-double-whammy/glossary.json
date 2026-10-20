@@ -1,0 +1,49 @@
+{
+  "groups": [
+    {
+      "name": "主题词（经济骨架，高版计费密集）",
+      "words": [
+        { "word": "bubble", "level": "B1", "match": ["bubble"], "en": "a price rise built on hope, ready to break", "note": "免费主题词，三版保留" },
+        { "word": "recession", "level": "B2", "match": ["recession"], "en": "a period when the economy shrinks and jobs disappear", "note": "高 ×2 ｜ 中: sick period / bad times ｜ 低: 未提" },
+        { "word": "bust", "level": "B2", "match": ["bust"], "en": "a sudden failure; the end of a boom", "note": "高 ×2 ｜ 中 ×1 ｜ 低: the bubble breaks" },
+        { "word": "boom", "level": "C1", "match": ["boom"], "en": "a time of fast growth and excitement", "note": "低标题 ×1（免费词表外只此一枚）｜ 中 ×1" },
+        { "word": "debt", "level": "B2", "match": ["debt", "debts"], "en": "money you must pay back", "note": "高 ×2 ｜ 中: what they owe" },
+        { "word": "owe", "level": "B2", "match": ["owe"], "en": "to have to pay money back", "note": "中 ×1 ｜ 高: those who owe" },
+        { "word": "trigger", "level": "B2", "match": ["trigger", "triggered"], "en": "to make something bad start", "note": "高 ×1 ｜ 中/低: set off / brought" },
+        { "word": "whammy", "level": "C2", "match": ["whammy"], "en": "a hard hit; two bad things landing together", "note": "原文造词 double whammy ｜ 高标题保留 ×1 ｜ 中/低: double hit" },
+        { "word": "automation", "level": "B2", "match": ["automation"], "en": "machines doing work once done by people", "note": "高版已改为 machines doing human work" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "burst", "level": "C1", "match": ["burst", "bursts"], "en": "to break suddenly; (of a bubble) to fail", "note": "高 ×1 ｜ 中: breaks ｜ 低: breaks" },
+        { "word": "crash", "level": "B2", "match": ["crash"], "en": "a sudden big fall in prices", "note": "高/中 ×1 ｜ 低: the fall" },
+        { "word": "panic", "level": "B2", "match": ["panic"], "en": "sudden wild fear; here: the money disasters of 1873", "note": "书名 Manias, Panics, and Crashes 保留 ｜ 低: money disasters" },
+        { "word": "investor", "level": "B2", "match": ["investor", "investors"], "en": "a person who puts money into something hoping to earn more", "note": "高 ×1 ｜ 中: money people ｜ 低: people" },
+        { "word": "insurance", "level": "B2", "match": ["insurance"], "en": "protection you pay for against future trouble", "note": "高/中 ×1 ｜ 低: special pay" },
+        { "word": "race", "level": "A2", "match": ["races"], "en": "to move very fast (here: technology moving fast)", "note": "免费" },
+        { "word": "fierce", "level": "B2", "match": ["fierce"], "en": "very strong and aggressive", "note": "高 ×1（价格竞争惨烈）" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "ticking time bomb", "level": "C1", "match": ["ticking"], "en": "a problem growing quietly, ready to explode", "note": "高保留比喻 ｜ 中: a danger ｜ 低: 未提" },
+        { "word": "cathartic", "level": "C2", "match": ["cathartic"], "en": "making you feel cleaner after letting feelings out", "note": "高结尾词，已改写为 washing it out of the system" },
+        { "word": "livelihood", "level": "C1", "match": ["livelihood"], "en": "the way you earn money to live", "note": "高版已改写为 the ways we earn our living" },
+        { "word": "populist", "level": "C1", "match": ["populist"], "en": "claiming to speak for ordinary people against the elite", "note": "高: a people's rising" },
+        { "word": "crackdown", "level": "C1", "match": ["crackdown"], "en": "sudden strict action against something", "note": "高: the first big stop on newcomers（移民管制）" },
+        { "word": "ungodly", "level": "C1", "match": ["ungodly"], "en": "(of an amount) shockingly huge", "note": "高保留（作者的夸张趣味）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "double whammy", "level": "B2", "match": ["double"], "en": "two bad things hitting at the same time", "note": "标题概念 ｜ 高: double whammy ｜ 中/低: double hit" },
+        { "word": "the sky is the limit", "level": "B1", "match": ["sky"], "en": "there is no ceiling on what is possible", "note": "三版保留（免费习语）" },
+        { "word": "safety net", "level": "B1", "match": ["safety net"], "en": "government programs that catch people who fall on hard times", "note": "高/中保留（免费）" }
+      ]
+    }
+  ]
+}
