@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，18 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "信任纸如农民信任雨 / 唯一授权的周六安排 / 又小又吵公司的秘书", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complain"], "note": "门口原则性抱怨票价 / 还不会用词就用整张脸抱怨 / 没人抱怨连周一也没", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator", "refrigerators"], "note": "企鹅房车库大的冰箱 / 紫厨房那台 / 今夜四度", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "隔壁外国一家借我们分享喜悦 / 外国旅行团 / 两个声音一个本地一个像外国", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrated"], "note": "他睡着只让我一人泄气 / 大象躲墙后全员泄气 / 无人泄气也算一种", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "周六留在家的公文包 / 周一带着未答的请求 / 今晚立在门边", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements", "arrangement"], "note": "安排分秒不差 / 大象的安排里没有我们 / 周六安排已在成形", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "Bobby 整脸的评价 / 一个词的评价说两遍 / 饲养员对我爱好的职业评价", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫泳帽赛季退役 / 紫遮阳伞 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "背包里的 T 卷 / 百科不会睡觉是不公平优势 / E 卷周一到货读两遍", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "他的电量耗尽我的也是 / 电池旗子留在笔记里 / 我的电量一半在充", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "预算和约束都守住了 / 墙是设计的约束 / 一勺与其说是约束不如说是承诺", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "睡着的老虎是当天首个异常 / 两天无异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "开门一次取药 / 每周一次的奶油药 / 药架满而凉", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "想对饲养员讲我家小冷房的教程 / 六步无句子的博客教程 / 教程再等等", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "承诺般的一致性 / 未答也算一种一致性 / 好一周的一致性", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "奶油预算是计划第一行 / 每周一次的奶油药 / 一勺不是两勺", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "对纪念品店的偏见活到看见毛绒象 / 职业偏见醒了 / 我对安静周二的偏见保持良好", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（50 token，密度 4.74% ≤ 5%）",
+      "words": [
+        { "word": "tiger", "level": "B2", "match": ["tiger"], "note": "×4（主题词），睡着如地毯 vs 玩具虎", "en": "the big wild cat" },
+        { "word": "elephant", "level": "A2", "match": ["elephant", "elephants"], "note": "×4，躲墙后 20 分钟，出来时被单臂指挥", "en": "the big gray animal with a trunk" },
+        { "word": "volume", "level": "B2", "match": ["volume"], "note": "×2，T 卷随身 / E 卷周一", "en": "one book of a set" },
+        { "word": "backpack", "level": "A2", "match": ["backpack"], "note": "×2，装着三天的计划回家更沉", "en": "the bag carried on the back" },
+        { "word": "budget", "level": "B1", "match": ["budget"], "note": "×2，奶油预算第一行 / 预算守住了", "en": "the plan for money" },
+        { "word": "flamingo", "level": "C1", "match": ["flamingos"], "note": "火烈鸟旁抱出去", "en": "the pink standing bird" },
+        { "word": "penguin", "level": "B2", "match": ["penguin"], "note": "企鹅池的饲养员", "en": "the black and white bird" },
+        { "word": "souvenir", "level": "C1", "match": ["souvenir"], "note": "纪念品店偏见 vs 毛绒象", "en": "a thing kept to remember a place" },
+        { "word": "giraffe", "level": "B2", "match": ["giraffes"], "note": "长颈鹿留到下次", "en": "the very tall animal" },
+        { "word": "scoop", "level": "B2", "match": ["scoop"], "note": "×2，一人一勺", "en": "one round spoonful" }
+      ]
+    }
+  ]
+}

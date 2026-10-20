@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-20",
+  "title": "The Zoo",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-20",
+  "added": "2026-10-20",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.7,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-20/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（连续零进度四天，STICKING 18 词 ×3 滚动复现）：周六动物园终于成行——真老虎睡着如地毯 vs 百科老虎的不公平优势，Bobby 单臂指挥真大象，E 卷周一到货对照阅读",
+      "keyWords": [
+        { "word": "encyclopedia", "en": "does not sleep — its unfair advantage over the real thing" },
+        { "word": "evaluation", "en": "Grandma's one-word review: worth it. Said twice, a standing applause" },
+        { "word": "consistency", "en": "four degrees, checked every hour — same job, different size of elephant" }
+      ]
+    }
+  }
+}
