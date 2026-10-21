@@ -1,0 +1,99 @@
+{
+  "slug": "transmitter-neurodata",
+  "title": "Govern Neurodata by How It's Used, Not Where It's From",
+  "source": "The Transmitter",
+  "sourceUrl": "https://www.thetransmitter.org/ethics/govern-neurodata-by-how-its-used-not-where-its-from/",
+  "author": "José M. Muñoz",
+  "date": "2026-10-16",
+  "added": "2026-10-21",
+  "tags": [
+    "neuroscience",
+    "ethics",
+    "policy"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 0.8,
+      "target": "<2%",
+      "desc": "A2 白话：智利判例 + 用途定规则",
+      "keyWords": [
+        {
+          "word": "reuse",
+          "en": "to use something again for a new purpose"
+        },
+        {
+          "word": "buyer",
+          "en": "a person who buys things"
+        },
+        {
+          "word": "maker",
+          "en": "the company that made a product"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-neurodata/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 3.2,
+      "target": "2–5%",
+      "desc": "i+1 理想区：原则 + 各州法律乱象",
+      "keyWords": [
+        {
+          "word": "govern",
+          "en": "to control with rules"
+        },
+        {
+          "word": "privacy",
+          "en": "the state of keeping your life and data to yourself"
+        },
+        {
+          "word": "ruling",
+          "en": "an official court decision"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-neurodata/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.4,
+      "target": "5–8%",
+      "desc": "接近原文，法律论证完整",
+      "keyWords": [
+        {
+          "word": "consent",
+          "en": "permission given freely for something"
+        },
+        {
+          "word": "integrity",
+          "en": "being whole and unharmed (bodily/mental integrity)"
+        },
+        {
+          "word": "safeguard",
+          "en": "a rule or measure that protects"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-neurodata/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.7,
+      "target": "—",
+      "desc": "The Transmitter 原文",
+      "keyWords": [
+        {
+          "word": "neurorights",
+          "en": "proposed rights protecting the brain from misuse"
+        },
+        {
+          "word": "pupillometry",
+          "en": "measuring the size of the eye's pupil as data"
+        },
+        {
+          "word": "landmark",
+          "en": "very important, a turning point (of a decision)"
+        }
+      ]
+    }
+  }
+}

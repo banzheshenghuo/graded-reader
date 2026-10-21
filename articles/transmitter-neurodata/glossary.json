@@ -1,0 +1,49 @@
+{
+  "groups": [
+    {
+      "name": "主题词（SKIP 免费必认）",
+      "words": [
+        { "word": "neurodata", "level": "SKIP", "match": ["neurodata"], "en": "data recorded from the brain or nervous system", "note": "造词 SKIP 免费，全文核心 ｜ 低: brain data" },
+        { "word": "neurorights", "level": "SKIP", "match": ["neurorights"], "en": "proposed rights protecting the brain from misuse", "note": "造词免费 ｜ 低: brain rights" },
+        { "word": "pupillometry", "level": "SKIP", "match": ["pupillometry"], "en": "measuring the size of the eye's pupil as data", "note": "SKIP 免费 ｜ 高保留（Denver/Helena 例子）" },
+        { "word": "EEG", "level": "缩写", "match": ["EEG"], "en": "a recording of the brain's electrical signals", "note": "缩写不计密度" }
+      ]
+    },
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "govern", "level": "B2", "match": ["govern", "governed", "governance"], "en": "to control with rules", "note": "标题词 ｜ 高 ×2 ｜ 中 ×1 ｜ 低: rules should depend on" },
+        { "word": "privacy", "level": "B2", "match": ["privacy"], "en": "keeping your life and data to yourself", "note": "高 ×2 ｜ 中 ×1 ｜ 低: keep your life to yourself" },
+        { "word": "consent", "level": "C1", "match": ["consent"], "en": "permission given freely for something", "note": "核心概念 ｜ 高 ×2（文眼句）｜ 低: agreeing" },
+        { "word": "ruling", "level": "C1", "match": ["ruling"], "en": "an official court decision", "note": "高/中保留 ｜ 低: decision" },
+        { "word": "safeguard", "level": "C1", "match": ["safeguard", "safeguards"], "en": "a rule or measure that protects", "note": "高 ×2 ｜ 中/低: rules / lighter rules" },
+        { "word": "integrity", "level": "C1", "match": ["integrity"], "en": "being whole and unharmed", "note": "高: physical and mental integrity ｜ 低/中: keep body and mind safe" },
+        { "word": "impose", "level": "B2", "match": ["impose"], "en": "to force a rule onto someone", "note": "高: sets no rules ｜ 低: 未提" },
+        { "word": "regulate", "level": "B2", "match": ["regulate"], "en": "to control by rules", "note": "高 ×1 ｜ 低/中: governed by rules" },
+        { "word": "reuse", "level": "B2", "match": ["reuse"], "en": "to use something again for a new purpose", "note": "低 keyWord ｜ 中: use again" },
+        { "word": "headset", "level": "B2", "match": ["headset"], "en": "a device worn on the head", "note": "高 ×2 ｜ 低: head device" },
+        { "word": "neuroscientist", "level": "C1", "match": ["neuroscientist"], "en": "a scientist who studies the brain", "note": "高 ×1 ｜ 低/中: 简化语境" },
+        { "word": "funder", "level": "C2", "match": ["funder", "fund"], "en": "an organization that pays for research", "note": "高 ×1 ｜ 低/中: money givers" },
+        { "word": "inconsistent", "level": "B2", "match": ["inconsistent"], "en": "not agreeing with each other", "note": "高 ×1 ｜ 中: they disagree" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "landmark", "level": "C1", "match": ["landmark"], "en": "very important, a turning point", "note": "高首句 ｜ 中: famous ｜ 低: famous" },
+        { "word": "explicit", "level": "C1", "match": ["explicit"], "en": "stated clearly and directly", "note": "高: an explicit neurorights clause ｜ 低: 未提" },
+        { "word": "correlate", "level": "C1", "match": ["correlates"], "en": "something that changes together with another thing", "note": "高: correlates of our mental states ｜ 低/中: mirrors" },
+        { "word": "testimony", "level": "C1", "match": ["testimony"], "en": "formal advice or statements given to a committee", "note": "高: expert testimony ｜ 低/中: expert advice" },
+        { "word": "pupil dilation", "level": "C1", "match": ["pupil"], "en": "the eye's pupil getting bigger (a body signal)", "note": "高: pupil size ｜ Montana 例子" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "grounded in", "level": "B2", "match": ["grounded"], "en": "based on (a legal or logical base)", "note": "高: grounded the ruling in rights already on the books" },
+        { "word": "on the books", "level": "B1", "match": ["books"], "en": "written into law", "note": "高保留 ｜ 低: already in the law" },
+        { "word": "show up", "level": "A2", "match": ["show up"], "en": "to appear and take part", "note": "结尾号召，三版保留" }
+      ]
+    }
+  ]
+}
