@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "主题词与机构名",
+      "words": [
+        { "word": "institute", "level": "B2", "match": ["institute"], "en": "an organization built for a special purpose", "note": "AI Jobs Institute，原文 ×7 ｜ 中 ×2 ｜ 高 ×4 ｜ 低: the new center" },
+        { "word": "Pursuit", "level": "专名", "match": ["Pursuit"], "en": "the nonprofit training group running the institute (lowercase 'pursuit' = chasing a goal)", "note": "大写但小写形在词表 → 计费 ｜ 低: a training group" },
+        { "word": "hub", "level": "B2", "match": ["hub"], "en": "a center of activity", "note": "高 ×1 ｜ 中/低: center" },
+        { "word": "workforce", "level": "B2", "match": ["workforce"], "en": "all the people who work in a place or field", "note": "高/中 keyWord ｜ 低: workers" },
+        { "word": "upskill", "level": "SKIP", "match": ["upskilled", "upskilled"], "en": "to teach workers new, modern skills", "note": "新造词 SKIP 免费！三版保留" },
+        { "word": "mobility", "level": "C1", "match": ["mobility"], "en": "the ability to move up in life or work", "note": "高: economic mobility ｜ 低/中: move up in life" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "uncertainty", "level": "B2", "match": ["uncertainty"], "en": "the state of not knowing what will happen", "note": "高引语原词 ｜ 低: making people unsure" },
+        { "word": "proficiency", "level": "C1", "match": ["proficiency"], "en": "a high level of skill at something", "note": "高: Simmons 引语原词 ｜ 中/低: really understand it" },
+        { "word": "placement", "level": "B2", "match": ["placement"], "en": "finding jobs for trained people", "note": "高 ×1 ｜ 低/中: 未提" },
+        { "word": "certificate", "level": "B2", "match": ["certificate", "certificates"], "en": "an official paper proving you finished a course", "note": "高 ×1 ｜ 低/中: papers" },
+        { "word": "council", "level": "B2", "match": ["council"], "en": "a group that advises or governs", "note": "高 ×2（advisory council）｜ 低/中: advisory group" },
+        { "word": "nonprofit", "level": "B2", "match": ["nonprofit"], "en": "an organization that doesn't exist to make money", "note": "高 ×1 ｜ 中: charity group" },
+        { "word": "funder", "level": "C2", "match": ["funder", "funders"], "en": "an organization that pays for something", "note": "高 ×1 ｜ 中/低: companies" },
+        { "word": "wage", "level": "B2", "match": ["wage", "wages"], "en": "money paid for work", "note": "三版保留（核心数字 $1B）" },
+        { "word": "assistance", "level": "B2", "match": ["assistance"], "en": "help, especially from the government", "note": "高: public assistance ｜ 低/中: government help" },
+        { "word": "bay", "level": "B2", "match": ["bay"], "en": "here: the San Francisco Bay Area (tech region)", "note": "三版保留（对比对象）" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "AI-exposed", "level": "造词", "match": ["exposed"], "en": "(of a job or field) likely to be changed by AI", "note": "高 ×2 → 后改 AI-heavy（expose 计费）" },
+        { "word": "eighty-fold", "level": "C1", "match": ["eighty-fold"], "en": "eighty times the original size", "note": "高保留（40,000 vs 500 的扩张倍数）" },
+        { "word": "compounded", "level": "C1", "match": ["compound", "compounded"], "en": "grew larger over time, layer by layer", "note": "高: the gap compounded ｜ 低/中: the gap grew" },
+        { "word": "leap of faith", "level": "C1", "match": ["leap"], "en": "a risky choice made on trust alone (idiom)", "note": "引语原词，高/中保留 ｜ 低: 未提" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "entry-level", "level": "B1", "match": ["entry-level"], "en": "at the lowest level of a career", "note": "三版保留（低: first jobs）" },
+        { "word": "take a village", "level": "B1", "match": ["village"], "en": "\"it takes a village\" = needs everyone's help (idiom)", "note": "高/中引语保留" },
+        { "word": "front of the line", "level": "A2", "match": ["front"], "en": "first position; served first", "note": "核心公平概念，三版保留" }
+      ]
+    }
+  ]
+}

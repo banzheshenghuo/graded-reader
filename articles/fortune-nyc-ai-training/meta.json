@@ -1,0 +1,99 @@
+{
+  "slug": "fortune-nyc-ai-training",
+  "title": "New York City Is Spending $10 Million to Train Workers for AI",
+  "source": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/10/22/new-york-city-queens-hub-ai-training-10-million-40000-workers/",
+  "author": "Catherina",
+  "date": "2026-10-22",
+  "added": "2026-10-22",
+  "tags": [
+    "finance",
+    "AI",
+    "jobs"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.2,
+      "target": "<2%",
+      "desc": "A2 摘编：计划→市场→谁受训→为何这次不同",
+      "keyWords": [
+        {
+          "word": "org",
+          "en": "short for organization — a group set up for a purpose"
+        },
+        {
+          "word": "unsure",
+          "en": "not certain about something"
+        },
+        {
+          "word": "pursuit",
+          "en": "the act of chasing a goal (here: a training group's name)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-nyc-ai-training/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.1,
+      "target": "2–5%",
+      "desc": "i+1 理想区：政策 + 劳动力市场 + 公平问题",
+      "keyWords": [
+        {
+          "word": "institute",
+          "en": "an organization built for a special purpose"
+        },
+        {
+          "word": "workforce",
+          "en": "all the people who work in a place or field"
+        },
+        {
+          "word": "leap of faith",
+          "en": "a risky choice made on trust alone (idiom)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-nyc-ai-training/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.7,
+      "target": "5–8%",
+      "desc": "接近原文，全部数字与引语保留",
+      "keyWords": [
+        {
+          "word": "workforce",
+          "en": "all the people who work in a place or field"
+        },
+        {
+          "word": "mobility",
+          "en": "the ability to move up in life or work"
+        },
+        {
+          "word": "proficiency",
+          "en": "a high level of skill at something"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-nyc-ai-training/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 12.8,
+      "target": "—",
+      "desc": "Fortune 原文",
+      "keyWords": [
+        {
+          "word": "AI-exposed",
+          "en": "(of a job or field) likely to be changed by AI"
+        },
+        {
+          "word": "compounded",
+          "en": "grew larger over time, layer by layer"
+        },
+        {
+          "word": "eighty-fold",
+          "en": "eighty times the original size"
+        }
+      ]
+    }
+  }
+}
