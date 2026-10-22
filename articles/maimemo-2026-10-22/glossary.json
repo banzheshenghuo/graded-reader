@@ -1,0 +1,49 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 18 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "翻日历如翻新账页 / 秘书式归档打扫", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complaint"], "note": "毛巾两次抱怨 / 池水的意见一口就原谅", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "全家唯一每天上班的：四度一周 / 药架满", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "周四安静的泳池一家外国人家 / 没见过的新动物狐狸页", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrate", "frustration"], "note": "五天懒散最气的是日历 / 晨间的沮丧归档为修行", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "开包见旧项目 / 门边的包轻了", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "重启三件套宣布 / 周六安排又在成形", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "同事的一边眉毛 / 教练第二课评价：恰好也是婴儿的游泳者", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫厨房五天的指纹 / 紫泳帽四天退役即冬歇", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "F 卷到货：鱼火烈鸟狐狸 / 站在 F 还有整个字母表", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "旗子还坐在笔记里 / 电池仍被标记但坚持着", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "截止期限很客气 / 一勺的家规", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "红圈圈出的异常问我家卫士 / 夜报无异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "药架干而满 / 晚药无表情下咽=康复计量法", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "六步零句的教程 / 午后写了两句=200% 进度", "en": "a lesson that shows you how" },
+        { "word": "intelligence", "level": "B1", "match": ["intelligence"], "note": "它没有智能它只会数数 / 设计如此零智能", "en": "the ability to learn and understand" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "池水三十二度的一致性 / 冰箱著名的一致性", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "一勺家规照常 / 奶油预算原地立着", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "教练先游戏后立场的偏好 / 我对安静一周=浪费一周的偏见", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "今日所学（3 词全覆盖，停背五天后重启）",
+      "words": [
+        { "word": "project", "level": "B1", "match": ["project"], "note": "重启三件套第一件是房子 / 黑暗里陈年奶酪般的老项目 / 项目有了形状", "en": "a piece of work with a goal" },
+        { "word": "dirty", "level": "A1", "match": ["dirty"], "note": "窗下一座全脏的玩具山", "en": "not clean" },
+        { "word": "brand", "level": "A2", "match": ["brand"], "note": "她的肥皂牌，不为钱、天气或政府更迭而换", "en": "the maker's name on a product" }
+      ]
+    },
+    {
+      "group": "计划外生词（46 token，密度 4.26% ≤ 5%）",
+      "words": [
+        { "word": "restart", "level": "B2", "match": ["restart", "Restart"], "note": "×5（主题词），重启三部分：项目、脏乱、奖励", "en": "beginning again after a stop" },
+        { "word": "calendar", "level": "B2", "match": ["calendar"], "note": "×5（主题词），周六起没翻页的冰箱日历", "en": "the pages of days on the wall" },
+        { "word": "drawer", "level": "B2", "match": ["drawer"], "note": "不再想合上的抽屉", "en": "the box that slides open" },
+        { "word": "deadline", "level": "B2", "match": ["deadline"], "note": "×2，很客气的截止期限", "en": "the time a job must end" },
+        { "word": "flamingo", "level": "C1", "match": ["flamingos"], "note": "F 卷：鱼、火烈鸟、狐狸", "en": "the pink standing bird" },
+        { "word": "swim", "level": "A1", "match": ["swim", "swimmer"], "note": "×3，周四游泳日第二轮", "en": "to move through water" },
+        { "word": "guide", "level": "B1", "match": ["guide"], "note": "×2，还是那位流利的教练", "en": "the person who shows the way" },
+        { "word": "pool", "level": "A2", "match": ["pool"], "note": "×3，泳池不在乎你这一周什么样", "en": "the place you swim" }
+      ]
+    }
+  ]
+}

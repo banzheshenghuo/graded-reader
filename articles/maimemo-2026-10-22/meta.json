@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-22",
+  "title": "The Restart",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-22",
+  "added": "2026-10-22",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.3,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-22/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 3 词（project/dirty/brand）+ 昨日空（停背第五天后的重启日），已过 humanizer 润色轮；五天懒散后的周四重启：秘书式大扫除、项目如陈年奶酪、游泳课第二轮会踢水了、F 卷到货",
+      "keyWords": [
+        { "word": "project", "en": "aged in the dark like a cheese: same shape, stronger smell" },
+        { "word": "dirty", "en": "a mountain of toys, all of them, waiting for Thursday" },
+        { "word": "brand", "en": "her soap, since before I was born, not changing for weather or governments" }
+      ]
+    }
+  }
+}
