@@ -1,0 +1,54 @@
+{
+  "groups": [
+    {
+      "name": "主题词与专名（多 SKIP 免费）",
+      "words": [
+        { "word": "Gilgamesh", "level": "专名", "match": ["Gilgamesh"], "en": "king of Uruk, hero of the world's oldest great story", "note": "专名不计密度，全文核心" },
+        { "word": "Uruk", "level": "专名", "match": ["Uruk"], "en": "ancient city in Mesopotamia, widely seen as the birthplace of writing", "note": "专名不计" },
+        { "word": "cuneiform", "level": "C2", "match": ["cuneiform"], "en": "the world's first writing, pressed into clay", "note": "低频词 SKIP 免费 ｜ 高/中保留" },
+        { "word": "Utnapishtim", "level": "SKIP", "match": ["Utnapishtim"], "en": "the flood survivor who won eternal life", "note": "专名不计 ｜ 低: the old wise man / the one man who never died" },
+        { "word": "Enkidu", "level": "专名", "match": ["Enkidu"], "en": "the wild man who became Gilgamesh's best friend", "note": "专名不计" },
+        { "word": "epic", "level": "B2", "match": ["epic"], "en": "a long poem about great heroes and events", "note": "主题词 ｜ 高 ×3 ｜ 中 ×2 ｜ 低: story" }
+      ]
+    },
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "eternal", "level": "C1", "match": ["eternal", "eternally"], "en": "lasting forever; without end", "note": "标题词 ｜ 高 ×4 ｜ 中 ×1 ｜ 低: never die / a life without end" },
+        { "word": "immortal / immortality", "level": "B2", "match": ["immortal", "immortality"], "en": "living forever; the state of living forever", "note": "高 ×2 ｜ 低: a life without end" },
+        { "word": "clay", "level": "A2", "match": ["clay"], "en": "soft earth that becomes hard when baked", "note": "免费关键词：火反而烤硬了泥板 ｜ 三版保留" },
+        { "word": "tablet", "level": "A2", "match": ["tablet", "tablets"], "en": "a flat piece of clay or stone with writing on it", "note": "免费，三版保留" },
+        { "word": "humility", "level": "C1", "match": ["humility"], "en": "being humble; not thinking you are above others", "note": "高 ×1 ｜ 低/高2: teach him to be humble" },
+        { "word": "torment", "level": "C1", "match": ["torment"], "en": "great pain of mind; to cause such pain", "note": "高 keyWord ｜ 中: fills him with fear" },
+        { "word": "consent", "level": "C1", "match": ["consent"], "en": "permission given freely", "note": "非本文——参见 neurodata 篇" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "empire", "level": "B2", "match": ["empire"], "en": "a group of countries under one ruler", "note": "低/高 ×1（亚述帝国亡）" },
+        { "word": "preserve", "level": "B2", "match": ["preserve", "preserved"], "en": "to keep something safe from harm", "note": "高/中 ×1 ｜ 核心反讽：火救了泥板" },
+        { "word": "quest", "level": "B2", "match": ["quest"], "en": "a long search for something important", "note": "高 ×2（小标题 The Quest for Eternal Life）" },
+        { "word": "decree", "level": "B2", "match": ["decree"], "en": "to order something officially", "note": "高改写: call for the death ｜ 中: demand" },
+        { "word": "pursuit", "level": "B2", "match": ["pursuit"], "en": "the act of chasing a goal", "note": "高: in his quest for...（quest 家族）" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "coalition", "level": "C1", "match": ["coalition"], "en": "an alliance of groups against a common enemy", "note": "高: 巴比伦+米底联军 ｜ 低/中: enemy armies" },
+        { "word": "netherworld", "level": "C2", "match": [], "en": "the world of the dead in old stories", "note": "原文词，三版均未收入（第 12 块泥板故事被删）" },
+        { "word": "tragic hero", "level": "C1", "match": ["tragic"], "en": "a hero whose story ends in sadness (Sandars 引语)", "note": "高保留 Sandars 引语" },
+        { "word": "Sha-naqba-imru", "level": "专名", "match": ["Sha-naqba-imru"], "en": "\"He Who Saw The Deep\" — the epic's original title", "note": "高/中保留（专名不计）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "on the books", "level": "B1", "match": [], "en": "written into law", "note": "非本文——参见 neurodata 篇" },
+        { "word": "shed skins", "level": "B2", "match": ["shed"], "en": "to throw off old skin (snakes do this)", "note": "高: why snakes shed their skins and live on ｜ 低/中: 未提" },
+        { "word": "take a leap of faith", "level": "C1", "match": [], "en": "to make a risky choice on trust alone", "note": "非本文——参见 NYC AI training 篇" }
+      ]
+    }
+  ]
+}

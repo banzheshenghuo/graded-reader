@@ -1,0 +1,99 @@
+{
+  "slug": "worldhistory-gilgamesh",
+  "title": "The Eternal Life of Gilgamesh",
+  "source": "World History Encyclopedia",
+  "sourceUrl": "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
+  "author": "J. Black et al.",
+  "date": "2011-03-14",
+  "added": "2026-10-23",
+  "tags": [
+    "history",
+    "literature",
+    "Mesopotamia"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.7,
+      "target": "<2%",
+      "desc": "A2 摘编：失而复得 + 故事内故事",
+      "keyWords": [
+        {
+          "word": "clay",
+          "en": "soft earth that becomes hard when baked; old books were clay"
+        },
+        {
+          "word": "empire",
+          "en": "a group of countries under one ruler"
+        },
+        {
+          "word": "searcher",
+          "en": "a person looking for something"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-gilgamesh/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 5.0,
+      "target": "2–5%",
+      "desc": "i+1 上限区：考古发现 + 故事源流",
+      "keyWords": [
+        {
+          "word": "epic",
+          "en": "a long poem about great heroes and events"
+        },
+        {
+          "word": "eternal",
+          "en": "lasting forever; without end"
+        },
+        {
+          "word": "inscription",
+          "en": "words cut into stone or a hard surface"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-gilgamesh/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.9,
+      "target": "5–8%",
+      "desc": "接近原文，全部学术引语保留",
+      "keyWords": [
+        {
+          "word": "cuneiform",
+          "en": "the world's first writing, pressed into clay"
+        },
+        {
+          "word": "seer",
+          "en": "a person said to see the future"
+        },
+        {
+          "word": "torment",
+          "en": "great pain of mind; to cause such pain"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-gilgamesh/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 15.0,
+      "target": "—",
+      "desc": "World History Encyclopedia 原文",
+      "keyWords": [
+        {
+          "word": "cathartic",
+          "en": "making you feel cleaner after letting feelings out"
+        },
+        {
+          "word": "immeasurably",
+          "en": "by an amount too large to measure"
+        },
+        {
+          "word": "netherworld",
+          "en": "the world of the dead in old stories"
+        }
+      ]
+    }
+  }
+}
