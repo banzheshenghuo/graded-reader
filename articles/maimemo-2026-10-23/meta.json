@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-23",
+  "title": "Debug Friday",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-23",
+  "added": "2026-10-23",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.9,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-23/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 10 词全覆盖（bug/transformer/commit/tag/clap 程序员与掌声簇）+ 昨日 3 词，已过 humanizer 润色轮；Bobby 学会拍手（回收泳池外国一家鼓掌伏笔）+ 周五 debug 日 transformer 服务捉虫 + G 卷长颈鹿\"委员会造的马\"",
+      "keyWords": [
+        { "word": "clap", "en": "arrived on Friday morning, both hands at once, applause for nothing in particular" },
+        { "word": "bug", "en": "honest, leaves a trail, and costs a day and a half of pointing" },
+        { "word": "conclusion", "en": "arrives on its own schedule, usually before breakfast" }
+      ]
+    }
+  }
+}

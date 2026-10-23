@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 17 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "家的秘书兼史官兼档案系统 / 常识秘书发言", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complaining"], "note": "为好梨的价钱短暂而深情地抱怨 / 小狗的抱怨", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "好梨从冰箱进包 / 紫厨房四度机器级一致", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "泳池外国一家的掌声廿小时后兑现 / 婴车外国夫妇", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrated", "frustration"], "note": "两队互相甩锅各自泄气两天 / 全组每周一次的小泄气", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "只装一份 bug 报告去上班 / 门边下班的包", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "周六安排在成形 / 用墨水、提前、大声", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "整场冒险的评价 / 周报评价一个词：无聊", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "天边缘泛紫 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "读到 G 卷长颈鹿 / 站在 G 还有整个字母表", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "他的电量澡点即停 / 仍被标记仍坚持", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "约束一直是诚实不是机灵 / 家的约束撑起家", "en": "a rule that limits what you do" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "同样的药同样的顺序 / 药架被检查", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "三行教程如约写完 / 全是句子终于归档", "en": "a lesson that shows you how" },
+        { "word": "intelligence", "level": "B1", "match": ["intelligence"], "note": "transformer 服务没智能但讲电的真话 / 设计里零智能", "en": "the ability to learn and understand" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "周五处方就是一致性 / 四度的机器级一致", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "晚饭后一勺 / 已列入预算", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "各队甩锅对方的偏见 / 六月牌子的最柔软偏见", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "今日所学（10 词全覆盖）",
+      "words": [
+        { "word": "tag", "level": "A2", "match": ["tag"], "note": "版本标签 v4, works——家里逃逸进公司的笑话", "en": "a label on a version" },
+        { "word": "clap", "level": "B1", "match": ["clap", "clapped"], "note": "清晨无端的掌声 / 半空中的掌声 / 狗的回拍", "en": "to hit hands together in joy" },
+        { "word": "cost", "level": "A2", "match": ["cost"], "note": "钱的代价小信任的代价大 / 好梨的价钱", "en": "what something takes from you" },
+        { "word": "bug", "level": "B2", "match": ["bug", "bugs"], "note": "住在 transformer 服务里的虫 / 诚实、留痕、耗一天半的互相指认", "en": "a small wrong thing in code" },
+        { "word": "prescription", "level": "B2", "match": ["prescription"], "note": "她的周五处方：走路、喝水、一勺奶油", "en": "the doctor's paper for medicine" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "本周异常划掉一个（今日背完毕业）", "en": "something that does not fit the pattern" },
+        { "word": "conclusion", "level": "B1", "match": ["conclusion", "concluded"], "note": "结论按自己的时间表到达 / 常识秘书的结论", "en": "what you decide at the end" },
+        { "word": "transformer", "level": "C1", "match": ["transformer"], "note": "transformer 项目/服务的虫 / 无智能但讲电的真话", "en": "the part that changes voltage" },
+        { "word": "feature", "level": "B1", "match": ["feature"], "note": "周二开的 feature flag 周三没关干净——留外套的客人", "en": "a part of a program you can see" },
+        { "word": "commit", "level": "B2", "match": ["commit"], "note": "小小的 commit", "en": "to save a change into the record" }
+      ]
+    },
+    {
+      "group": "昨日复现（10-22 学习 3 词）",
+      "words": [
+        { "word": "dirty", "level": "A1", "match": ["dirty"], "note": "一只脏运动鞋踩着鼓", "en": "not clean" },
+        { "word": "project", "level": "B1", "match": ["project"], "note": "transformer 项目", "en": "a piece of work with a goal" },
+        { "word": "brand", "level": "A2", "match": ["brand"], "note": "六月换的牌子现在当家人保卫", "en": "the maker's name on a product" }
+      ]
+    },
+    {
+      "group": "计划外生词（43 token，密度 4.93% ≤ 5%）",
+      "words": [
+        { "word": "giraffe", "level": "B2", "match": ["giraffe", "giraffes"], "note": "×5（G 卷主题词），\"委员会造的马\"", "en": "the very tall animal" },
+        { "word": "debug", "level": "C2", "match": ["debug"], "note": "×2（标题词），debug day 我的节日", "en": "hunting a bug down" },
+        { "word": "applause", "level": "B2", "match": ["applause"], "note": "×2，对无 in particular 的掌声", "en": "the sound of clapping" },
+        { "word": "porridge", "level": "C1", "match": ["porridge"], "note": "被拍手的粥", "en": "soft cooked grain" },
+        { "word": "downstream", "level": "B2", "match": ["downstream"], "note": "下游图表礼貌地错了", "en": "later in the line" },
+        { "word": "metronome", "level": "C1", "match": ["metronome"], "note": "狗尾巴打得像节拍器", "en": "the tool that keeps time" },
+        { "word": "committee", "level": "B2", "match": ["committee"], "note": "委员会造的马", "en": "a group that decides together" },
+        { "word": "passenger", "level": "B1", "match": ["passenger"], "note": "毛绒象从玩具晋升为乘客", "en": "one who rides along" }
+      ]
+    }
+  ]
+}
