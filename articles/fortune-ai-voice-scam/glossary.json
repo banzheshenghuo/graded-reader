@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "主题词",
+      "words": [
+        { "word": "clone", "level": "B2", "match": ["clone", "cloning"], "en": "to make an exact copy (here: of a voice)", "note": "主题词三版保留 ｜ 低: take/copy a person's voice" },
+        { "word": "scam", "level": "B2", "match": ["scam", "scammers"], "en": "a dishonest plan to take money", "note": "主题词三版保留 ｜ 低: bad people" },
+        { "word": "deepfake", "level": "SKIP", "match": ["deepfake", "deepfakes"], "en": "a fake video or voice made with AI", "note": "新造词 SKIP 免费，三版保留" },
+        { "word": "fake", "level": "B2", "match": ["fake"], "en": "not real; made to look real", "note": "计费但核心 ｜ 高保留 fakes ×1" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "panic", "level": "B2", "match": ["panic"], "en": "sudden wild fear that stops clear thinking", "note": "引语原词，高/中保留 ｜ 低: totally afraid" },
+        { "word": "trust", "level": "B2", "match": ["trust"], "en": "believing someone will not harm you", "note": "文眼：trick you through trust ｜ 三版保留" },
+        { "word": "proof", "level": "B2", "match": ["proof"], "en": "something that shows a thing is true", "note": "高: no longer proof of identity ｜ 低 keyWord" },
+        { "word": "wire", "level": "B2", "match": ["wired"], "en": "to send money through a bank system", "note": "高: wired $5,400 ｜ 中/低: sent" },
+        { "word": "consent", "level": "C1", "match": ["consent"], "en": "permission given freely", "note": "高: confirm the speaker's consent ｜ 高2: had agreed" },
+        { "word": "kidnap", "level": "C1", "match": ["kidnap", "kidnapping"], "en": "to take a person and hold them for money", "note": "标题词 ｜ 高: taken by a crime group（首段降级）" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "timbre", "level": "C2", "match": ["timbre"], "en": "the special quality of a sound or voice", "note": "高: when a voice's timbre resembles ｜ 已降级 sounds like" },
+        { "word": "resemble", "level": "C1", "match": ["resembles"], "en": "to look or sound like something else", "note": "高版与 timbre 搭配出现" },
+        { "word": "bark orders", "level": "C1", "match": ["barking"], "en": "to shout orders in a harsh voice", "note": "高保留引语原词" },
+        { "word": "multinational", "level": "C1", "match": ["multinational"], "en": "operating in many countries", "note": "高: international company" },
+        { "word": "watchdog", "level": "B2", "match": ["watchdog"], "en": "an official group that watches for wrongdoing", "note": "高: U.S. trade watchdog（FTC 的白话替代）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "on the line", "level": "B1", "match": ["line"], "en": "at risk (\"her life was on the line\")", "note": "高/低保留" },
+        { "word": "hang up", "level": "A2", "match": ["hang up"], "en": "to end a phone call", "note": "核心自保动作，三版保留" },
+        { "word": "safe word / code word", "level": "B1", "match": ["code"], "en": "a secret word only family members know", "note": "核心建议，三版保留" }
+      ]
+    }
+  ]
+}

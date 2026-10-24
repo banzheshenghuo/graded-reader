@@ -1,0 +1,99 @@
+{
+  "slug": "fortune-ai-voice-scam",
+  "title": "Scammers Used AI to Clone Her Daughter's Voice and Fake a Kidnapping",
+  "source": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/",
+  "author": "Fortune staff",
+  "date": "2026-10-24",
+  "added": "2026-10-24",
+  "tags": [
+    "AI",
+    "safety",
+    "scam"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.5,
+      "target": "<2%",
+      "desc": "A2 摘编：骗局故事 + 两个自保动作",
+      "keyWords": [
+        {
+          "word": "fake",
+          "en": "not real; made to look real"
+        },
+        {
+          "word": "trust",
+          "en": "believing someone will not harm you"
+        },
+        {
+          "word": "proof",
+          "en": "something that shows a thing is true"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-voice-scam/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.2,
+      "target": "2–5%",
+      "desc": "i+1 理想区：案件 + 脑科学解释 + 工具乱象",
+      "keyWords": [
+        {
+          "word": "panic",
+          "en": "sudden wild fear that stops clear thinking"
+        },
+        {
+          "word": "grocery",
+          "en": "relating to a food store"
+        },
+        {
+          "word": "checkbox",
+          "en": "a small box you tick to confirm something"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-voice-scam/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 4.3,
+      "target": "5–8%",
+      "desc": "低于 5% 下限——故事文自然密度低，全细节保留",
+      "keyWords": [
+        {
+          "word": "bark",
+          "en": "to shout orders in a harsh voice (barking orders)"
+        },
+        {
+          "word": "resemble",
+          "en": "to look or sound like something else"
+        },
+        {
+          "word": "watchdog",
+          "en": "an official group that watches for wrongdoing"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-voice-scam/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.7,
+      "target": "—",
+      "desc": "Fortune 原文",
+      "keyWords": [
+        {
+          "word": "timbre",
+          "en": "the special quality of a sound or voice"
+        },
+        {
+          "word": "indistinguishable threshold",
+          "en": "the line past which copies cannot be told from real"
+        },
+        {
+          "word": "barking orders",
+          "en": "shouting commands in a harsh, controlling way"
+        }
+      ]
+    }
+  }
+}
