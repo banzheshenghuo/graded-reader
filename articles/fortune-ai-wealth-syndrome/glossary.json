@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "主题词",
+      "words": [
+        { "word": "wealth", "level": "B2", "match": ["wealth", "wealthy"], "en": "a large amount of money and valuable things", "note": "标题+主题词 ｜ 高 ×3 ｜ 中 ×2 ｜ 低 ×1（其余用 money / the very rich）" },
+        { "word": "syndrome", "level": "C1", "match": ["syndrome"], "en": "a set of feelings or problems that come together", "note": "高 ×1（sudden wealth syndrome）｜ 中: sudden wealth trouble" },
+        { "word": "therapist", "level": "B2", "match": ["therapist"], "en": "a person whose job is helping people with their minds", "note": "高 ×2 ｜ 中/低: mind doctors" },
+        { "word": "billionaire", "level": "B2", "match": ["billionaire", "billionaires"], "en": "a person with at least a billion dollars", "note": "三版各 ×1" },
+        { "word": "narcissism", "level": "C1", "match": ["narcissism"], "en": "loving only yourself; thinking you are above others", "note": "高/中 ×1（DiFuria 引语）" },
+        { "word": "windfall", "level": "C2", "match": ["windfall"], "en": "a large amount of money that arrives unexpectedly", "note": "仅高 ｜ 低/中: money wave / getting more money than ever" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "peer", "level": "B2", "match": ["peer", "peers"], "en": "a person of the same group or status", "note": "高 ×2（peer group）｜ 中: rich peers → small circle of rich members" },
+        { "word": "clinic", "level": "B2", "match": ["clinic"], "en": "a place that gives medical care", "note": "低 keyWord: a hospital for the mind ｜ 中: live-in clinic ｜ 高 ×2" },
+        { "word": "compound", "level": "B2", "match": ["compound"], "en": "a group of buildings inside walls for one family", "note": "高 ×1 ｜ 中/低: walled property" },
+        { "word": "shelter", "level": "B2", "match": ["shelter"], "en": "a safe place; here: a room built to hide in", "note": "高: underground shelter（Zuckerberg）｜ 低: a room under the ground" },
+        { "word": "guilt", "level": "C1", "match": ["guilt", "guilty"], "en": "the bad feeling of having done wrong", "note": "高/中 ×1 ｜ 低: feeling bad" },
+        { "word": "anxious", "level": "B2", "match": ["anxious"], "en": "worried and uneasy", "note": "高引语原词 ｜ 低/中: worried" },
+        { "word": "erase", "level": "B2", "match": ["erase"], "en": "to remove completely", "note": "高/中 ×1 ｜ 引语语义" },
+        { "word": "isolation", "level": "B2", "match": ["isolation"], "en": "being alone, away from people", "note": "高 ×1 ｜ 中: cuts people off from society ｜ 低: cut off" },
+        { "word": "handle", "level": "B2", "match": ["handle"], "en": "to deal with something; to manage it", "note": "低 keyWord ｜ 中: could handle" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "influx", "level": "C1", "match": ["influx"], "en": "a sudden arrival of money or people", "note": "高: sudden influx of money ｜ 低/中: getting rich very fast" },
+        { "word": "retainer", "level": "C1", "match": ["retainer"], "en": "a fixed upfront payment to keep a service", "note": "高: retainers starting at $30,000 ｜ 低/中: asks $30,000" },
+        { "word": "drift", "level": "C1", "match": ["drifting"], "en": "to move slowly without a plan", "note": "高: drifting toward ｜ 中: sliding toward" },
+        { "word": "sap", "level": "B2", "match": ["sap"], "en": "to slowly weaken or drain", "note": "高: sap their children's drive ｜ 中/低: drain" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "net worth", "level": "B1", "match": ["worth"], "en": "all your money and property minus what you owe", "note": "高: investable assets or qualifying net worth（net/worth 均 B1 免费）" },
+        { "word": "the haves and have-nots", "level": "B1", "match": ["nots"], "en": "rich people and poor people (idiom)", "note": "高保留 ｜ 中: those who have and those who have not" },
+        { "word": "values", "level": "B1", "match": ["values"], "en": "the ideas that guide how you live", "note": "三版保留（免费）" }
+      ]
+    }
+  ]
+}

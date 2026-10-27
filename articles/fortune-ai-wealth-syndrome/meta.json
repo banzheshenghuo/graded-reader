@@ -1,0 +1,99 @@
+{
+  "slug": "fortune-ai-wealth-syndrome",
+  "title": "\"Sudden Wealth Syndrome 2.0\": Therapists Say AI's New Millionaires Feel Alone",
+  "source": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/10/24/ai-sudden-wealth-syndrome-therapists-billionaires-isolation/",
+  "author": "Fortune staff",
+  "date": "2026-10-24",
+  "added": "2026-10-27",
+  "tags": [
+    "finance",
+    "AI",
+    "mind"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.3,
+      "target": "<2%",
+      "desc": "A2 摘编：暴富 + 孤独 + 地下室",
+      "keyWords": [
+        {
+          "word": "therapist",
+          "en": "a person whose job is helping people with their minds"
+        },
+        {
+          "word": "handle",
+          "en": "to deal with something; to manage it"
+        },
+        {
+          "word": "billionaire",
+          "en": "a person with at least a billion dollars"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-wealth-syndrome/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.3,
+      "target": "2–5%",
+      "desc": "i+1 理想区：负罪感 + 隔离 + 代际伤害",
+      "keyWords": [
+        {
+          "word": "wealth",
+          "en": "a large amount of money and valuable things"
+        },
+        {
+          "word": "syndrome",
+          "en": "a set of feelings or problems that come together"
+        },
+        {
+          "word": "wipe out",
+          "en": "to remove completely"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-wealth-syndrome/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 8.0,
+      "target": "5–8%",
+      "desc": "接近原文，数字与专家引语完整",
+      "keyWords": [
+        {
+          "word": "windfall",
+          "en": "a large amount of money that arrives unexpectedly"
+        },
+        {
+          "word": "influx",
+          "en": "a sudden arrival of money or people"
+        },
+        {
+          "word": "subculture",
+          "en": "a small group inside society with its own way of life"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-wealth-syndrome/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 14.2,
+      "target": "—",
+      "desc": "Fortune 原文",
+      "keyWords": [
+        {
+          "word": "windfall",
+          "en": "a large amount of money that arrives unexpectedly"
+        },
+        {
+          "word": "sap",
+          "en": "to slowly weaken or drain (sap someone's drive)"
+        },
+        {
+          "word": "narcissism",
+          "en": "loving only yourself; thinking you are above others"
+        }
+      ]
+    }
+  }
+}
