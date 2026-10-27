@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "退休了办公室退休不了指挥权 / 家的秘书的真本子 / 秘书亲手翻日历", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complaint"], "note": "对出口的短暂抗议（睡着执行）/ 幸福过的房子需要打扫的轻怨 / 温和抱怨相机=祝福人", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "周日清空再装满 / 紫厨房四度 / 冰箱报四度", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "外国海来的鱼海报 / 请她拍照的外国一家 / encore 大家都懂的那一个外国词", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustration"], "note": "输掉这些争论毫无挫败（家庭政策）/ 只挫败它们自己的虫和教程 / 被自己长周末毁掉的男孩的挫败", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "周六立在门边 / 像知道要遛的狗 / 今晚终于遛过了在门口睡", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "秘书的周六安排 / 安排手册（真本子真钢笔）/ 明天的安排已被说走", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "睡着在出口牌前交付的评价 / 手册里的书面评价 / 机器学习同事的评价", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫蓝长廊 / 紫毛巾 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "鱼页可以等鱼不能等 / 读到 H 卷马 / 站在 H 后面还有整个字母表", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "他的电量在出口处还满着掌声 / 终于换掉的阳台传感器电池 / 新电池安静", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "全天无约束 / 假期的约束是多出的耐心 / 一勺常设约束", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "整周日零异常 / 电池撑这么久算不算异常 / 全屋零异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "周一的药柜 / 慢慢回归本身就是药 / 三天和睦我归档为药", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "指路教学：十四个月小老师 / 没人写的教程 / 每个修复都是一行的教程", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "卫士无聊的一致性 / 休息的一致性 / 机器的一致性在一屋人中间", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "奶油已预算 / 常设约束下等一勺 / 购物单上写两遍", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "水母确认了我们的偏好 / 她对有主见机器的偏好是既定政策 / 我心里长周末=浪费的偏见", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（39 token，密度 4.79% ≤ 5%）",
+      "words": [
+        { "word": "aquarium", "level": "C1", "match": ["aquarium"], "note": "×3（主题词），紫蓝长廊", "en": "the building of fish and glass" },
+        { "word": "jellyfish", "level": "C1", "match": ["jellyfish"], "note": "得到全场最响拍手", "en": "the soft animal of lights in water" },
+        { "word": "penguin", "level": "B2", "match": ["penguins"], "note": "水下游泳像小飞人，鼓掌两次", "en": "the black and white bird" },
+        { "word": "carousel", "level": "C1", "match": ["carousel"], "note": "他认识马的方式：公园旋转木马", "en": "the riding circle of horses" },
+        { "word": "ovation", "level": "C1", "match": ["ovation"], "note": "水母的起立鼓掌", "en": "long loud applause" },
+        { "word": "shark", "level": "B2", "match": ["shark"], "note": "鲨鱼缸前替外国一家拍照", "en": "the big fish with teeth" },
+        { "word": "encore", "level": "C1", "match": ["encore"], "note": "睡前要求的安可，唯一人皆有之外国词", "en": "again, one more time" }
+      ]
+    }
+  ]
+}

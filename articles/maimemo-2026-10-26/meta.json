@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-26",
+  "title": "The Long Weekend",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-26",
+  "added": "2026-10-26",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.8,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-26/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（周六至周一三天零进度，STICKING 17 词 ×3 滚动复现）：一个没人计划却全体同意的三天周末——水族馆（水母得到全场最响的拍手）、周日修复日（终于换了阳台传感器电池）、周一假期余额返工",
+      "keyWords": [
+        { "word": "aquarium", "en": "one long purple-blue hallway of glass, walked like a bishop walks a church" },
+        { "word": "frustrate", "en": "we lose these arguments without frustration — family policy at fourteen months" },
+        { "word": "medicine", "en": "returning slowly is its own medicine" }
+      ]
+    }
+  }
+}
