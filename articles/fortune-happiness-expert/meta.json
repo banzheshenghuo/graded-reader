@@ -1,0 +1,99 @@
+{
+  "slug": "fortune-happiness-expert",
+  "title": "How a Close Look at the American Dream Turned a Top Happiness Expert into a Specialist in Despair",
+  "source": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/10/24/american-dream-happiness-despair-hope-carol-graham-brookings-maryland/",
+  "author": "Fortune staff",
+  "date": "2026-10-24",
+  "added": "2026-10-28",
+  "tags": [
+    "mind",
+    "economy",
+    "society"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.5,
+      "target": "<2%",
+      "desc": "A2 摘编：奇异数字 + 贫穷羞耻 + 希望研究",
+      "keyWords": [
+        {
+          "word": "sadness",
+          "en": "the feeling of being unhappy; a deep unhappiness"
+        },
+        {
+          "word": "faith",
+          "en": "strong belief in someone or something"
+        },
+        {
+          "word": "finding",
+          "en": "something learned from a study"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-happiness-expert/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 3.5,
+      "target": "2–5%",
+      "desc": "i+1 理想区：不幸福增长悖论 + 隐藏男性",
+      "keyWords": [
+        {
+          "word": "despair",
+          "en": "the feeling of having lost all hope"
+        },
+        {
+          "word": "benefactor",
+          "en": "someone who quietly helps you with money or power"
+        },
+        {
+          "word": "prime",
+          "en": "the best years of your life or work"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-happiness-expert/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.8,
+      "target": "5–8%",
+      "desc": "接近原文，全部数据与学术引语保留",
+      "keyWords": [
+        {
+          "word": "locus of control",
+          "en": "psychology term: how much you feel in charge of your own life"
+        },
+        {
+          "word": "corrosive",
+          "en": "slowly destroying something (like rust)"
+        },
+        {
+          "word": "wrestle",
+          "en": "to struggle with a hard question or problem"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-happiness-expert/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.5,
+      "target": "—",
+      "desc": "Fortune 原文",
+      "keyWords": [
+        {
+          "word": "stigmatized",
+          "en": "marked by society as shameful"
+        },
+        {
+          "word": "precipitously",
+          "en": "suddenly and by a very large amount"
+        },
+        {
+          "word": "variance",
+          "en": "the range of difference in a set of data"
+        }
+      ]
+    }
+  }
+}

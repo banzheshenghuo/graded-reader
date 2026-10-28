@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "name": "主题词",
+      "words": [
+        { "word": "despair", "level": "B2", "match": ["despair"], "en": "the feeling of having lost all hope", "note": "标题+核心概念 ｜ 高 ×3 ｜ 中: hopelessness ｜ 低: deep sadness" },
+        { "word": "happiness", "level": "B1", "match": ["happiness"], "en": "the state of feeling happy", "note": "免费主题词，三版保留" },
+        { "word": "hope", "level": "A2", "match": ["hope"], "en": "the feeling that good things will come", "note": "免费核心词：hope ≠ happiness ｜ hopefulness 高版" },
+        { "word": "wealthy", "level": "B2", "match": ["wealthy", "wealth"], "en": "having a lot of money", "note": "高 ×2 ｜ 中/低: rich" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "paradox", "level": "B2", "match": ["paradox"], "en": "something that seems impossible but is true", "note": "关键术语 ｜ paradox of unhappy growth / paradox of progress ｜ 低: the researchers even have a name for it" },
+        { "word": "trust", "level": "B2", "match": ["trust"], "en": "belief that a person or system is good", "note": "高/中 ×2（政府/法院信任）｜ 低: faith" },
+        { "word": "satisfaction", "level": "B2", "match": ["satisfaction"], "en": "the feeling of being pleased", "note": "life satisfaction ｜ 低/中: how happy people said they were" },
+        { "word": "economist", "level": "B2", "match": ["economist"], "en": "an expert in how money and markets work", "note": "高/中 ×2 ｜ 低: money expert" },
+        { "word": "benefactor", "level": "C1", "match": ["benefactor"], "en": "someone who quietly helps you with money or power", "note": "高/中保留（Horatio Alger 的秘密）｜ 低: a rich friend" },
+        { "word": "agency", "level": "B2", "match": ["agency"], "en": "the feeling of being in charge of your own life", "note": "高 ×1 ｜ 中: feeling in charge of your own life" },
+        { "word": "basement", "level": "B2", "match": ["basement"], "en": "the room below a house", "note": "三版保留（live in parents' basements）" },
+        { "word": "populism", "level": "C1", "match": ["populism"], "en": "politics that claims to speak for ordinary people", "note": "高 ×1 ｜ 中: popular anger movements ｜ 低: 未提" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "stigmatized", "level": "C2", "match": ["stigmatized"], "en": "marked by society as shameful", "note": "高 ×2（标题引语 ｜ 中: it marks you ｜ 低: 未提）" },
+        { "word": "internal locus of control", "level": "术语", "match": ["locus"], "en": "psychology term: feeling that you control your own life", "note": "高保留术语 ｜ 中: feeling in charge of your own life ｜ 低: 未提" },
+        { "word": "corrosive", "level": "C1", "match": ["corrosive"], "en": "slowly destroying something (like rust)", "note": "高 ×1 ｜ 低/中: poison" },
+        { "word": "destitute", "level": "C1", "match": ["destitute"], "en": "having nothing at all — no money, no home", "note": "高 ×1 ｜ 低/中: 未提（not penniless）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "out of touch", "level": "B1", "match": ["touch"], "en": "not connected to reality", "note": "结尾金句，三版保留" },
+        { "word": "get ahead", "level": "B1", "match": ["ahead"], "en": "to become more successful than others", "note": "三版保留" },
+        { "word": "fall behind", "level": "A2", "match": ["behind"], "en": "to move slower than others and lose ground", "note": "三版保留（核心概念）" }
+      ]
+    }
+  ]
+}
