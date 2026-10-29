@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-29",
+  "title": "The Six Words",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-29",
+  "added": "2026-10-29",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.8,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-29/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 6 词（rate/pain/pixel/open/swing/carry——六词正好排成一天的日程）+ 复习积压 149 词背景，已过 humanizer 润色轮；停更一周后的回归日：凌晨自己搬凳子开冰箱、磨牙期咬勺子、泳池松手站立两秒、秋千半空中松链试重力、奶油=另一种名字的药",
+      "keyWords": [
+        { "word": "pixel", "en": "one gray pixel lighting up in the night's flat line — the 6:40 milk raid" },
+        { "word": "open", "en": "a small person on a stool he moved there himself" },
+        { "word": "carry", "en": "holding the elephant by one ear: some things you carry matter more" }
+      ]
+    }
+  }
+}

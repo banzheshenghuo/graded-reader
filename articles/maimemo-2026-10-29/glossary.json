@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 17 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "家的秘书不记仇只记午睡", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complaints", "complained"], "note": "长牙的抱怨大声且无文书 / 在家细数小泳池水温", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "6:40 被小专业人士打开 / 事后自称职业操作", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "泳池老朋友外国一家：外国但从不陌生", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrates", "frustrated"], "note": "149 词积压气恼整洁的我 / 日历被它气到", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "长周末归来只装一件事：留在门边", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements", "arrangement"], "note": "早餐口头安排 / 泳池是周四第二项日程", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "教练三字评语 / Grandma 的评语更长还带日程", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "架上的紫泳帽 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "到 I 卷岛屿页 / 岛屿是公关更好的鱼（百科不反驳）", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "满月新电池比我这周靠谱 / 电池是小承诺一直守着", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "十月起立着的约束 / 全屋无人试图谈判的一条", "en": "a rule that limits what you do" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "奶油是另一种名字的药，比多数药好吃", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "晚间教程=鱼页读两遍 / 积压是耐心的教程", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "池水全季三十二度 / 缺席时才被注意的一致性", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "引发一百次小谈判的奶油", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "我对轻周五的偏好 / 岛屿只是公关好的鱼", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "今日所学（6 词全覆盖，正好是一天的日程）",
+      "words": [
+        { "word": "rate", "level": "B1", "match": ["rate"], "note": "踢水成功率上升 / 呛水率没变 / 心率投诉 / 一周按自己的 rate 重新动起来", "en": "how fast or how often" },
+        { "word": "pain", "level": "A2", "match": ["pain", "Pain"], "note": "第二号词：上牙床磨牙带着政府机关的文书缓慢到达", "en": "the feeling when something hurts" },
+        { "word": "pixel", "level": "B2", "match": ["pixel"], "note": "夜线上一颗灰像素亮起=6:40 牛奶袭击", "en": "one tiny dot on a screen" },
+        { "word": "open", "level": "A1", "match": ["open", "opened"], "note": "自己搬凳子开冰箱 / 半空中松开秋千链 / 为还没到的勺子先张嘴=信任", "en": "to make a way in" },
+        { "word": "swing", "level": "A2", "match": ["swing"], "note": "周四第二项老约定 / 链条顶端轻响", "en": "a seat that moves back and forward" },
+        { "word": "carry", "level": "A2", "match": ["carry", "carried"], "note": "他选了毛绒象拎一只耳朵：有些东西更重要", "en": "to take something along" }
+      ]
+    },
+    {
+      "group": "计划外生词（47 token，密度 4.76% ≤ 5%）",
+      "words": [
+        { "word": "pile", "level": "B2", "match": ["pile"], "note": "×6（主题词），149 词的复习积压山", "en": "things lying one on another" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "已毕业词客串：异常和男孩是同一件事", "en": "something that does not fit" },
+        { "word": "molar", "level": "C2", "match": ["molar"], "note": "磨牙带着文书缓慢到达", "en": "a back tooth" },
+        { "word": "paperwork", "level": "B2", "match": ["paperwork"], "note": "抱怨不需要文书", "en": "forms and documents" },
+        { "word": "statue", "level": "B2", "match": ["statue"], "note": "水里站了两秒的小勇气雕像", "en": "a figure that stands still" },
+        { "word": "metronome", "level": "C1", "match": ["metronome"], "note": "—", "en": "the tool that keeps time" }
+      ]
+    }
+  ]
+}
