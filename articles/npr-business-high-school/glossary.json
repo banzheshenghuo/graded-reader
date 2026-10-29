@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "name": "主题词（金融/教育）",
+      "words": [
+        { "word": "finance", "level": "B2", "match": ["finance", "financial", "financially"], "en": "the business of money", "note": "主题词，高 ×2 ｜ 中/低: money" },
+        { "word": "index fund", "level": "B2", "match": ["index fund"], "en": "a shared investment that follows the whole market", "note": "学生原话 ｜ 低: big shared funds" },
+        { "word": "stock", "level": "B2", "match": ["stock", "stocks"], "en": "a small piece of a company you can own", "note": "高/中保留 ｜ 低: small pieces of companies" },
+        { "word": "liberal arts", "level": "B2", "match": ["liberal"], "en": "wide general subjects: history, math, language, arts", "note": "标题概念 ｜ 高 ×2 ｜ 中: well-rounded education" },
+        { "word": "curriculum", "level": "C1", "match": ["curriculum"], "en": "the subjects taught at a school", "note": "仅高 ｜ 低/中: classes / course plan" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "retirement", "level": "B2", "match": ["retirement"], "en": "the years after you stop working; money saved for them", "note": "高/中 ×1 ｜ 低: an account for when you are old" },
+        { "word": "theoretical", "level": "C1", "match": ["theoretical"], "en": "based on ideas, not practice", "note": "高/中 ×1 ｜ 低: 未提（对比被删）" },
+        { "word": "adaptation", "level": "B2", "match": ["adaptation", "adapt"], "en": "changing to fit new conditions", "note": "Coleman 引语改写: always learning to change / always adapting" },
+        { "word": "stimulus checks", "level": "B2", "match": ["stimulus"], "en": "government money sent to people in a crisis", "note": "高/中 ×1 ｜ 低: government payments" },
+        { "word": "council", "level": "B2", "match": ["council"], "en": "an official group that oversees something", "note": "Council for Economic Education ｜ 中/高保留" },
+        { "word": "economics", "level": "B2", "match": ["economics", "economic"], "en": "the study of money and markets", "note": "高/中保留 ｜ 低: money matters" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "refinance", "level": "C1", "match": ["refinance"], "en": "to replace a loan with a new, cheaper one", "note": "高（Fed 研究段）" },
+        { "word": "affluent", "level": "C1", "match": ["affluent"], "en": "having a lot of money (of an area)", "note": "高: affluent suburb → 已降级 rich suburb" },
+        { "word": "accounting", "level": "B2", "match": ["accounting"], "en": "the work of recording business money", "note": "高 ×1 ｜ 低/中: 未提" },
+        { "word": "sophomore", "level": "C1", "match": ["sophomore"], "en": "a second-year student", "note": "高 ×1 ｜ 低/中: 未提年级" },
+        { "word": "ponder", "level": "C1", "match": ["ponder"], "en": "to think about something slowly and carefully", "note": "高 → 已降级 discuss" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "make or break", "level": "B1", "match": ["break"], "en": "to cause either big success or total failure", "note": "三版保留（免费习语）" },
+        { "word": "pay down debt", "level": "B1", "match": ["pay down"], "en": "to reduce what you owe a little at a time", "note": "高/中保留" },
+        { "word": "opens up opportunities", "level": "B1", "match": ["opens"], "en": "creates chances", "note": "结尾引语，三版保留" }
+      ]
+    }
+  ]
+}

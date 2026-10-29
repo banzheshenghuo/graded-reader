@@ -1,0 +1,98 @@
+{
+  "slug": "npr-business-high-school",
+  "title": "Business as a Liberal Art? Some High Schools Say Yes",
+  "source": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
+  "author": "Stephan Bisaha",
+  "date": "2026-10-29",
+  "added": "2026-10-29",
+  "tags": [
+    "finance",
+    "education"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.4,
+      "target": "<2%",
+      "desc": "A2 摘编：高中生聊钱 + 新课 + 效果研究",
+      "keyWords": [
+        {
+          "word": "fund",
+          "en": "money collected and put to work (index fund = shared investments)"
+        },
+        {
+          "word": "finance",
+          "en": "the business of money"
+        },
+        {
+          "word": "means",
+          "en": "ways or methods (money means = money tools)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-business-high-school/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 5.0,
+      "target": "2–5%",
+      "desc": "i+1 上限区：新课详情 + 各州趋势",
+      "keyWords": [
+        {
+          "word": "liberal arts",
+          "en": "wide general subjects: history, math, language, arts"
+        },
+        {
+          "word": "index fund",
+          "en": "a shared investment that follows the whole market"
+        },
+        {
+          "word": "adaptation",
+          "en": "changing to fit new conditions"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-business-high-school/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.1,
+      "target": "5–8%",
+      "desc": "接近原文，全部人名与数据保留",
+      "keyWords": [
+        {
+          "word": "curriculum",
+          "en": "the subjects taught at a school"
+        },
+        {
+          "word": "refinance",
+          "en": "to replace a loan with a new, cheaper one"
+        },
+        {
+          "word": "affluent",
+          "en": "having a lot of money (of an area or person)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-business-high-school/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 10.7,
+      "target": "—",
+      "desc": "NPR 原文",
+      "keyWords": [
+        {
+          "word": "canonical",
+          "en": "traditional and accepted as the standard"
+        },
+        {
+          "word": "ponder",
+          "en": "to think about something slowly and carefully"
+        },
+        {
+          "word": "aspirations",
+          "en": "hopes and dreams for the future"
+        }
+      ]
+    }
+  }
+}
