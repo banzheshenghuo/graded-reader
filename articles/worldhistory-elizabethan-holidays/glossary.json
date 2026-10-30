@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "name": "主题词与专名",
+      "words": [
+        { "word": "Elizabethan", "level": "专名", "match": ["Elizabethan"], "en": "of the age of Queen Elizabeth I of England (1558-1603)", "note": "专名不计密度 ｜ the Elizabethan Era 伊丽莎白时代" },
+        { "word": "holy day", "level": "B2", "match": ["holy"], "en": "a religious day; the origin of the word 'holiday'", "note": "主题词 ｜ 高 ×2 ｜ 中/低: church days / special days" },
+        { "word": "feast", "level": "B2", "match": ["feast"], "en": "a large special meal for a celebration", "note": "高 ×3 ｜ 中 ×2 ｜ 低: holiday meals / big meals" },
+        { "word": "Lent", "level": "专名", "match": ["Lent"], "en": "the 40-day fasting period before Easter", "note": "专名不计 ｜ 封斋期" },
+        { "word": "Grand Tour", "level": "专名", "match": ["Grand"], "en": "a long educational trip across Europe for rich young people", "note": "高 ×2 ｜ 中 ×1 ｜ 低: a long study trip across Europe" },
+        { "word": "Shrove Tuesday", "level": "专名", "match": ["Shrove"], "en": "the day of pancakes and football before Lent (Mardi Gras)", "note": "专名不计 ｜ 薄饼日" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "secular", "level": "C1", "match": ["secular"], "en": "not connected to religion", "note": "仅高 ｜ 低/中: non-religious / just for fun" },
+        { "word": "saint", "level": "C1", "match": ["saint"], "en": "a very holy person in some religions", "note": "低 keyWord ｜ 高 ×1" },
+        { "word": "communion", "level": "C1", "match": ["communion"], "en": "a special church ceremony with bread and wine", "note": "高 ×2 ｜ 中: take part ｜ 低: take part" },
+        { "word": "pancake", "level": "C1", "match": ["pancake", "pancakes"], "en": "a thin, flat, round cake cooked in a pan", "note": "三版保留（薄饼日的 fun 细节）" },
+        { "word": "bonfire", "level": "C1", "match": ["bonfire"], "en": "a big outdoor fire", "note": "高/中 ×1 ｜ 低: big fires" },
+        { "word": "midsummer", "level": "C1", "match": ["midsummer"], "en": "the middle of summer", "note": "高/中 ×1 ｜ 低: summer" },
+        { "word": "goose", "level": "B2", "match": ["goose"], "en": "a large bird kept on farms; traditional autumn food", "note": "高/中 ×1（Michaelmas 鹅）" },
+        { "word": "highwayman", "level": "C1", "match": ["highwayman"], "en": "a robber who attacked travellers on horseback", "note": "仅高保留 ｜ 低/中: thieves / robbers" },
+        { "word": "tavern", "level": "C1", "match": ["tavern"], "en": "an old-style drinking place with rooms", "note": "高/中 ×1 ｜ 低: simple places to sleep and eat" },
+        { "word": "apprentice", "level": "B2", "match": ["apprentice", "apprentices"], "en": "a young person learning a trade from a master", "note": "高/中 ×1 ｜ 低: young workers" },
+        { "word": "commoner", "level": "C1", "match": ["commoner"], "en": "a person without noble rank", "note": "高/中 ×1 ｜ 低: a poor worker" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "toil", "level": "C1", "match": ["toil"], "en": "hard, tiring work", "note": "高: a break from toil ｜ 低/中: work" },
+        { "word": "licence", "level": "C1", "match": ["licence"], "en": "official freedom to do what is normally not allowed", "note": "高: festive licence（Morrill 引语）｜ 低/中: relax the rules" },
+        { "word": "underscore", "level": "C1", "match": ["underscore"], "en": "to emphasize; to show clearly", "note": "高（Morrill 引语）｜ 中: showed" },
+        { "word": "relic", "level": "C1", "match": ["relic"], "en": "an old holy object kept and honoured", "note": "高 ×1 ｜ 低/中: 未提" },
+        { "word": "effigy", "level": "C2", "match": [], "en": "a figure of a person, often attacked in protest", "note": "原文词，三版改写（a figure of a man / people threw stones）" },
+        { "word": "antiquity", "level": "C1", "match": ["antiquity"], "en": "ancient times; ruins from ancient times", "note": "仅高（Grand Tour 段）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "haves and have-nots", "level": "B1", "match": ["nots"], "en": "rich people and poor people (idiom)", "note": "高保留 ｜ 低: the gap between rich and poor" },
+        { "word": "look forward to", "level": "A2", "match": ["looked forward"], "en": "to wait happily for something", "note": "三版保留（免费）" },
+        { "word": "round off", "level": "B2", "match": ["round"], "en": "to complete nicely; to finish", "note": "高: round off their education ｜ 低: finish" }
+      ]
+    }
+  ]
+}

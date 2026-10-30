@@ -1,0 +1,99 @@
+{
+  "slug": "worldhistory-elizabethan-holidays",
+  "title": "Holidays in the Elizabethan Era",
+  "source": "World History Encyclopedia",
+  "sourceUrl": "https://www.worldhistory.org/article/1581/holidays-in-the-elizabethan-era/",
+  "author": "Susan Brigden",
+  "date": "2020-06-24",
+  "added": "2026-10-30",
+  "tags": [
+    "history",
+    "Britain",
+    "culture"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.9,
+      "target": "<2%",
+      "desc": "A2 摘编：教堂日→节日乐趣→旅行萌芽",
+      "keyWords": [
+        {
+          "word": "era",
+          "en": "a period of time in history"
+        },
+        {
+          "word": "saint",
+          "en": "a very holy person in some religions"
+        },
+        {
+          "word": "pancake",
+          "en": "a thin, flat, round cake cooked in a pan"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-elizabethan-holidays/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.3,
+      "target": "2–5%",
+      "desc": "i+1 上限区：17 个圣日 + 假日出走 + 大旅行",
+      "keyWords": [
+        {
+          "word": "feast",
+          "en": "a large special meal for a celebration"
+        },
+        {
+          "word": "grand",
+          "en": "big and impressive"
+        },
+        {
+          "word": "inn",
+          "en": "an old-style hotel that also serves food and drink"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-elizabethan-holidays/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.5,
+      "target": "5–8%",
+      "desc": "接近原文，学者引语与全部细节保留",
+      "keyWords": [
+        {
+          "word": "secular",
+          "en": "not connected to religion"
+        },
+        {
+          "word": "procession",
+          "en": "a line of people walking in a ceremony"
+        },
+        {
+          "word": "licence",
+          "en": "official freedom to do what is normally not allowed"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/worldhistory-elizabethan-holidays/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 12.6,
+      "target": "—",
+      "desc": "World History Encyclopedia 原文",
+      "keyWords": [
+        {
+          "word": "effigy",
+          "en": "a figure of a person, often burned or attacked in protest"
+        },
+        {
+          "word": "commemoration",
+          "en": "an event that honours and remembers something"
+        },
+        {
+          "word": "highwayman",
+          "en": "a robber who attacked travellers on horseback"
+        }
+      ]
+    }
+  }
+}
