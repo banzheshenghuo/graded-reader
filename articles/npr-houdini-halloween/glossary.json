@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "name": "主题词（魔术/逃脱）",
+      "words": [
+        { "word": "Houdini", "level": "专名", "match": ["Houdini"], "en": "Harry Houdini, the world's most famous escape artist (1874-1926)", "note": "专名不计密度，全文核心" },
+        { "word": "escape artist", "level": "B1", "match": ["artist"], "en": "a performer whose act is escaping from traps", "note": "免费搭配，三版保留" },
+        { "word": "magician", "level": "C1", "match": ["magician"], "en": "a performer who does magic tricks", "note": "高/中 ×1 ｜ 低: escape man" },
+        { "word": "handcuff", "level": "C2", "match": ["handcuff"], "en": "metal rings that lock a person's hands together", "note": "高/中 ×1 ｜ 低: police chains" },
+        { "word": "straitjacket", "level": "C2", "match": ["straitjacket"], "en": "a jacket that ties the arms down so they cannot move", "note": "高 ×1 ｜ 中: special jacket ｜ 低: 未提" },
+        { "word": "Water Torture Cell", "level": "专名", "match": ["torture"], "en": "Houdini's famous trick: escaping from a water-filled box upside down", "note": "高: Water Torture Cell ｜ 中: water box / coffin-sized box ｜ 低: a box like a coffin" },
+        { "word": "séance", "level": "C2", "match": ["séance", "seance"], "en": "a meeting where people try to talk to the dead", "note": "高/中 ×2 ｜ 低: meetings to contact the dead" },
+        { "word": "milk can", "level": "B1", "match": ["milk"], "en": "a large metal container for milk; Houdini escaped from one", "note": "免费词，三版保留" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "legend", "level": "B2", "match": ["legend", "legendary"], "en": "a very famous old story, or a person from such stories", "note": "高/中 ×1 ｜ 低: 未提（his story grew）" },
+        { "word": "appendix", "level": "C1", "match": ["appendix"], "en": "a small part inside your body; it can burst and make you very sick", "note": "低/中/高 keyWord ×1（死因）" },
+        { "word": "burst", "level": "B2", "match": ["burst"], "en": "to break open suddenly", "note": "低/中/高 ×1（appendix burst）" },
+        { "word": "goosebumps", "level": "C1", "match": ["goosebumps"], "en": "small bumps on your skin when you are scared or excited", "note": "高/中 ×1（Dorothy Young 段）" },
+        { "word": "wrestler", "level": "B2", "match": ["wrestler"], "en": "a person who fights by holding and throwing", "note": "高/中 ×1 ｜ 低: a young man" },
+        { "word": "haunt", "level": "B2", "match": ["haunt"], "en": "to visit as a ghost; to keep troubling", "note": "标题词，三版保留" },
+        { "word": "publicity", "level": "B2", "match": ["publicity"], "en": "public attention; free advertising", "note": "高/中 ×1 ｜ 低: free advertising" },
+        { "word": "funeral", "level": "B2", "match": ["funeral"], "en": "a ceremony for someone who has died", "note": "高/中 ×1 ｜ 低: 未提" },
+        { "word": "underwater", "level": "B2", "match": ["underwater"], "en": "below the surface of water", "note": "高/中 ×1（milk can 逃脱）" },
+        { "word": "stunt", "level": "B2", "match": ["stunt"], "en": "a dangerous act done to get attention", "note": "高/中 ×1（publicity stunt）" },
+        { "word": "fake", "level": "B2", "match": ["fake"], "en": "not real; pretending to be true", "note": "高/中 ×1（假灵媒）｜ 低: 未提" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "obscurity", "level": "C1", "match": ["obscurity"], "en": "the state of being unknown", "note": "高: escaped obscurity ｜ 低/中: no one knew his name" },
+        { "word": "straitjacket", "level": "C2", "match": ["straitjacket"], "en": "a jacket that ties the arms down", "note": "高 ×1 ｜ 中: special jacket" },
+        { "word": "creaky", "level": "C2", "match": ["creaky"], "en": "making a slow, high noise (old stairs and doors)", "note": "高 ×1 ｜ 中/低: 未提" },
+        { "word": "highwayman", "level": "SKIP", "match": [], "en": "a robber on horseback (in old times)", "note": "原文词，本篇未出现（参见 Elizabethan holidays 篇）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "on the line", "level": "B1", "match": ["line"], "en": "at risk", "note": "非本篇——参见 voice scam 篇" },
+        { "word": "ghost", "level": "B1", "match": ["ghost"], "en": "the spirit of a dead person", "note": "免费主题词，三版保留" },
+        { "word": "Halloween", "level": "专名", "match": ["Halloween"], "en": "October 31, the day of costumes and scary fun", "note": "专名不计 ｜ 万圣节" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "npr-houdini-halloween",
+  "title": "100 Years Later, Houdini's Death Still Haunts Detroit",
+  "source": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/10/31/nx-s1-6008110/harry-houdini-death-detroit-haunted-halloween",
+  "author": "NPR staff",
+  "date": "2026-10-31",
+  "added": "2026-10-31",
+  "tags": [
+    "history",
+    "magic",
+    "Halloween"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.3,
+      "target": "<2%",
+      "desc": "A2 摘编：逃脱大师 + 腹部重击 + 万圣节谢幕",
+      "keyWords": [
+        {
+          "word": "appendix",
+          "en": "a small part inside your body; it can burst and make you very sick"
+        },
+        {
+          "word": "burst",
+          "en": "to break open suddenly"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-houdini-halloween/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 5.8,
+      "target": "2–5%",
+      "desc": "⚠ 密度超 0.3 点——魔术/历史骨架词为全文核心，无法再降",
+      "keyWords": [
+        {
+          "word": "handcuff",
+          "en": "metal rings that lock a person's hands together"
+        },
+        {
+          "word": "torture",
+          "en": "great pain, given on purpose (Water Torture Cell)"
+        },
+        {
+          "word": "goosebumps",
+          "en": "small bumps on your skin when you are scared or excited"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-houdini-halloween/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.2,
+      "target": "5–8%",
+      "desc": "接近原文，全部细节与引语保留",
+      "keyWords": [
+        {
+          "word": "straitjacket",
+          "en": "a jacket that ties the arms down so they cannot move"
+        },
+        {
+          "word": "séance",
+          "en": "a meeting where people try to talk to the dead"
+        },
+        {
+          "word": "bursts",
+          "en": "breaks open suddenly (like the appendix)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-houdini-halloween/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 13.6,
+      "target": "—",
+      "desc": "NPR 原文",
+      "keyWords": [
+        {
+          "word": "straitjacket",
+          "en": "a jacket that ties the arms down so they cannot move"
+        },
+        {
+          "word": "séance",
+          "en": "a meeting where people try to talk to the dead"
+        },
+        {
+          "word": "shrouded in mystery",
+          "en": "surrounded by things no one understands (idiom)"
+        }
+      ]
+    }
+  }
+}
