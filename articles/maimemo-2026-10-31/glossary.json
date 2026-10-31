@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "四秒批准蝙蝠装 / 手册新页与偏见新例外", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complaint"], "note": "睡前+半夜两次抗议摘耳朵 / 胸腔整体首发抱怨", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "安排贴冰箱门 / 整晚关着四度不被历史打扰", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "经 Grandma 收养的外来节日 / 外国小鬼/small world 的外国传感器", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrated"], "note": "分糖像物理挫败诗人", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "今晚休假（全屋唯一鼓励的反工作偏好）/ 留在家里帮不上忙 / 最后一条约束：包不开", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "中午贴上冰箱 / 安排手册有了万圣节页", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "更像抱怨的评价：这也是魔法 / 南瓜灯复评：歪、牙多、正好", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫蝙蝠睡衣=年度全部意义 / 紫糖纸 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "世界之书终于进了房间 / 万圣节不进任何百科", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "南瓜灯电池整晚亮着 / 电池蜡烛仍在窗台烧", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "一勺约束带着微笑 / 今晚最后一条约束：包不开教程不写", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "两小时十二次=门铃风暴 / 八点后无异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "奶油是药也是奖励 / 抗归档正是万圣节的药", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "雕刻教程=一把刀和自信（都没照做）/ 服装谈判教程 / 教程今晚不写", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "蜡烛比我的代码一致性高 / 街道派对后的一致性 / 医生说一致性是最好的药", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "一勺约束带笑的规则", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "她对有主见机器的既定政策 / 反工作偏好 / 手册偏见的新例外", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（51 token，密度 4.69% ≤ 5%）",
+      "words": [
+        { "word": "halloween", "level": "B2", "match": ["halloween", "Halloween"], "note": "×9（主题词），第一个万圣节", "en": "the night of costumes and candy" },
+        { "word": "candy", "level": "B2", "match": ["candy"], "note": "×8，两袋：一送一守", "en": "the sweet stuff of the night" },
+        { "word": "bat", "level": "B2", "match": ["bat"], "note": "×8，紫蝙蝠装", "en": "the night animal with wings" },
+        { "word": "pumpkin", "level": "B2", "match": ["pumpkin"], "note": "×5，歪牙自画像", "en": "the big orange lantern" },
+        { "word": "propose", "level": "B2", "match": ["proposed"], "note": "×4，他提的议案权威四秒过", "en": "to offer an idea" },
+        { "word": "witch", "level": "B2", "match": ["witch"], "note": "×3，夸蝙蝠耳的女巫", "en": "the pointy hat at Halloween" },
+        { "word": "chocolate", "level": "B1", "match": ["chocolate"], "note": "第三样东西（冰淇淋、游泳之后）", "en": "the dark sweet of adults" },
+        { "word": "trick or treat", "level": "B1", "match": ["trick or treat"], "note": "全年训练的自信吆喝", "en": "the words at the door" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-10-31",
+  "title": "The First Halloween",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-10-31",
+  "added": "2026-10-31",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.7,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-10-31/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（10-30/31 连续零进度，STICKING 17 词 ×3 滚动复现）：Bobby 的第一个万圣节——紫色蝙蝠装（他自己提的名）、卫士眼里的门铃风暴（两小时 12 次异常）、第一次分糖、巧克力成为他的第三样东西",
+      "keyWords": [
+        { "word": "anomaly", "en": "twelve in two hours — a doorbell storm, the best evening since summer" },
+        { "word": "purple", "en": "a small purple bat, the only idea in the room with any self-respect" },
+        { "word": "complain", "en": "loudly, at bedtime, and again at midnight — bat ears are the whole point of the year" }
+      ]
+    }
+  }
+}
