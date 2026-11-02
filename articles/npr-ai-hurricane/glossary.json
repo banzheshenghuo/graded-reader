@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "forecast", "level": "B1", "match": ["forecast", "forecaster", "forecasting"], "en": "a prediction of future weather", "note": "主题词，三版保留" },
+        { "word": "black box", "level": "B2", "match": ["black box"], "en": "a system whose inner workings cannot be seen or understood", "note": "高/低: closed box（意译）｜ 中: black box（保留）" },
+        { "word": "gold standard", "level": "C1", "match": ["gold standard"], "en": "the best example against which others are measured", "note": "高/中: gold standard ｜ 低: best program" },
+        { "word": "neural network", "level": "C1", "match": ["neural"], "en": "a computer program modeled on the human brain", "note": "高: neural networks ｜ 低/中: brain-like computer programs" },
+        { "word": "meteorologist", "level": "C1", "match": ["meteorologist"], "en": "a scientist who studies weather", "note": "高 ×1 ｜ 中/低: weather expert / storm researcher" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "atmospheric", "level": "C1", "match": ["atmospheric", "atmosphere"], "en": "relating to the air around Earth", "note": "高 ×3 ｜ 中: the air ｜ 低: the sky" },
+        { "word": "humidity", "level": "B2", "match": ["humidity"], "en": "the amount of water in the air", "note": "仅高 ×1 ｜ 低/中: cut" },
+        { "word": "shear", "level": "C1", "match": ["shear"], "en": "wind moving at different speeds at different heights", "note": "仅高（wind shear = 风切变）" },
+        { "word": "consensus", "level": "C1", "match": ["consensus"], "en": "agreement among a group", "note": "高: consensus approach ｜ 中: mix-and-match approach ｜ 低: mix results" },
+        { "word": "continuity", "level": "C1", "match": ["continuity"], "en": "staying steady and connected over time", "note": "高: continuity（Brennan 引语原词）｜ 中: steady guidance" },
+        { "word": "expertise", "level": "C1", "match": ["expertise"], "en": "deep skill and knowledge in a field", "note": "高: our expertise ｜ 低/中: 未用" },
+        { "word": "hazard", "level": "B2", "match": ["hazard"], "en": "a danger or risk", "note": "高: hazard space ｜ 低/中: real-world dangers" },
+        { "word": "existential", "level": "C1", "match": ["existential"], "en": "about the existence or survival of something", "note": "高: existential crisis（Lowry 引语）｜ 低: deep fear ｜ 中: deep fear" },
+        { "word": "boon", "level": "C1", "match": ["boon"], "en": "something that is very helpful or good", "note": "高（Lowry 引语原词）｜ 低/中: helps our work" },
+        { "word": "unsettling", "level": "C1", "match": ["unsettling", "unsettle"], "en": "making you feel worried or nervous", "note": "高 ×1 ｜ 低/中: worrying" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "incorporate", "level": "C1", "match": ["incorporate"], "en": "to include something as part of a larger thing", "note": "高 ×1 ｜ 低/中: use" },
+        { "word": "algorithm", "level": "C1", "match": ["algorithm"], "en": "a set of instructions a computer follows", "note": "高 ×1 ｜ 低/中: computer instructions" },
+        { "word": "drastic", "level": "C1", "match": ["drastic"], "en": "extreme and sudden", "note": "高 ×1 ｜ 低/中: big changes" },
+        { "word": "annually", "level": "C1", "match": ["annually"], "en": "once every year", "note": "高 ×1 ｜ 低/中: once a year" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "out of the gate", "level": "B2", "match": ["gate"], "en": "right from the start (from horse racing)", "note": "高/中保留（赛马习语）" },
+        { "word": "new kid on the block", "level": "B1", "match": ["kid"], "en": "the newest person or thing in a group (idiom)", "note": "高/中保留（McNoldy 引语）" },
+        { "word": "by far and away", "level": "B1", "match": ["far"], "en": "by a very large margin", "note": "高/中保留（Lowry 引语）" }
+      ]
+    }
+  ]
+}

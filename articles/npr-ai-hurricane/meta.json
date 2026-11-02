@@ -1,0 +1,99 @@
+{
+  "slug": "npr-ai-hurricane",
+  "title": "How AI Is Transforming Hurricane Forecasts",
+  "source": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/10/26/nx-s1-6012820/how-ai-is-transforming-hurricane-forecasts",
+  "author": "NPR staff",
+  "date": "2026-10-26",
+  "added": "2026-11-02",
+  "tags": [
+    "AI",
+    "science",
+    "weather"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.4,
+      "target": "<2%",
+      "desc": "A2 摘编：AI 赢了老程序 + 黑箱 + 人还在",
+      "keyWords": [
+        {
+          "word": "forecast",
+          "en": "a prediction of what the weather will be like"
+        },
+        {
+          "word": "program",
+          "en": "a set of instructions that a computer follows"
+        },
+        {
+          "word": "deep fear",
+          "en": "a very strong and serious worry"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-hurricane/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 2.9,
+      "target": "2–5%",
+      "desc": "i+1 理想区：AI vs 老方法 + 黑箱问题",
+      "keyWords": [
+        {
+          "word": "forecast",
+          "en": "a prediction of future weather"
+        },
+        {
+          "word": "mix-and-match",
+          "en": "choosing the best pieces from different options"
+        },
+        {
+          "word": "steady guidance",
+          "en": "advice that stays clear and does not keep changing"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-hurricane/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 3.8,
+      "target": "5–8%",
+      "desc": "⚠ 密度低于 5% 下限——原文题材词汇本身偏易",
+      "keyWords": [
+        {
+          "word": "gold standard",
+          "en": "the best example against which others are measured"
+        },
+        {
+          "word": "neural network",
+          "en": "a computer program modeled on the human brain"
+        },
+        {
+          "word": "boon",
+          "en": "something that is very helpful or good"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-hurricane/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 9.4,
+      "target": "—",
+      "desc": "NPR 原文",
+      "keyWords": [
+        {
+          "word": "wind shear",
+          "en": "a change in wind speed or direction at different heights"
+        },
+        {
+          "word": "neural network",
+          "en": "a computer system modeled on the human brain"
+        },
+        {
+          "word": "existential crisis",
+          "en": "a moment of deep doubt about the meaning of your work or life"
+        }
+      ]
+    }
+  }
+}
