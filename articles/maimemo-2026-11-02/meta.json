@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-02",
+  "title": "The Rain",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-02",
+  "added": "2026-11-02",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.7,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-02/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（11-01/02 连续零进度，STICKING 17 词 ×3 滚动复现）：今秋第一场雨的周一——雨是海来做客、窗户是小人的电视、卫士逮到真异常（大风吹开阳台门）、教程第三步在厨房桌上十一分钟修掉、收尾\"做某个人图表上那条暖线，随天气去\"",
+      "keyWords": [
+        { "word": "rain", "en": "the sea visiting — Grandma's definition, adopted without a vote" },
+        { "word": "anomaly", "en": "a door blown open by wind: the guard flags the door, not the wind" },
+        { "word": "consistency", "en": "the whole point, as the small engineer seemed to feel, of watching drops" }
+      ]
+    }
+  }
+}

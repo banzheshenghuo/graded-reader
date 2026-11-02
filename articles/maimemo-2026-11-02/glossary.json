@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "雨天安排起草人 / 秘书的计划用墨水写 / 交账归档", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complained", "complaining"], "note": "游泳问题被投诉 / 投诉合理但驳回 / 鱼什么都不抱怨=最佳同事 / 小肩膀没喊过重", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "四度如职业选手 / 冰箱的承诺对垒寒冷夜", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "视频里三位外国同事 / 一种外国感觉：雨天在家干活还开心 / 雨停后变了味的陌生", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrates", "frustrated"], "note": "积压气恼整洁的我 / 十月以来气团队的第三步", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "门口带差事的伞 / 明天回来任务不变", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements", "arrangement"], "note": "雨天安排从未修订 / 周三的雨已用墨水写入还带个她要无视的问号", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "他对她教程的评价 / 她对他进度的一句：可以吃米饭了", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "湿松树近乎紫 / 紫泳帽晾在紫外套旁", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "I 卷岛屿摊开陪看雨 / 那里的鱼什么都不抱怨", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "满月电池 / 抽屉盘点：两个新一个待回收 / 一切正常电池无恙", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "只受雨自己约束的一天 / 一勺规则绑定的奶油", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly", "anomalies"], "note": "11:20 的尖峰=风吹开的门 / 真异常是我：雨天在家干活还开心", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "慢慢回归本身就是药 / 当天的真药=奶油", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial", "tutorials"], "note": "装罐倒出教程比我的会议认真 / 第三步十一分钟修掉 / 一整天的教程归档", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "水滴永远赢=全部意义 / 可以据此规划的一致性 / 丢失时才被注意的那种", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "四点仪式：窗边慢慢吃 / 一天的真药 / 奶油晚餐落定", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "他偏爱赢不了的游戏 / 我对冷天暖线的偏好 / 她对汤天气的偏好证实一季", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（56 token，密度 4.65% ≤ 5%）",
+      "words": [
+        { "word": "rain", "level": "A1", "match": ["rain"], "note": "×14（主题词），今秋第一场", "en": "water from the sky" },
+        { "word": "drop", "level": "A2", "match": ["drop", "drops"], "note": "手指追到底丢了再来，质检工程师", "en": "a little ball of water" },
+        { "word": "humidity", "level": "B2", "match": ["humidity"], "note": "雨天是卫士的主食", "en": "water in the air" },
+        { "word": "router", "level": "C1", "match": ["router"], "note": "这种日子的真正英雄", "en": "the box that sends internet around" },
+        { "word": "island", "level": "B1", "match": ["islands"], "note": "I 卷：岛屿上的鱼从不抱怨", "en": "land in the sea" },
+        { "word": "spike", "level": "B2", "match": ["spike"], "note": "11:20 的十分钟尖峰", "en": "a sharp point on a line" },
+        { "word": "strike", "level": "B2", "match": ["straw"], "note": "曲线弯得像根吸管", "en": "the thin tube for drinking" }
+      ]
+    }
+  ]
+}
