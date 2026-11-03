@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "detector", "level": "C1", "match": ["detector", "detectors", "detection"], "en": "a tool designed to find and identify something", "note": "主题词 ｜ 高/中: detector / checking tool ｜ 低: computer tool" },
+        { "word": "flagged", "level": "B2", "match": ["flag", "flagged"], "en": "marked as a problem; pointed out", "note": "标题词 ｜ 三版保留 ｜ 低: marked" },
+        { "word": "generate", "level": "B2", "match": ["generate", "generated"], "en": "to make or produce something", "note": "高/中: AI-generated ｜ 低: came from AI" },
+        { "word": "submission", "level": "C1", "match": ["submission", "submissions"], "en": "something sent for review or consideration", "note": "高/中 ×2 ｜ 低: stories sent in" },
+        { "word": "delve", "level": "C1", "match": ["delve"], "en": "to search deeply into a subject", "note": "引语原词，高/中保留 ｜ 低: big words" },
+        { "word": "witch hunt", "level": "B2", "match": ["witch"], "en": "a campaign to find and punish people unfairly", "note": "高/中引语 ｜ 低: hunt for people to blame" },
+        { "word": "punctuation", "level": "B2", "match": ["punctuation"], "en": "marks like commas and periods in writing", "note": "高 ×1 ｜ 低/中: marks between sentences" },
+        { "word": "predictable", "level": "B2", "match": ["predictable"], "en": "easy to guess what comes next", "note": "高/中 ×1 ｜ 低: easy to guess" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "floored", "level": "B2", "match": ["floored"], "en": "shocked so much you can't respond (informal)", "note": "高/中/低引语保留" },
+        { "word": "dash", "level": "B2", "match": ["dash"], "en": "a short line (—) used to join parts of a sentence", "note": "三版 keyWord（McGraw 怀念的 em dash）" },
+        { "word": "accusation", "level": "B2", "match": ["accusation"], "en": "a claim that someone did something wrong", "note": "高/低 keyWord ｜ 低: blame" },
+        { "word": "ghostwriter", "level": "C1", "match": ["ghostwriter"], "en": "someone who writes for another person who gets the credit", "note": "高/中 ×1 ｜ 低: professional writer" },
+        { "word": "irony", "level": "C1", "match": ["irony"], "en": "when things happen in a way that seems opposite to what you'd expect", "note": "高/中 ×1 ｜ 低: 未提" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "prospective", "level": "C1", "match": ["prospective"], "en": "possible; expected to become something", "note": "高: prospective client ｜ 低/中: possible/new client" },
+        { "word": "manuscript", "level": "C1", "match": ["manuscript"], "en": "a document sent to a publisher for review", "note": "高 ×1 ｜ 低/中: writing sample / stories" },
+        { "word": "reputable", "level": "C1", "match": ["reputable"], "en": "having a good name; trusted", "note": "高: reputable publishing ｜ 低/中: 未提" },
+        { "word": "overwhelmed", "level": "C1", "match": ["overwhelmed"], "en": "having too much to handle", "note": "高: overwhelmed editors ｜ 中: swamped editors ｜ 低: cut" },
+        { "word": "notably", "level": "C1", "match": ["notably"], "en": "in a way that deserves attention", "note": "高（AI 写作特征词）" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "floored", "level": "B2", "match": ["floored"], "en": "shocked so much you can't respond", "note": "高/中/低引语保留（非正式）" },
+        { "word": "makes or breaks", "level": "B1", "match": ["break"], "en": "either leads to great success or total failure", "note": "高结尾引语 ｜ 低/中: cut" },
+        { "word": "false positive", "level": "B2", "match": ["positive"], "en": "a result that wrongly says something is present", "note": "高/中保留（技术术语）" }
+      ]
+    }
+  ]
+}
