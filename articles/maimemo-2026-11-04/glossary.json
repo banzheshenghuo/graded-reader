@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "安排手册写入理发 / 长凳上不记笔记=最高信任 / 铅笔字下等下一次", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complained", "complaint"], "note": "Y 师傅幸福的抱怨已成服务 / 理发太多被抱怨 / 勺子划痕投诉两次", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "四度职业冷静 / 门口被口头感谢 / 过滤器注释在下周三旁", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "收音机里的外国歌 / 两家外国餐厅 / 外国理发店给糖 Y 师傅给尊严", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrate", "frustrates"], "note": "头发速度不挫败人 / 三周后再气到我 / 不学让 Y 师傅毫不泄气", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "这次差事是替谁都不挡门 / 被拍两下、整周已规划 / 在门口看完全场没学到东西=公文包本分", "en": "the flat case for work papers" },
+        { "word": "arrangement", "level": "B1", "match": ["arrangements"], "note": "手册周三：理发 / 周四三十秒确认 / 手册 терпение等下一页", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "Bobby 自己交付：音量对店铺街道和世纪 / Y 师傅的现代世界点评 / 我的谨慎喜悦", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫围布=泳帽色老友 / 杆上紫条纹每年春天故意更亮 / 紫布治疗（邻居也想体验）", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "到 J 卷丛林页 / 它偏好归档一切 / 读者折痕+1", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "卫士满电看家 / 抽屉盘点 2新1空1诚实 / 阳台电池哼过湿夜", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "她爱的约束是从不计算 / 一勺常设约束生效", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "镜子考验一分钟内解决 / 袜子异常当场结案", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "四点钟的药他从没拒过 / 换了新勺（旧的有只有他看得见的划痕）", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "理发教程每次都被忽略 / 欠团队的只剩最后一步", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency", "consistent"], "note": "可对表的稳定 / 品味一致性是家族遗传", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "常设约束的一勺 / 盘点：随时待命", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "我对被围观工作的偏见无料可吃 / 婴儿床的反变革偏见每次都输给日历又重新当选 / 百科偏好归档", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（66 token，密度 4.87% ≤ 5%）",
+      "words": [
+        { "word": "haircut", "level": "B2", "match": ["haircut"], "note": "×11（主题词），第一次理发", "en": "the cutting of hair" },
+        { "word": "barber", "level": "B2", "match": ["barber", "barbershop"], "note": "×10，Y 师傅和他的店", "en": "the person who cuts hair" },
+        { "word": "mirror", "level": "B1", "match": ["mirror"], "note": "×6，裂纹如河的镜子考验", "en": "the glass that shows you" },
+        { "word": "applause", "level": "B2", "match": ["applause"], "note": "给自己的掌声=理发费", "en": "the sound of clapping" },
+        { "word": "grandsons", "level": "B1", "match": ["grandsons"], "note": "三个孙子所以稳", "en": "the sons of one's child" },
+        { "word": "shrimp", "level": "B1", "match": ["shrimp"], "note": "新发型专注吃虾", "en": "a small sea animal people eat" }
+      ]
+    }
+  ]
+}

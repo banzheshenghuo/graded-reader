@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-04",
+  "title": "The Haircut",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-04",
+  "added": "2026-11-04",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.9,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-04/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（11-03/04 连续零进度，STICKING 17 词 ×3 滚动复现第四次）：Bobby 第一次理发——Y 师傅的镜子考验（\"答案还是 Daddy\"）、剪刀下的折纸手艺、理发店版差评：什么都是订阅连杆上的紫条纹也是、Grandma 的验收\"以前他是我的宝宝\"",
+      "keyWords": [
+        { "word": "haircut", "en": "the hair had said it already — first haircut, more statement than question" },
+        { "word": "consistency", "en": "the barber's complaint, steady enough to have become a service" },
+        { "word": "evaluation", "en": "delivered by Bobby himself, at volume, to the shop, the street, and the century" }
+      ]
+    }
+  }
+}
