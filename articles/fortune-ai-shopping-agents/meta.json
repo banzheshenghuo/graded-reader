@@ -1,0 +1,99 @@
+{
+  "slug": "fortune-ai-shopping-agents",
+  "title": "Visa Tested AI Shopping Agents — and They Failed Nearly 50% of the Time",
+  "source": "Fortune",
+  "sourceUrl": "https://fortune.com/2026/11/05/ai-agents-shopping-ranking-best-agent/",
+  "author": "Jeff John Roberts",
+  "date": "2026-11-05",
+  "added": "2026-11-05",
+  "tags": [
+    "AI",
+    "finance",
+    "shopping"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 2.1,
+      "target": "<2%",
+      "desc": "⚠ 密度 2.1% 超 0.1——AI/购物/Visa 骨架词不可替代",
+      "keyWords": [
+        {
+          "word": "visa",
+          "en": "a major credit card and payments company"
+        },
+        {
+          "word": "trust",
+          "en": "believing someone or something is safe and reliable"
+        },
+        {
+          "word": "shopper",
+          "en": "a person who is buying things"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-shopping-agents/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 6.5,
+      "target": "2–5%",
+      "desc": "⚠ 密度 6.5% 超 1.5——主题词（AI/shopping/trust）不可替代",
+      "keyWords": [
+        {
+          "word": "capture",
+          "en": "to represent or show something"
+        },
+        {
+          "word": "plug",
+          "en": "the connection type for a device"
+        },
+        {
+          "word": "advance",
+          "en": "progress; moving forward"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-shopping-agents/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 5.2,
+      "target": "5–8%",
+      "desc": "接近原文，全部细节保留",
+      "keyWords": [
+        {
+          "word": "expedition",
+          "en": "a journey undertaken for a specific purpose"
+        },
+        {
+          "word": "elicit",
+          "en": "to draw out information from someone"
+        },
+        {
+          "word": "upshot",
+          "en": "the final result or outcome"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/fortune-ai-shopping-agents/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 13.9,
+      "target": "—",
+      "desc": "Fortune 原文",
+      "keyWords": [
+        {
+          "word": "agentic commerce",
+          "en": "shopping done by AI agents on behalf of people"
+        },
+        {
+          "word": "notching",
+          "en": "achieving; reaching (informal)"
+        },
+        {
+          "word": "liability",
+          "en": "legal responsibility for something"
+        }
+      ]
+    }
+  }
+}

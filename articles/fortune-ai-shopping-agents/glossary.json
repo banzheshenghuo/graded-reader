@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "name": "主题词（不可替代，全文骨架）",
+      "words": [
+        { "word": "AI", "level": "缩写", "match": ["AI"], "en": "artificial intelligence — computer systems that can do tasks normally needing human intelligence", "note": "缩写不计密度，全文核心" },
+        { "word": "agent", "level": "B1", "match": ["agent", "agents"], "en": "a program that acts on behalf of a person", "note": "免费词，三版保留" },
+        { "word": "Visa", "level": "专名", "match": ["Visa"], "en": "a major credit card and payments company", "note": "专名但小写形 visa 在词表 → 计费，高/中各保留 ×1" },
+        { "word": "trust", "level": "B2", "match": ["trust"], "en": "believing someone or something is safe and reliable", "note": "核心概念 ｜ 高 ×1 ｜ 中 ×1 ｜ 低: belief in it" },
+        { "word": "commerce", "level": "C1", "match": ["commerce"], "en": "the activity of buying and selling", "note": "高 ×1 ｜ 低/中: shopping" },
+        { "word": "merchant", "level": "C1", "match": ["merchant"], "en": "a business that sells goods", "note": "高 ×1 ｜ 低/中: sellers" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "purchase", "level": "B2", "match": ["purchase"], "en": "to buy something", "note": "高 ×1 ｜ 低/中: buy" },
+        { "word": "shopper", "level": "B2", "match": ["shopper"], "en": "a person who is buying things", "note": "高/中/低主题词" },
+        { "word": "liability", "level": "B2", "match": ["liability"], "en": "legal responsibility for something", "note": "仅高 ｜ 低/中: who pays" },
+        { "word": "capture", "level": "C1", "match": ["capture"], "en": "to represent or show something", "note": "高/中 ×1 ｜ 低: show" },
+        { "word": "complicate", "level": "C1", "match": ["complicate"], "en": "to make something harder", "note": "高/中 ×1 ｜ 低: hard" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "expedition", "level": "B1", "match": ["expedition"], "en": "a journey for a specific purpose", "note": "高首句（原词）｜ 低/中: shopping trips" },
+        { "word": "elicit", "level": "C1", "match": ["elicit"], "en": "to draw out information from someone", "note": "高 ×1 ｜ 低/中: ask the right questions" },
+        { "word": "upshot", "level": "C2", "match": ["upshot"], "en": "the final result or outcome", "note": "高: The upshot is ｜ 低/中: So" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "out of the gate", "level": "B2", "match": ["gate"], "en": "right from the start (horse racing idiom)", "note": "高保留（Lowry 引语）" },
+        { "word": "take a bite", "level": "A2", "match": ["bite"], "en": "to eat a small amount", "note": "结尾段落，三版保留" }
+      ]
+    }
+  ]
+}
