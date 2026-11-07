@@ -1,0 +1,99 @@
+{
+  "slug": "npr-datacenter-ballot",
+  "title": "An Unexpected Activist Emerged to Help Block a $5 Billion Data Center in Maryland",
+  "source": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/11/07/nx-s1-6007770/landover-maryland-data-center-activist",
+  "author": "NPR staff",
+  "date": "2026-11-07",
+  "added": "2026-11-07",
+  "tags": [
+    "AI",
+    "society",
+    "climate"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.4,
+      "target": "<2%",
+      "desc": "A2 摘编：一个人如何挡住 50 亿美元的机房",
+      "keyWords": [
+        {
+          "word": "council",
+          "en": "a group of people who make decisions for a town or area"
+        },
+        {
+          "word": "petition",
+          "en": "a written request signed by many people"
+        },
+        {
+          "word": "county",
+          "en": "an area of a state with its own local government"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-datacenter-ballot/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.5,
+      "target": "2–5%",
+      "desc": "i+1 理想区：抗争过程 + 财政两难",
+      "keyWords": [
+        {
+          "word": "activist",
+          "en": "someone who works to bring about political or social change"
+        },
+        {
+          "word": "revenue",
+          "en": "money that a government or company receives"
+        },
+        {
+          "word": "deficit",
+          "en": "the amount by which spending is greater than income"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-datacenter-ballot/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.4,
+      "target": "5–8%",
+      "desc": "接近原文，全部引语与人物保留",
+      "keyWords": [
+        {
+          "word": "moratorium",
+          "en": "an official pause on an activity"
+        },
+        {
+          "word": "precedent",
+          "en": "an earlier case used as an example for later ones"
+        },
+        {
+          "word": "hyperscale",
+          "en": "built at an extremely large scale (of data centers)"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-datacenter-ballot/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.8,
+      "target": "—",
+      "desc": "NPR 原文",
+      "keyWords": [
+        {
+          "word": "eviction",
+          "en": "the act of forcing someone out of their home by law"
+        },
+        {
+          "word": "lucrative",
+          "en": "producing a lot of money"
+        },
+        {
+          "word": "grapple with",
+          "en": "to struggle to deal with a hard problem"
+        }
+      ]
+    }
+  }
+}

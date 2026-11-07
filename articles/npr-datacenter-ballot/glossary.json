@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "data center", "level": "B1", "match": ["data center", "data centers"], "en": "a large building full of computers that store and process data", "note": "主题词三版保留（data A2 / center B1，基本免费）" },
+        { "word": "activist", "level": "C1", "match": ["activist", "activists"], "en": "someone who works to bring about political or social change", "note": "高/中 ×1 ｜ 低: 未用（用 she / people who fight）" },
+        { "word": "petition", "level": "C1", "match": ["petition"], "en": "a written request signed by many people", "note": "低/中/高 均出现（低: a paper with names）" },
+        { "word": "moratorium", "level": "C1", "match": ["moratorium", "moratoriums"], "en": "an official pause on an activity", "note": "仅高保留原词 ｜ 中/低: holds / pauses" },
+        { "word": "evicted", "level": "C1", "match": ["evicted", "eviction"], "en": "forced out of a home by law", "note": "高 ×1 ｜ 中: forced out ｜ 低: forced out" },
+        { "word": "county", "level": "B2", "match": ["county"], "en": "an area of a state with its own local government", "note": "高 ×2 ｜ 中/低: area（低 keyWord 保留 1 次）" },
+        { "word": "council", "level": "B2", "match": ["council"], "en": "a group of people who make decisions for a town or area", "note": "低/中/高均保留（地方政府机构名）" },
+        { "word": "revenue", "level": "B2", "match": ["revenue"], "en": "money that a government or company receives", "note": "高 ×1 ｜ 中/低: tax money" },
+        { "word": "deficit", "level": "C1", "match": ["deficit"], "en": "the amount by which spending is greater than income", "note": "高/中 ×1 ｜ 低: short of money" },
+        { "word": "precedent", "level": "C1", "match": ["precedent"], "en": "an earlier case used as an example for later ones", "note": "高 ×1 ｜ 中: precedent ｜ 低: example" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "developer", "level": "B2", "match": ["developer"], "en": "a company that builds buildings", "note": "高 ×1 ｜ 中/低: company" },
+        { "word": "approval", "level": "B2", "match": ["approval"], "en": "official permission", "note": "高: won approval ｜ 中/低: got a green light" },
+        { "word": "vacant", "level": "B2", "match": ["vacant"], "en": "empty; not used", "note": "高 ×1 ｜ 中/低: empty" },
+        { "word": "pollute", "level": "C1", "match": ["pollute", "polluting"], "en": "to make air or water dirty", "note": "高/中 ×1 ｜ 低: dirty" },
+        { "word": "diesel", "level": "B2", "match": ["diesel"], "en": "a type of fuel oil used in trucks and generators", "note": "高/中 ×1 ｜ 低: noisy" },
+        { "word": "testify", "level": "C1", "match": ["testify", "testified"], "en": "to give a formal statement in a court or hearing", "note": "高 ×1 ｜ 中/低: spoke" },
+        { "word": "endorse", "level": "C1", "match": ["endorsed", "endorse"], "en": "to publicly support a person or idea", "note": "高 ×1 ｜ 中/低: backed" },
+        { "word": "coalition", "level": "C1", "match": ["coalition"], "en": "a group of different people or groups working together", "note": "高 ×1 ｜ 中/低: group" },
+        { "word": "affordable", "level": "B2", "match": ["affordable"], "en": "cheap enough for ordinary people", "note": "高 ×1 ｜ 中/低: cheap" },
+        { "word": "hyperscale", "level": "SKIP", "match": ["hyperscale"], "en": "built at an extremely large scale", "note": "造词 SKIP 免费 ｜ 高保留 ｜ 中/低: huge" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "grapple with", "level": "C1", "match": ["grapple"], "en": "to struggle to deal with a hard problem", "note": "高: an economic future we have to grapple with" },
+        { "word": "lucrative", "level": "C1", "match": ["lucrative"], "en": "producing a lot of money", "note": "高 ×1 ｜ 中/低: bring in as much money" },
+        { "word": "forefront", "level": "C1", "match": ["forefront"], "en": "the leading position", "note": "高: the forefront of local politics ｜ 中/低: the front" },
+        { "word": "heritage", "level": "C1", "match": ["heritage"], "en": "traditions and history passed down", "note": "高: heritage tourism ｜ 中/低: history tourism" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "Oh, hell no", "level": "B2", "match": ["hell"], "en": "an emphatic 'absolutely not' (informal American)", "note": "高引语保留 ｜ 中/低: No way" },
+        { "word": "knock on doors", "level": "B1", "match": ["doors"], "en": "to visit homes to win political support", "note": "三版保留" },
+        { "word": "jump out here", "level": "B1", "match": ["jump"], "en": "to step forward and take the risk first", "note": "高保留（父亲的话）" }
+      ]
+    }
+  ]
+}
