@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-07",
+  "title": "The Saturday Market",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-07",
+  "added": "2026-11-07",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.5,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-07/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（11-05/06/07 连续零进度，STICKING 17 词 ×3 滚动复现第五次）：周六清晨市场——Bobby 第一次被允许挑一样东西，在鱼、萝卜、菠萝、蜂蜜之间选了一枝黄花，回家交给奶奶，人生第一份主动送出的礼物",
+      "keyWords": [
+        { "word": "choose", "en": "one stem out of the whole market, carried upright like an opinion" },
+        { "word": "consistency", "en": "eleven years of the same tomato ritual — that is what makes it a friendship" },
+        { "word": "evaluation", "en": "eleven minutes to approve a month of work; suspicious, and correct" }
+      ]
+    }
+  }
+}

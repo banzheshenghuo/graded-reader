@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "三十年市场清单从没丢过 / 秘书的孙子是来访贵宾 / 像关办公室一样收尾", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complained"], "note": "价钱每年涨一点按同样顺序抱怨 / 汤姆与摊主互不抱怨", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "日历所在 / 四度=没有周六的东西 / 奶油在门上站岗", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "七点一刻这条街变成另一个国家 / 任何语言回答孩子", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrate", "frustrates", "frustration"], "note": "一月一次气到我中间从不 / 互不泄气才是友谊 / 今日结案：全无泄气", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "周六的意见被记下并被无视 / 没有市场日所以永远将开未开 / 在走廊听完新闻不置一词", "en": "the flat case for work papers" },
+        { "word": "arrangements", "level": "B1", "match": ["arrangements"], "note": "市场日换一种弹性墨水 / 新加的一行改变了整个上午 / 晚间打勾", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation", "evaluat"], "note": "奶奶的缓缓点头 / 十一分钟的评价：可疑 / 分两部分交付的今日评价", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫厨房里的黄花 / 紫色花瓶", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "摊在花旁像也想看 / K 卷袋鼠 / 归架回到 K", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "三周前换的自报健康 / 一次电池旗子 / 睡前最后一轮检查", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "市场的约束是只在它那一天发生 / 奶油的约束在门上站着 / 十月起无人挑战", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "3:40 阳台门那次 / 本周唯一一次 / 今日账本无异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "一个月写十一分钟批=这行的药 / 药架盘点", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial", "tutorials"], "note": "奶奶购物课=礼貌拒绝课 / 一周的教程到了最后一步 / 四页其中第四页一句", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency", "consistent"], "note": "十一年周六的默契 / 没有周六的东西 / 束之高阁的承诺也有一致性", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "在冰箱角落等它的小时 / 门上的小卫士 / 按点吃掉", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "男孩有品味（她从不隐藏）/ 全家对掌声的偏好 / 秩序与花的偏好握手", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（43 token，密度 3.52% ≤ 5%）",
+      "words": [
+        { "word": "market", "level": "A2", "match": ["market"], "note": "×7（主题词），周六清晨七点开场", "en": "the place of stalls and prices" },
+        { "word": "flower", "level": "A2", "match": ["flower", "flowers"], "note": "×7，一枝黄花=第一份礼物", "en": "the bright part of a plant" },
+        { "word": "radish", "level": "C2", "match": ["radish", "radishes"], "note": "×4，红绳捆成礼物的蔬菜，被他拒绝", "en": "the small red root vegetable" },
+        { "word": "pineapple", "level": "C1", "match": ["pineapple", "pineapples"], "note": "×3，让他眼睛发亮", "en": "the spiky yellow fruit" },
+        { "word": "tomato", "level": "A2", "match": ["tomato", "tomatoes"], "note": "温室的味道如水", "en": "the red fruit of salads" },
+        { "word": "applause", "level": "B2", "match": ["applause"], "note": "全家对掌声的偏好比书更老", "en": "the sound of clapping" },
+        { "word": "kangaroo", "level": "B1", "match": ["kangaroo", "kangaroos"], "note": "K 卷：\"一个会跳的口袋\"", "en": "the hopping animal with a pocket" }
+      ]
+    }
+  ]
+}
