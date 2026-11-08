@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "主题词（骨架，不可替代）",
+      "words": [
+        { "word": "worm", "level": "B2", "match": ["worm", "worms"], "en": "a long, thin, soft-bodied animal with no legs", "note": "主题词，三版 ×3-4 ｜ 骨架不可替换" },
+        { "word": "nerve", "level": "C1", "match": ["nerve", "nerves", "nervous"], "en": "a thin thread in the body that carries signals", "note": "高/中/低均 ×2-3（神经系统的核心词）" },
+        { "word": "neuron", "level": "C1", "match": ["neuron", "neurons"], "en": "a cell in the brain that carries signals", "note": "高 ×1 ｜ 中/低: nerve cells" },
+        { "word": "evolution", "level": "B2", "match": ["evolution", "evolutionary"], "en": "the slow change of living things over generations", "note": "标题词 ｜ 高/中 ×2 ｜ 低: 未提" },
+        { "word": "cell", "level": "A2", "match": ["cell", "cells"], "en": "the smallest living part of a body", "note": "低 keyWord ｜ 三版核心" }
+      ]
+    },
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "centralize / regionalize", "level": "C1", "match": ["centralize", "regionalize"], "en": "to gather in one place / to divide into separate areas", "note": "核心科学论点 ｜ 高/中保留 ｜ 低: came together / separate parts" },
+        { "word": "specialized", "level": "C1", "match": ["specialized", "specialize"], "en": "developed for a particular job", "note": "高/中 ×1-2 ｜ 低: special areas" },
+        { "word": "organism", "level": "C1", "match": ["organism", "organisms"], "en": "a living thing", "note": "高 ×1 ｜ 中/低: animal" },
+        { "word": "regenerate", "level": "C1", "match": ["regenerate", "regrow"], "en": "to grow back after being damaged", "note": "原文用 regenerate ｜ 三版: grow back" },
+        { "word": "embryo", "level": "C1", "match": ["embryo", "embryos", "embryology"], "en": "an animal in the earliest stage of development", "note": "高/中 ×1 ｜ 低: babies" },
+        { "word": "insight", "level": "B2", "match": ["insight", "insights"], "en": "a clear understanding of something", "note": "高 ×1 ｜ 中/低: 未用" },
+        { "word": "adapt", "level": "B2", "match": ["adapt", "adapted"], "en": "to change something to fit a new use", "note": "高 ×1 ｜ 中/低: uses / similar method" },
+        { "word": "plasticity", "level": "C1", "match": ["plasticity"], "en": "the ability to change and adapt", "note": "仅高/原文（已降为 flexibility）" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "fierce", "level": "B2", "match": ["fierce"], "en": "violent and aggressive", "note": "高 ×1 ｜ 中/低: 未用（简化为 hunts）" },
+        { "word": "dense", "level": "B2", "match": ["dense", "densely"], "en": "packed tightly together", "note": "高/中 ×2 ｜ 低: tight" },
+        { "word": "species", "level": "B2", "match": ["species"], "en": "a group of animals that can breed together", "note": "高 ×2 ｜ 中/低: kind / animals" },
+        { "word": "shrimp", "level": "B2", "match": ["shrimp"], "en": "a small sea creature with a shell and many legs", "note": "三版保留（动物的猎物）" },
+        { "word": "mating", "level": "B2", "match": ["mating"], "en": "the process of animals pairing to reproduce", "note": "三版保留" },
+        { "word": "flexibility", "level": "B2", "match": ["flexibility", "flexible"], "en": "the ability to bend or change easily", "note": "三版保留（替代 plasticity）" },
+        { "word": "complicate", "level": "C1", "match": ["complicated", "complicate"], "en": "made up of many connected parts; not simple", "note": "三版保留" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "great lab rats", "level": "B1", "match": ["rat"], "en": "a joke: very easy animals to keep in a lab", "note": "高/中引语保留 ｜ 低: 未用" },
+        { "word": "grain of rice", "level": "A2", "match": ["grain"], "en": "a single seed of rice — used to describe tiny size", "note": "三版保留" },
+        { "word": "take for granted", "level": "B2", "match": ["grant"], "en": "to accept something without thinking about it", "note": "三版保留" }
+      ]
+    }
+  ]
+}

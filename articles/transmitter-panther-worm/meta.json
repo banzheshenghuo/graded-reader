@@ -1,0 +1,99 @@
+{
+  "slug": "transmitter-panther-worm",
+  "title": "The Three-Banded Panther Worm Is Rewriting the Story of Brain Evolution",
+  "source": "The Transmitter",
+  "sourceUrl": "https://www.thetransmitter.org/neuros-ark/the-three-banded-panther-worm-is-rewriting-the-story-of-brain-evolution/",
+  "author": "Sarah DeWeerdt",
+  "date": "2026-11-04",
+  "added": "2026-11-08",
+  "tags": [
+    "neuroscience",
+    "evolution",
+    "biology"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 2.1,
+      "target": "<2%",
+      "desc": "⚠ 超 0.1——worm/cell/nerve 为不可替代的主题名词",
+      "keyWords": [
+        {
+          "word": "nerve",
+          "en": "a thin thread in the body that carries signals"
+        },
+        {
+          "word": "cell",
+          "en": "the smallest living part of a body"
+        },
+        {
+          "word": "worm",
+          "en": "a long, thin, soft-bodied animal with no legs"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-panther-worm/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 5.0,
+      "target": "2–5%",
+      "desc": "i+1 上限区：先集中后分区的脑演化假说",
+      "keyWords": [
+        {
+          "word": "centralize",
+          "en": "to bring things together into one place"
+        },
+        {
+          "word": "specialize",
+          "en": "to develop parts with particular jobs"
+        },
+        {
+          "word": "embryo",
+          "en": "an animal in the earliest stage of development"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-panther-worm/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 6.6,
+      "target": "5–8%",
+      "desc": "接近原文，两位科学家引语完整",
+      "keyWords": [
+        {
+          "word": "organism",
+          "en": "a living thing"
+        },
+        {
+          "word": "insight",
+          "en": "a clear understanding of something"
+        },
+        {
+          "word": "adapt",
+          "en": "to change something to fit a new use"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-panther-worm/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 12.7,
+      "target": "—",
+      "desc": "The Transmitter 原文",
+      "keyWords": [
+        {
+          "word": "voracious",
+          "en": "eating a huge amount; very eager"
+        },
+        {
+          "word": "bilaterally symmetrical",
+          "en": "having a left and right side that mirror each other"
+        },
+        {
+          "word": "plasticity",
+          "en": "the ability to change and adapt"
+        }
+      ]
+    }
+  }
+}
