@@ -1,0 +1,99 @@
+{
+  "slug": "npr-korea-ai-college",
+  "title": "Why a South Korean City Is Turning to a U.S. College to Outsmart AI",
+  "source": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/11/09/g-s1-151519/south-korea-chuncheon-great-books-ai",
+  "author": "Anthony Kuhn",
+  "date": "2026-11-09",
+  "added": "2026-11-09",
+  "tags": [
+    "AI",
+    "education",
+    "society"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.2,
+      "target": "<2%",
+      "desc": "A2 摘编：一间教室 + 两个问题 + 一座城市的尝试",
+      "keyWords": [
+        {
+          "word": "monster",
+          "en": "a frightening imaginary creature"
+        },
+        {
+          "word": "mayor",
+          "en": "the elected head of a city government"
+        },
+        {
+          "word": "closely",
+          "en": "in a careful, near way"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-korea-ai-college/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 3.5,
+      "target": "2–5%",
+      "desc": "i+1 理想区：大书模式 + 韩国教育困境",
+      "keyWords": [
+        {
+          "word": "philosophy",
+          "en": "a set of ideas about how something should be done"
+        },
+        {
+          "word": "breakthrough",
+          "en": "a sudden important discovery or advance"
+        },
+        {
+          "word": "democracy",
+          "en": "a system where people elect their leaders"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-korea-ai-college/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.2,
+      "target": "5–8%",
+      "desc": "接近原文，全部人名、引语与数字保留",
+      "keyWords": [
+        {
+          "word": "laureate",
+          "en": "a person given a top prize, such as the Nobel Prize"
+        },
+        {
+          "word": "miniature",
+          "en": "a very small copy of something bigger"
+        },
+        {
+          "word": "unravel",
+          "en": "to come apart; to stop holding together"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-korea-ai-college/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 13.1,
+      "target": "—",
+      "desc": "NPR 原文",
+      "keyWords": [
+        {
+          "word": "nascent",
+          "en": "just beginning to develop"
+        },
+        {
+          "word": "martial law",
+          "en": "military control of a country instead of normal law"
+        },
+        {
+          "word": "elective course",
+          "en": "a class you choose rather than one you must take"
+        }
+      ]
+    }
+  }
+}

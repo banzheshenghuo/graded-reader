@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "核心替换词",
+      "words": [
+        { "word": "Great Books", "level": "专名", "match": ["Great Books"], "en": "a teaching method based on reading classic books and discussing them", "note": "主题词，三版保留" },
+        { "word": "mayor", "level": "B2", "match": ["mayor"], "en": "the elected head of a city government", "note": "高/中 ×1 ｜ 低: the city's leader" },
+        { "word": "monster", "level": "B2", "match": ["monster"], "en": "a frightening imaginary creature", "note": "三版 keyWord（弗兰肯斯坦的怪物）" },
+        { "word": "lecture", "level": "B2", "match": ["lecture"], "en": "to give a formal talk to a class", "note": "高: teachers do not lecture ｜ 中/低: give talks" },
+        { "word": "elective course", "level": "C1", "match": ["elective"], "en": "a class you choose rather than one you must take", "note": "仅高 ｜ 中/低: subjects to choose" },
+        { "word": "peer", "level": "B2", "match": ["peers"], "en": "people of the same age or position as you", "note": "仅高 ｜ 中/低: other students" },
+        { "word": "cram school", "level": "B2", "match": ["cram"], "en": "a private school for extra study after regular school", "note": "高 ×1 ｜ 中/低: extra classes" },
+        { "word": "laments", "level": "C1", "match": ["lament"], "en": "to express deep sadness about something", "note": "原文用 lament ｜ 高/中: says sadly" },
+        { "word": "capacity", "level": "B2", "match": ["capacity"], "en": "the ability to do something", "note": "原文 ×1 ｜ 三版: skill" },
+        { "word": "limitation", "level": "C1", "match": ["limitation", "limitations"], "en": "a limit on what something can do", "note": "高 ×1 ｜ 中/低: limits" }
+      ]
+    },
+    {
+      "name": "B2 档核心词",
+      "words": [
+        { "word": "intense", "level": "B2", "match": ["intense"], "en": "very strong; extreme", "note": "高 ×1 ｜ 中/低: hard" },
+        { "word": "philosophy", "level": "B2", "match": ["philosophy"], "en": "a set of ideas about how something should be done", "note": "高/中 ×1 ｜ 低: 未提" },
+        { "word": "breakthrough", "level": "B2", "match": ["breakthrough"], "en": "a sudden important discovery or advance", "note": "高/中保留 ｜ 低: a small but big change" },
+        { "word": "laureate", "level": "C1", "match": ["laureate"], "en": "a person given a top prize", "note": "高 ×1 ｜ 中/低: the Nobel winner" },
+        { "word": "unjust", "level": "B2", "match": ["unjust"], "en": "not fair", "note": "高 ×1 ｜ 中/低: not fair" },
+        { "word": "citizen", "level": "B2", "match": ["citizen", "citizens"], "en": "a legal member of a country", "note": "高 ×2 ｜ 中/低: people" },
+        { "word": "democracy", "level": "B2", "match": ["democracy"], "en": "a system where people elect their leaders", "note": "高/中保留（引语）" }
+      ]
+    },
+    {
+      "name": "仅高版出现",
+      "words": [
+        { "word": "seminar", "level": "C1", "match": ["seminar"], "en": "a small class where people discuss a subject", "note": "高引语原词 ｜ 中/低: discussion table" },
+        { "word": "miniature", "level": "C1", "match": ["miniature"], "en": "a very small copy of something bigger", "note": "高引语原词 ｜ 中/低: small" },
+        { "word": "clash", "level": "C1", "match": ["clash"], "en": "to disagree strongly or fight", "note": "高 ×1 ｜ 中/低: fight" },
+        { "word": "cooperate", "level": "B2", "match": ["cooperate"], "en": "to work together", "note": "高 ×1 ｜ 中/低: work together" },
+        { "word": "civic participation", "level": "C1", "match": ["civic"], "en": "taking part in public and political life", "note": "高引语原词 ｜ 中: public involvement" },
+        { "word": "unravel", "level": "C1", "match": ["unravel"], "en": "to come apart; to stop holding together", "note": "高引语原词 ｜ 中/低: fall apart" },
+        { "word": "keenly", "level": "C1", "match": ["keenly"], "en": "in a sharp, strong way", "note": "高 ×1 ｜ 中/低: sharply" }
+      ]
+    },
+    {
+      "name": "词表内搭配（免费词，供注意）",
+      "words": [
+        { "word": "with no soul", "level": "B1", "match": ["soul"], "en": "alive but without a spirit (in stories)", "note": "三版保留（低版: no heart）" },
+        { "word": "martial law", "level": "C1", "match": ["martial"], "en": "military control of a country instead of normal law", "note": "仅高 ｜ 中: army rule ｜ 低: army control" },
+        { "word": "pre-K", "level": "B1", "match": [], "en": "the school level before kindergarten, for very young children", "note": "高: from the pre-K level ｜ 中/低: from a very young age" }
+      ]
+    }
+  ]
+}
