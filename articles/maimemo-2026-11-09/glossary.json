@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "像秘书记董事会议程一样记太阳的日程 / 影子先到像秘书先到 / 来查这次巡视", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complained"], "note": "勺子不被接走时抱怨两次 / 像抱怨梨价一样抱怨自己童年的迷信", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator", "fridge"], "note": "四度的职业冷静 / 冰箱门一天三次都是我的 / 被无声地感谢 / 机器在紫厨房嗡嗡", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "一缕外来的光 / 在自家走廊遇见外国的东西 / 外来的光走了", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrat"], "note": "下午第一次泄气，短暂而真实且教会人 / 拒绝把他气出了一个主意 / 影子从不泄气", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "装着第四页、不多占地方 / 合上 / 唯一的好教训", "en": "the flat case for work papers" },
+        { "word": "arrangements", "level": "B1", "match": ["arrangements", "arrangement"], "note": "脸上的表情安排 / 周二的安排一分钟确认 / 这就是约定且成立", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "奶奶从门口给的评价 / 对整月写作的评价 / 对教程的评价：够了", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "斜光扫过紫色长条地毯 / 紫地毯被扶正 / 紫厨房里的机器嗡嗡", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "我所处行业的百科里永远不会有的 / L 卷狮子 / 把两者归在同一个字母下", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "三周前的新电池自报健康 / 又报健康 / 比卫士的电池还可靠", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "他接受一切约束的方式 / 门上贴着一勺的法律没人介意 / 一勺的常设约束", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "两天连无异常 / 报告里没有异常是我最喜欢的报告 / 今晚无异常", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "下午的药：影子没有胃口也没有义务 / 药架满的 / 他最爱的一味药", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "欠团队的教程第四次回批 / 不需要教程的奶油 / 教程停在四页", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "那份教训的一致性就是它的全部价值 / 值得拥有的一致 / 有些一致性是机器有些是光", "en": "staying the same over time" },
+        { "word": "cream", "level": "B2", "match": ["cream"], "note": "指着问以后还有奶油吗 / 奶油与洗澡之间的狮子页 / 四点的一勺", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "她对民间说法的偏见一如既往 / 他偏向待着不动的物品，第一次被打 / 全屋偏向会回应的事物", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（42 token，密度 3.31% ≤ 5%）",
+      "words": [
+        { "word": "shadow", "level": "B2", "match": ["shadow", "shadows"], "note": "×17（主题词），十一月斜阳造出来的朋友", "en": "the dark shape light makes behind you" },
+        { "word": "hallway", "level": "B2", "match": ["hallway", "hall"], "note": "×7（主题词），走廊里的太阳时段", "en": "the passage between rooms" },
+        { "word": "doorway", "level": "C1", "match": ["doorway"], "note": "×2，奶奶站在门口", "en": "the opening of a door" },
+        { "word": "appetite", "level": "C1", "match": ["appetite"], "note": "影子没有胃口", "en": "the wish to eat" },
+        { "word": "vanish", "level": "C1", "match": ["vanish"], "note": "影子折进墙里消失了", "en": "to go out of sight suddenly" },
+        { "word": "scoop", "level": "B2", "match": ["scoop"], "note": "×3，一勺的法律", "en": "one round spoonful" }
+      ]
+    }
+  ]
+}

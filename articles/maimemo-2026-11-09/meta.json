@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-09",
+  "title": "The Shadow",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-09",
+  "added": "2026-11-09",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.3,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-09/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（11-08/09 连续零进度，STICKING 17 词 ×3 滚动复现第六次）：十一月的斜阳在走廊里，Bobby 遇见了自己的影子——人生第一次「世界会回应我」的证据；奶奶的民间说法与四岁夏天的倒着走",
+      "keyWords": [
+        { "word": "shadow", "en": "a friend who does everything he does, one second late, for free" },
+        { "word": "medicine", "en": "a shadow has no appetite and no obligations — a hard lesson, and the day's real medicine" },
+        { "word": "consistency", "en": "some consistencies are machines; some are light that visits at four" }
+      ]
+    }
+  }
+}
