@@ -1,0 +1,221 @@
+{
+  "groups": [
+    {
+      "name": "命名方法论",
+      "words": [
+        {
+          "word": "naming",
+          "level": "B1",
+          "match": [
+            "naming",
+            "name",
+            "names"
+          ],
+          "en": "the act of choosing a word for a thing",
+          "note": "主题词，三版保留"
+        },
+        {
+          "word": "convention",
+          "level": "B2",
+          "match": [
+            "conventions",
+            "convention"
+          ],
+          "en": "a usual way that people agree to do something",
+          "note": "仅高/中 ｜ 低: rules"
+        },
+        {
+          "word": "logical structure",
+          "level": "B2",
+          "match": [
+            "logical structure"
+          ],
+          "en": "a pattern of parts that follow each other in a sensible order",
+          "note": "仅高 ｜ 中: clear pattern ｜ 低: 拆成两句"
+        },
+        {
+          "word": "generic",
+          "level": "C1",
+          "match": [
+            "generic"
+          ],
+          "en": "general, so it does not describe anything in particular",
+          "note": "仅高/中 ｜ 低: too general"
+        },
+        {
+          "word": "meaningful",
+          "level": "C1",
+          "match": [
+            "meaningful"
+          ],
+          "en": "having a clear meaning that people understand",
+          "note": "仅高 ｜ 中/低: it says something / a clear meaning"
+        },
+        {
+          "word": "reuse",
+          "level": "C1",
+          "match": [
+            "reuse"
+          ],
+          "en": "to use something again, in another place",
+          "note": "仅高 ｜ 中/低: use them again"
+        }
+      ]
+    },
+    {
+      "name": "设计系统黑话",
+      "words": [
+        {
+          "word": "design token",
+          "level": "B2",
+          "match": [
+            "tokens",
+            "token"
+          ],
+          "en": "a named value (a color, a size) that many parts of a design share",
+          "note": "三版保留（token 是行业术语，不译）"
+        },
+        {
+          "word": "component",
+          "level": "B2",
+          "match": [
+            "components",
+            "component"
+          ],
+          "en": "a reusable part of an interface, such as a button or a card",
+          "note": "三版 ×1–3 ｜ 低: parts of a page"
+        },
+        {
+          "word": "taxonomy",
+          "level": "C1",
+          "match": [
+            "taxonomy"
+          ],
+          "en": "a system for sorting things into named groups",
+          "note": "仅高/中（产品名 Variables Taxonomy Map）"
+        },
+        {
+          "word": "semantics",
+          "level": "C1",
+          "match": [
+            "semantics"
+          ],
+          "en": "the meaning that a name carries",
+          "note": "仅高 ｜ 中: meaning"
+        },
+        {
+          "word": "primitive",
+          "level": "B2",
+          "match": [
+            "primitives"
+          ],
+          "en": "the most basic raw value, before any meaning is added",
+          "note": "仅高 ｜ 中/低: raw values"
+        }
+      ]
+    },
+    {
+      "name": "用户与产品",
+      "words": [
+        {
+          "word": "adoption",
+          "level": "C1",
+          "match": [
+            "adoption"
+          ],
+          "en": "the act of starting to use a new feature or tool",
+          "note": "仅高/中 ｜ 低: people do not use"
+        },
+        {
+          "word": "discoverability",
+          "level": "C1",
+          "match": [
+            "discoverability"
+          ],
+          "en": "how easily people can find something on their own",
+          "note": "仅高/原文 ｜ 中: 拆成 cannot find it"
+        },
+        {
+          "word": "workflow",
+          "level": "C1",
+          "match": [
+            "workflow"
+          ],
+          "en": "the fixed steps a person follows to finish a job",
+          "note": "仅高/中 ｜ 低: daily work"
+        },
+        {
+          "word": "feature",
+          "level": "B1",
+          "match": [
+            "features",
+            "feature"
+          ],
+          "en": "a part of a product that does a job for the user",
+          "note": "三版 keyWord"
+        },
+        {
+          "word": "outcome",
+          "level": "B2",
+          "match": [
+            "outcome"
+          ],
+          "en": "the result that something produces",
+          "note": "仅高 ｜ 中/低: what it gives you"
+        }
+      ]
+    },
+    {
+      "name": "协作与摩擦",
+      "words": [
+        {
+          "word": "dialect",
+          "level": "C1",
+          "match": [
+            "dialects",
+            "dialect"
+          ],
+          "en": "a form of a language used by one group of people",
+          "note": "高/中 ×5：团队各说各话的比喻 ｜ 低: different words"
+        },
+        {
+          "word": "frustration",
+          "level": "C1",
+          "match": [
+            "frustration"
+          ],
+          "en": "the annoyed feeling you get when something keeps going wrong",
+          "note": "仅高/中 ｜ 低: bad feeling"
+        },
+        {
+          "word": "confusion",
+          "level": "B2",
+          "match": [
+            "confusion",
+            "confused"
+          ],
+          "en": "the state of not understanding what is happening",
+          "note": "三版都有 ｜ 低: 换成 lost"
+        },
+        {
+          "word": "backlog",
+          "level": "C1",
+          "match": [
+            "backlog"
+          ],
+          "en": "a list of work that is waiting to be done",
+          "note": "仅高 ｜ 中/低: a list to fix later"
+        },
+        {
+          "word": "guidelines",
+          "level": "B2",
+          "match": [
+            "guidelines"
+          ],
+          "en": "written advice about how something should be done",
+          "note": "仅高/中 ｜ 低: 略"
+        }
+      ]
+    }
+  ]
+}

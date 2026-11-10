@@ -1,0 +1,100 @@
+{
+  "slug": "smashing-guide-to-naming-things",
+  "title": "A Practical Guide To Naming Things",
+  "source": "Smashing Magazine",
+  "sourceUrl": "https://www.smashingmagazine.com/2026/10/how-name-things/",
+  "author": "Vitaly Friedman",
+  "date": "2026-10-20",
+  "added": "2026-11-10",
+  "tags": [
+    "frontend",
+    "design systems",
+    "naming",
+    "UX"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.0,
+      "target": "<2%",
+      "desc": "A2 摘编：命名为什么难 + 四个能帮你的资源 + 一条收尾原则；删掉 Intuit 细节与多数工具清单",
+      "keyWords": [
+        {
+          "word": "confused",
+          "en": "not able to understand clearly"
+        },
+        {
+          "word": "general",
+          "en": "not detailed; covering many things"
+        },
+        {
+          "word": "feature",
+          "en": "a part of a product that does something"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-guide-to-naming-things/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.1,
+      "target": "2–5%",
+      "desc": "i+1 理想区：命名三原则 + 五个资源 + 团队方言导致的时间浪费",
+      "keyWords": [
+        {
+          "word": "dialect",
+          "en": "a form of a language spoken by a certain group"
+        },
+        {
+          "word": "guidelines",
+          "en": "official advice about how to do something"
+        },
+        {
+          "word": "component",
+          "en": "a reusable part of a user interface"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-guide-to-naming-things/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 6.7,
+      "target": "5–8%",
+      "desc": "接近原文：保留 taxonomy、semantics、etymology 等术语，删掉部分工具介绍",
+      "keyWords": [
+        {
+          "word": "taxonomy",
+          "en": "a system for organizing things into groups"
+        },
+        {
+          "word": "convention",
+          "en": "a usual way of doing something"
+        },
+        {
+          "word": "workflow",
+          "en": "the steps a person follows to finish a piece of work"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-guide-to-naming-things/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 12.0,
+      "target": "—",
+      "desc": "Smashing Magazine 原文（已剥离站点导航、作者简介与广告块）",
+      "keyWords": [
+        {
+          "word": "discoverability",
+          "en": "how easily people can find a feature"
+        },
+        {
+          "word": "case study",
+          "en": "a detailed report about one real project"
+        },
+        {
+          "word": "adoption",
+          "en": "the act of starting to use something"
+        }
+      ]
+    }
+  }
+}
