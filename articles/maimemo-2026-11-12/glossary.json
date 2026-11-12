@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · STICKING 滚动复现（特殊日短文，17 词全部 ×3）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "四层楼下数到十一才动=她认为的应急速率 / M 卷月亮是她的选择 / 嗅出 1962 的味道", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain"], "note": "关于电梯和电费按固定日程抱怨，全楼都习惯了 / 他说这话是评价不是抱怨", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator", "fridge"], "note": "停电断电 / 重启后守着四度 / 黑暗里把冷当作为朋友保守的秘密", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "每一间屋子都成了家具摆错位置的外国 / 窗外的黑暗仍是外国的，没人试图解释两遍", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrat"], "note": "讲 1976 毫无挫折感=另一种小一致性 / 冷晚饭本可带来的挫折没来 / 冰箱不气人", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "四层楼下黑暗里无话可说 / 盖子打不开时才到的训 / 明天照做它的事", "en": "the flat case for work papers" },
+        { "word": "arrangements", "level": "B1", "match": ["arrangements", "arrangement"], "note": "卫士数的一切安排同时停止 / 这晚自己的安排不写也成立 / 临时凑的一场成了", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "对 1976 故事的评价：强过屏幕上的一切 / 他说这话是评价 / 她对气味的鉴定性评价", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "紫毛巾被评为年度最佳 / 三层楼上的紫色房间", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "烛光下读 M 卷月亮 / 它归档不了这一夜 / 它也没法把这次异常归得更好", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "大厦的发电机有电池，今晚电池是英雄 / 阳台电池恢复上报", "en": "the part that holds power" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "这夜的约束一句话宣布：谁都不许离桌 / 违背了四点的钟点 / 钟点的约束是我们的，今夜钟点不是", "en": "a rule that limits what you do" },
+        { "word": "anomaly", "level": "C1", "match": ["anomaly"], "note": "今晚第一个异常是沉默 / 报了唯一一次异常 / 这一夜的异常有一整个晚上那么大", "en": "something that does not fit the pattern" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "停电的药 / 药柜可以等更好的时辰 / 一百分钟黑暗的药被归档在机器索引不到的地方", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "「看」这门教程他讲了好几个月 / 我的版本是怎样使用什么都没有 / 今晚的老师是蜡烛", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "四十年果酱罐加蜡烛=真正可靠 / 那份平静也是一种一致性 / 比电的一致更罕见", "en": "staying the same over time" },
+        { "word": "cream", "level": "B2", "match": ["cream"], "note": "一勺改到九点半 / 端着碟子穿过黑走廊自成一礼 / 一勺奶油的奶油", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "老人对过去的偏爱通常是怀旧，她是技术性的 / 全家对手搬东西的偏好再获确认 / 对蜡烛的偏好为冬天定案", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "计划外生词（43 token，密度 3.19% ≤ 5%）",
+      "words": [
+        { "word": "candle", "level": "B2", "match": ["candle", "candles"], "note": "×8（主题词），果酱罐里的三个蜡烛", "en": "the wax stick that burns for light" },
+        { "word": "blackout", "level": "C1", "match": ["blackout"], "note": "×2（标题词），全楼一百分钟的停电", "en": "a time with no electricity" },
+        { "word": "jam", "level": "B2", "match": ["jam"], "note": "×3，果酱罐当烛台用了四十年", "en": "the sweet fruit spread" },
+        { "word": "generator", "level": "B2", "match": ["generator"], "note": "×2，大厦的发电机一分钟内回来", "en": "the machine that makes power" },
+        { "word": "kettle", "level": "C1", "match": ["kettle"], "note": "×2，邻居的水壶煮了汤", "en": "the pot for boiling water" },
+        { "word": "village", "level": "B1", "match": ["village"], "note": "1976 年整城黑了十一天，街区变成「水管更差的村子」", "en": "a small place in the country" }
+      ]
+    }
+  ]
+}

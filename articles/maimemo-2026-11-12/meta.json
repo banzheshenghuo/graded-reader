@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-12",
+  "title": "The Blackout",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-12",
+  "added": "2026-11-12",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.2,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-12/mid.mp3",
+      "desc": "墨墨词表定制·特殊日短文（11-11/12 连续零进度，STICKING 17 词 ×3 滚动复现第七次）：全楼停电一百分钟——邻居家三个果酱罐蜡烛、Bobby 第一次在烛光下吃晚饭、卫士报告的唯一异常是「一百分钟的空白，无数据」",
+      "keyWords": [
+        { "word": "anomaly", "en": "a gap of a hundred minutes, unexplained, no data — and it was right to report it" },
+        { "word": "consistency", "en": "forty years of jam jars with candles: those are reliable" },
+        { "word": "medicine", "en": "a dark room has no screens and a very good clock" }
+      ]
+    }
+  }
+}
