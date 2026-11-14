@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "航空管制术语",
+      "words": [
+        { "word": "ground stop", "level": "C1", "match": ["ground stop", "grounding", "grounded", "stopped"], "en": "an order that keeps all planes on the ground", "note": "主题词，三版保留（低: stopped）" },
+        { "word": "air traffic control", "level": "B2", "match": ["air traffic control", "guide planes"], "en": "the service that directs planes in the air and on the ground", "note": "三版均有 ｜ 低: the radio and screen systems that guide planes" },
+        { "word": "aviation", "level": "B2", "match": ["aviation"], "en": "the activity of flying aircraft", "note": "仅高/原 ｜ 中/低: air travel" },
+        { "word": "outage", "level": "C1", "match": ["outage", "outages"], "en": "a period when a system or service is not working", "note": "仅高 ｜ 中/低: stopped working / went wrong" },
+        { "word": "radar", "level": "C1", "match": ["radar"], "en": "a system that finds planes by sending out radio waves", "note": "仅高 ｜ 中/低: 改写成 radio and screen systems" },
+        { "word": "regional center", "level": "B2", "match": ["regional centers", "local centers"], "en": "one of the control rooms that manage planes high over a large area", "note": "高/中 ｜ 低: local centers" },
+        { "word": "altitude", "level": "B2", "match": ["altitude"], "en": "the height of something above the ground", "note": "仅高 ｜ 中: flying high" }
+      ]
+    },
+    {
+      "name": "系统与故障",
+      "words": [
+        { "word": "intermittent", "level": "C1", "match": ["intermittent"], "en": "stopping and starting again, not continuous", "note": "仅高 ｜ 中/低: on and off" },
+        { "word": "overload", "level": "C1", "match": ["overload", "overloaded", "too full"], "en": "to put more work on something than it can handle", "note": "高 ｜ 中/低: too full" },
+        { "word": "outdated", "level": "B2", "match": ["outdated", "old machines"], "en": "no longer modern or good enough", "note": "高 ｜ 中/低: old machines" },
+        { "word": "router", "level": "C1", "match": ["routers", "boxes"], "en": "a device that sends data between networks", "note": "仅高 ｜ 中/低: old boxes" },
+        { "word": "hazard", "level": "C1", "match": ["hazards", "danger"], "en": "something that could cause harm", "note": "高 ｜ 中/低: danger" },
+        { "word": "cyberattack", "level": "C2", "match": ["cyber attack", "cyberattack", "cyber"], "en": "an attack carried out through computer networks", "note": "三版均有 ｜ 低: someone broke into our systems" }
+      ]
+    },
+    {
+      "name": "官方表态",
+      "words": [
+        { "word": "Transportation Secretary", "level": "B2", "match": ["Transportation Secretary", "transport secretary", "transport chief"], "en": "the U.S. government official in charge of transport", "note": "三版均有 ｜ 低: transport chief" },
+        { "word": "Homeland Security", "level": "C1", "match": ["Homeland Security", "security secretary", "security chief"], "en": "the U.S. department that works on internal security", "note": "仅高 ｜ 中/低: the security secretary / security chief" },
+        { "word": "investigation", "level": "B2", "match": ["investigation", "study of the causes"], "en": "an official attempt to find out what happened", "note": "高/中 ｜ 低: study of the causes" },
+        { "word": "inadvertently", "level": "C1", "match": ["inadvertently", "by mistake"], "en": "by accident, without meaning to do it", "note": "仅高 ｜ 中/低: by mistake" },
+        { "word": "disclosure", "level": "C1", "match": ["disclosure", "the facts"], "en": "the act of making information public", "note": "仅高 ｜ 中/低: tell people the facts" }
+      ]
+    },
+    {
+      "name": "旅客现场",
+      "words": [
+        { "word": "stranded", "level": "C1", "match": ["stranded", "stuck"], "en": "stuck somewhere with no way to leave", "note": "高 ｜ 中/低: stuck / waiting at airports" },
+        { "word": "turmoil", "level": "C1", "match": ["turmoil", "trouble"], "en": "a state of great confusion and disorder", "note": "仅高 ｜ 中/低: trouble" },
+        { "word": "cancellation", "level": "B2", "match": ["cancellations", "canceled", "did not fly"], "en": "a decision that a planned flight will not happen", "note": "三版均有 ｜ 低: did not fly at all" },
+        { "word": "departure", "level": "B2", "match": ["departure", "depart", "should have left"], "en": "the act of a plane leaving on a trip", "note": "高 ｜ 中/低: should have left" },
+        { "word": "optimistic", "level": "B2", "match": ["optimistic", "not feel good"], "en": "expecting good things to happen", "note": "仅高 ｜ 中/低: did not feel good about it" }
+      ]
+    }
+  ]
+}

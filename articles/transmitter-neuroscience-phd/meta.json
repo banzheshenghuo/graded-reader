@@ -1,0 +1,100 @@
+{
+  "slug": "transmitter-neuroscience-phd",
+  "title": "The Changing Nature Of The Neuroscience Ph.D.",
+  "source": "The Transmitter",
+  "sourceUrl": "https://www.thetransmitter.org/special-report-graduate-education-in-flux/the-changing-nature-of-the-neuroscience-ph-d/",
+  "author": "The Transmitter",
+  "date": "2026-11-09",
+  "added": "2026-11-13",
+  "tags": [
+    "neuroscience",
+    "education",
+    "funding",
+    "interview"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 0.7,
+      "target": "<2%",
+      "desc": "A2 摘编：六问六答的主线（为什么读博、AI 与新方法、时长与学费、海外生、T32、给新生的建议）；删掉 T32 的 committee 与 rotation 细节",
+      "keyWords": [
+        {
+          "word": "government",
+          "en": "the group of people who run a country"
+        },
+        {
+          "word": "degree",
+          "en": "a qualification you get after finishing a course of study"
+        },
+        {
+          "word": "applications",
+          "en": "formal requests to join a school or a job"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-neuroscience-phd/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 3.0,
+      "target": "2–5%",
+      "desc": "i+1 理想区：保留原受访者分节结构，术语换成白话（molecular→tiny molecules、cognitive→the whole mind）",
+      "keyWords": [
+        {
+          "word": "grant",
+          "en": "money given to support a research or training program"
+        },
+        {
+          "word": "genome",
+          "en": "the complete set of genes in a living thing"
+        },
+        {
+          "word": "citizen",
+          "en": "a person who legally belongs to a country"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-neuroscience-phd/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.7,
+      "target": "5–8%",
+      "desc": "接近原文：保留原话与全部政策细节（T32、need-blind、Council of Graduate Schools 数字），仅删去与主题无关的自我介绍",
+      "keyWords": [
+        {
+          "word": "predoctoral",
+          "en": "happening before someone receives a doctorate"
+        },
+        {
+          "word": "need-blind",
+          "en": "choosing students without looking at whether they can pay"
+        },
+        {
+          "word": "cohort",
+          "en": "a group of students who start a program together"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/transmitter-neuroscience-phd/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.3,
+      "target": "—",
+      "desc": "The Transmitter 原文（已剥离 Most read / 推荐图卡块）",
+      "keyWords": [
+        {
+          "word": "rotation",
+          "en": "a period spent working in a different lab before choosing one"
+        },
+        {
+          "word": "NIH",
+          "en": "the U.S. National Institutes of Health, which pays for much medical research"
+        },
+        {
+          "word": "mentorship",
+          "en": "the work of guiding a less experienced person"
+        }
+      ]
+    }
+  }
+}

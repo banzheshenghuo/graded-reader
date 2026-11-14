@@ -1,0 +1,100 @@
+{
+  "slug": "npr-faa-ground-stop",
+  "title": "Old Tech Blamed For The Ground Stop That Caused Flight Chaos",
+  "source": "NPR",
+  "sourceUrl": "https://www.npr.org/2026/11/13/nx-s1-6040403/",
+  "author": "NPR",
+  "date": "2026-11-13",
+  "added": "2026-11-14",
+  "tags": [
+    "aviation",
+    "infrastructure",
+    "technology",
+    "news"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.6,
+      "target": "<2%",
+      "desc": "A2 摘编：停飞四小时 + 部长的原话 + 2023 年的旧账 + 两位被困旅客；删掉 NOTAM 细节与 SMART 系统的公司回应",
+      "keyWords": [
+        {
+          "word": "attack",
+          "en": "a violent or deliberate act against a system or place"
+        },
+        {
+          "word": "evidence",
+          "en": "facts that show something is true"
+        },
+        {
+          "word": "ground",
+          "en": "the surface of the earth; planes stay on the ground when they cannot fly"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-faa-ground-stop/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 2.3,
+      "target": "2–5%",
+      "desc": "i+1 理想区：事故时间线 + 官员原话 + 国会施压 + 旅客现场，保留 2023 年 NOTAM 前例",
+      "keyWords": [
+        {
+          "word": "blame",
+          "en": "to say that someone or something caused a problem"
+        },
+        {
+          "word": "failure",
+          "en": "a situation in which something stops working"
+        },
+        {
+          "word": "aviation",
+          "en": "the activity of flying aircraft"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-faa-ground-stop/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 7.6,
+      "target": "5–8%",
+      "desc": "接近原文：保留全部机构名、数字与引语，删去末尾记者署名",
+      "keyWords": [
+        {
+          "word": "intermittent",
+          "en": "stopping and starting again, not continuous"
+        },
+        {
+          "word": "outage",
+          "en": "a period when a system or service is not working"
+        },
+        {
+          "word": "stranded",
+          "en": "stuck somewhere with no way to leave"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-faa-ground-stop/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 12.1,
+      "target": "—",
+      "desc": "NPR 原文（text-only 版，已剥离更新时间行、赞助与站点导航）",
+      "keyWords": [
+        {
+          "word": "ground stop",
+          "en": "an order that keeps all planes on the ground"
+        },
+        {
+          "word": "aviation",
+          "en": "the activity of flying aircraft"
+        },
+        {
+          "word": "cyberattack",
+          "en": "an attack carried out through computer networks"
+        }
+      ]
+    }
+  }
+}
