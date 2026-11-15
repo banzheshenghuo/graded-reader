@@ -64,7 +64,7 @@
         { "word": "wind", "level": "A2", "match": ["wind"], "note": "风把两片叶子吹进我的头发 / 风不请自来", "en": "moving air" },
         { "word": "sightseeing", "level": "B1", "match": ["sightseeing"], "note": "一位父亲给孩子们做湖上三块石头的观光讲解", "en": "visiting famous places" },
         { "word": "please", "level": "A2", "match": ["please"], "note": "任何人请随便看那幅画", "en": "a polite word when asking" },
-        { "word": "straightforward", "level": "B2", "match": ["straightforward"], "note": "回答"那是什么"很简单：一个红的、一个绿的，和一个星期二", "en": "simple and direct" },
+        { "word": "straightforward", "level": "B2", "match": ["straightforward"], "note": "回答「那是什么」很简单：一个红的、一个绿的，和一个星期二", "en": "simple and direct" },
         { "word": "bowl", "level": "A2", "match": ["bowls"], "note": "早餐盛在自家的碗里", "en": "the deep round dish" }
       ]
     },
