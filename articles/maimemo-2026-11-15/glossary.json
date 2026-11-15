@@ -1,0 +1,83 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 18 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "骨子里仍是秘书的安排 / 秘书式的评价", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complained", "complaints"], "note": "抱怨的人可以走回家（十一公里）/ 她对他体重一句没抱怨 / 我们谁也不抱怨", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "画贴在紫厨房的冰箱上 / 四度零异常", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "草原的一切重新变得陌生 / 湖是外国的东西、冷、值得回头", "en": "of another country" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrated", "frustrate"], "note": "四十分钟搭好没气到人反而惊到所有人 / 返程后一切变陌生更让我泄气", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "留在家，装的是不需要回答的东西 / 一次没打开 / 登机牌是最诚实的行李", "en": "the flat case for work papers" },
+        { "word": "arrangements", "level": "B1", "match": ["arrangements"], "note": "三阶段到达的计划 / 按她的顺序打包 / 对条文的遵守到字面", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "对搭帐篷过程：可接受，一次 / 秘书式的逐项评价 / 我自己的评价更短更没用", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "云边转紫 / 紫色抓绒衣 / 紫厨房", "en": "the color of grapes at dusk" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "读到 N 卷夜空 / 家庭美德百科条目极短无形容词", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "阳台传感器电池整个周末没掉链子 / 手电电池撑了一整夜", "en": "the part that holds power" },
+        { "word": "prescription", "level": "B2", "match": ["prescription"], "note": "周末处方：一页，无例外 / 这个月给全家的处方", "en": "the doctor's paper for medicine" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "那张清单的约束是没人争辩 / 我自己一周的约束同样是：保持小", "en": "a rule that limits what you do" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "早晨的药是咖啡与空着的手 / 两天野外的药既不治病也不必治", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "搭帐篷是谦逊的教程 / 欠团队的教程周五已发", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "保温毯以锡纸的一致性尽职 / 让一个家保持一致的那些小账目", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "周日四点田间塑料杯里的一勺 / 计划里的那一勺是偏好不是奖赏", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "偏爱书桌胜过帐篷的人得到应得的 / 一勺奶油作为 bias 而非 reward", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "今日所学（6 词全覆盖）",
+      "words": [
+        { "word": "month", "level": "A2", "match": ["month"], "note": "花一整个月证明这是个好主意 / 她一个月没看手机 / 这个月还剩一周", "en": "about thirty days" },
+        { "word": "export", "level": "B1", "match": ["exported"], "note": "把导航导出到手机——结果让我们左转进湖里", "en": "to send data out" },
+        { "word": "native", "level": "B2", "match": ["native"], "note": "夜空不属于任何人也可以属于任何人", "en": "belonging to you from birth" },
+        { "word": "silent", "level": "A2", "match": ["silent", "Silence"], "note": "回程前十公里寂静 / 沉默是要去某处才能找到的奢侈品", "en": "with no sound" },
+        { "word": "excuse oneself", "level": "B2", "match": ["excused myself"], "note": "我从下半夜整个请假", "en": "to leave politely" },
+        { "word": "week", "level": "A1", "match": ["week", "weekend"], "note": "露营周末 / 校准这一周 / 这个月还剩一周", "en": "seven days" }
+      ]
+    },
+    {
+      "group": "昨日复现（11-14 学习 30 词，29 词进文）",
+      "words": [
+        { "word": "poor", "level": "B1", "match": ["poor"], "note": "一个糟糕的借口，也是诚实的", "en": "bad; not rich" },
+        { "word": "spot", "level": "B1", "match": ["spot"], "note": "沉默要找到那个地方", "en": "a place" },
+        { "word": "ought", "level": "B2", "match": ["ought"], "note": "有些页该读、放下、出去核对", "en": "should" },
+        { "word": "tent", "level": "A2", "match": ["tent"], "note": "搭帐篷是谦逊的教程 / 拆得比搭得快", "en": "the cloth house you sleep in" },
+        { "word": "arm", "level": "A1", "match": ["arm"], "note": "手臂伸进湖水 / 手臂涂了颜料 / 干净了还在指那幅画", "en": "the limb from shoulder to hand" },
+        { "word": "camp", "level": "A2", "match": ["camp"], "note": "营地一整片草地 / 营地安静下来", "en": "the place of tents" },
+        { "word": "derive", "level": "C1", "match": ["deriving"], "note": "机器从一张过期的地图里得到自信", "en": "to get one thing from another" },
+        { "word": "salad", "level": "A2", "match": ["salad"], "note": "后备箱门上的沙拉 / 剩下的沙拉", "en": "the cold dish of vegetables" },
+        { "word": "speech", "level": "B1", "match": ["speech"], "note": "他对湖的意见只有一个词 / 奶奶的演讲更长", "en": "a talk given to people" },
+        { "word": "dance", "level": "A2", "match": ["dance"], "note": "有人用吉他弹跑调又快乐的舞曲", "en": "moving to music" },
+        { "word": "boarding", "level": "B2", "match": ["boarding"], "note": "登机牌是公文包能带的最诚实的东西", "en": "getting on a plane" },
+        { "word": "exchange", "level": "B1", "match": ["exchange"], "note": "隔栏两句话换来的同盟", "en": "giving one thing for another" },
+        { "word": "family", "level": "A1", "match": ["family"], "note": "八家人四个帐篷 / 这个家这个月的处方", "en": "parents and children" },
+        { "word": "mall", "level": "B1", "match": ["mall"], "note": "商场那么大的收音机，幸好音量像聊天", "en": "the big shopping building" },
+        { "word": "fall", "level": "A2", "match": ["falling", "fell"], "note": "出门前就睡着了", "en": "to go down" },
+        { "word": "ahead", "level": "B1", "match": ["ahead"], "note": "前方九十公里的平原和田野", "en": "in front" },
+        { "word": "way", "level": "A2", "match": ["way"], "note": "他审视一切的方式 / 回家的路", "en": "a manner; a road" },
+        { "word": "light", "level": "A2", "match": ["light"], "note": "六点的光 / 天空 / 手电", "en": "what lets you see" },
+        { "word": "yum", "level": "A2", "match": ["yum"], "note": "野餐上唯一有意义的那个词", "en": "tastes good" },
+        { "word": "paint", "level": "A2", "match": ["paint", "painting"], "note": "画了一个红形状一个绿形状 / 把手臂也涂了", "en": "to put color on" },
+        { "word": "calm", "level": "B1", "match": ["calm"], "note": "整片营地保持平静 / 那个永远优越的人平静地看着我们", "en": "not excited or worried" },
+        { "word": "turn one's head", "level": "B2", "match": ["turning one's head"], "note": "值得回头看一眼，他回头了两次", "en": "to look around" },
+        { "word": "angry", "level": "B1", "match": ["angry"], "note": "一种安静又无用的自责", "en": "feeling strong displeasure" },
+        { "word": "contributor", "level": "C1", "match": ["contributor"], "note": "到午饭时他成了我们沙拉的一份子", "en": "one who adds to something" },
+        { "word": "wind", "level": "A2", "match": ["wind"], "note": "风把两片叶子吹进我的头发 / 风不请自来", "en": "moving air" },
+        { "word": "sightseeing", "level": "B1", "match": ["sightseeing"], "note": "一位父亲给孩子们做湖上三块石头的观光讲解", "en": "visiting famous places" },
+        { "word": "please", "level": "A2", "match": ["please"], "note": "任何人请随便看那幅画", "en": "a polite word when asking" },
+        { "word": "straightforward", "level": "B2", "match": ["straightforward"], "note": "回答"那是什么"很简单：一个红的、一个绿的，和一个星期二", "en": "simple and direct" },
+        { "word": "bowl", "level": "A2", "match": ["bowls"], "note": "早餐盛在自家的碗里", "en": "the deep round dish" }
+      ]
+    },
+    {
+      "group": "计划外生词（86 token，密度 4.53% ≤ 5%）",
+      "words": [
+        { "word": "tent", "level": "A2", "match": ["tent"], "note": "主题词：借来的帐篷、四个帐篷", "en": "the cloth house you sleep in" },
+        { "word": "lake", "level": "A1", "match": ["lake"], "note": "主题词：湖是公关更好的池塘", "en": "the big water in land" },
+        { "word": "fire", "level": "A1", "match": ["fire"], "note": "主题词：金属圈里的火", "en": "the burning flames" },
+        { "word": "field", "level": "A2", "match": ["field"], "note": "主题词：一片能看见湖的草地", "en": "open land" },
+        { "word": "fold", "level": "B1", "match": ["fold"], "note": "折成拳头大小的锡纸睡袋", "en": "to bend over itself" },
+        { "word": "brochure", "level": "B2", "match": ["brochure"], "note": "露营宣传册从不写拉链那部分", "en": "the small advertising booklet" }
+      ]
+    }
+  ]
+}

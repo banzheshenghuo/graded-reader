@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-15",
+  "title": "The Camping Weekend",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-15",
+  "added": "2026-11-15",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.5,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-15/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 6 词（month/export/native/silent/excuse oneself/week）+ 昨日 30 词（露营簇），已过 humanizer 润色轮；奶奶策划的露营周末——搭帐篷是谦逊的教程、凌晨三点一只礼貌的狗、Bobby 在紫色抓绒衣里画画并把手臂也涂了",
+      "keyWords": [
+        { "word": "camp", "en": "a field with a lake view and a sign that quietly mentions the metal rings" },
+        { "word": "native", "en": "the night sky being the native country of nobody and everybody" },
+        { "word": "silent", "en": "the first ten kilometres of the drive home, radio and boy both asleep" }
+      ]
+    }
+  }
+}
