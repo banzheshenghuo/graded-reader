@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-17",
+  "title": "The Visitor",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-17",
+  "added": "2026-11-17",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.2,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-17/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 30 词 + 昨日 30 词全覆盖，已过 humanizer 润色轮；一位只见过两次的海外老同事来了一天——同一年的同一份手册造的同一扇门、把配方写在餐巾上放进公文包、晚上九点一个自春天起就是 true 的布尔值",
+      "keyWords": [
+        { "word": "overseas", "en": "the word that set Grandma's plan in motion, and the word inside the bug" },
+        { "word": "nightmare", "en": "started at nine, in the flat, on the laptop, the way these things always start" },
+        { "word": "single", "en": "one free day before his flight home, and we filled it with walking" }
+      ]
+    }
+  }
+}

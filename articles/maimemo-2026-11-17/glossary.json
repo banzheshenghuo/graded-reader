@@ -1,0 +1,111 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 22 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "听到 overseas 就把安排拿走改写 / 一家人的秘书式笔记", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complained"], "note": "只为票价吵，还是吵给陌生人听（最高礼遇）/ 决定一周不抱怨作为实验", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator", "fridge"], "note": "四度如承诺 / 开着门站一分钟的罪与宽容 / 陌生人对你家冰箱的评价", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "海外同年同手册造的门 / 外来城市送的小礼物架 / 外面那场外国的天气", "en": "of another country" },
+        { "word": "snack", "level": "A1", "match": ["snacks?"], "note": "奶奶的零食理论：家靠零食维持不是靠饭 / 客人没吃零食", "en": "a small amount of food" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrat"], "note": "bug 的沮丧早上就消了 / 今晚没有一件事让我泄气，而这次我注意到了", "en": "to make you feel blocked" },
+        { "word": "further", "level": "B2", "match": ["further"], "note": "更多证据说明他来对了人家 / 边注：单向假设还需进一步工作", "en": "more; additional" },
+        { "word": "nightmare", "level": "B2", "match": ["nightmare"], "note": "九点开始的那场恶梦 / 他被一个早晨回答了 / 三点醒来不是因为恶梦", "en": "a bad dream; a terrible time" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "餐巾进了公文包，仪式感十足 / 他带着它离开", "en": "the flat case for work papers" },
+        { "word": "arrangements", "level": "B1", "match": ["arrangements"], "note": "写下来、带时间的安排 / 安排守住了", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "他说这房子有汤和药的等比例气味 / 陌生人对你周二生活的评价比自己的值钱", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "四点天空的紫和昨天一样", "en": "the color of grapes at dusk" },
+        { "word": "theory", "level": "B2", "match": ["theory"], "note": "关于我们那扇门的理论比我的好 / 奶奶的零食理论我决定收编", "en": "an idea that explains why" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "停在它的字母上 / 到了 M", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "阳台电池熬过寒潮，报的没意思（正合我意）/ 又活过一夜", "en": "the part that holds power" },
+        { "word": "prescription", "level": "B2", "match": ["prescription"], "note": "这周的家用处方无聊而让我高兴 / 药架补给写在下面画两遍", "en": "the doctor's paper for medicine" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "一勺的约束无讨论地遵守 / 家里的约束与待客的偏见一起成立", "en": "a rule that limits what you do" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "房子有汤和药等比例的气味 / 药架补给", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "我谁都不欠的教程又多一段 / 这家人唯一需要的教程就是那场小仪式", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "小仪式的一致性 / 那种一致不是天赋是每天重新做的决定", "en": "staying the same over time" },
+        { "word": "cream", "level": "A2", "match": ["cream"], "note": "四点一勺 / 一勺、按时、无讨论", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "我的偏见：没有事的一天是浪费的一天 / 与陌生人的评价构成反证", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "今日所学（30 词全覆盖）",
+      "words": [
+        { "word": "router", "level": "B2", "match": ["router"], "note": "深夜巡视时它的灯是稳的", "en": "the box that sends internet around" },
+        { "word": "console", "level": "B2", "match": ["console"], "note": "控制台的动画卡在半圈十一分钟", "en": "the screen panel of a system" },
+        { "word": "scope", "level": "B2", "match": ["scope"], "note": "一开始问题范围只是一个账号", "en": "the range of what is included" },
+        { "word": "animation", "level": "B1", "match": ["animation"], "note": "卡住的加载动画", "en": "moving pictures on a screen" },
+        { "word": "drink", "level": "A1", "match": ["dr(ink|ank|unk)"], "note": "客人喝了两壶茶", "en": "to take liquid into the mouth" },
+        { "word": "hole", "level": "B1", "match": ["holes?"], "note": "十点我找到了那个洞 / 2019 年那个洞的确切形状", "en": "an opening; a flaw" },
+        { "word": "overseas", "level": "B2", "match": ["overseas"], "note": "开头那三个字就定下了这一天 / 布尔值里那个词 / 在海外工作最难的不是距离", "en": "in a foreign country across the sea" },
+        { "word": "recall", "level": "B2", "match": ["recall", "recalled"], "note": "他不用提示就记起 2019 年的 bug", "en": "to remember" },
+        { "word": "elevator", "level": "A2", "match": ["elevator"], "note": "他酒店的电梯坏了两小时，他走楼梯没提", "en": "the box that carries people between floors" },
+        { "word": "socks", "level": "A1", "match": ["socks?"], "note": "他留了一双袜子在浴室 / 袜子进洗衣", "en": "what you wear inside shoes" },
+        { "word": "subscribe", "level": "B1", "match": ["subscrib"], "note": "这里没有一样东西需要他订阅，他说了，然后要了配方", "en": "to pay to receive something regularly" },
+        { "word": "delicious", "level": "A2", "match": ["delicious"], "note": "他把汤说了两遍好吃", "en": "very good to eat" },
+        { "word": "sour", "level": "B1", "match": ["sour"], "note": "汤到周五酸了，我们周四还是吃了", "en": "the sharp taste of a lemon" },
+        { "word": "done", "level": "A1", "match": ["\\bdone\\b"], "note": "做完的时候，在门口", "en": "finished" },
+        { "word": "desk", "level": "A2", "match": ["desks?"], "note": "他家里书桌上有一架别人送的小东西", "en": "the table you work at" },
+        { "word": "ticket", "level": "B1", "match": ["tickets?"], "note": "奶奶为票价抱怨（对陌生人）/ 他的票是那个布尔值买的 / 十一分钟后写进工单", "en": "the paper that lets you travel or enter" },
+        { "word": "dish", "level": "B1", "match": ["dish(es)?"], "note": "冬天那道汤是主菜", "en": "a prepared food; a plate" },
+        { "word": "debug", "level": "C1", "match": ["debug"], "note": "晚上九点和上午十一点是两种运动", "en": "hunting down a fault" },
+        { "word": "variable", "level": "B1", "match": ["variables?"], "note": "一个我记不得写过的变量", "en": "a name for a value that changes" },
+        { "word": "terrible", "level": "B1", "match": ["terrible"], "note": "在你不记得签过的文件上认出自己笔迹的那种可怕", "en": "very bad" },
+        { "word": "trade-off", "level": "C1", "match": ["trade-off"], "note": "速度还是确定，我选确定", "en": "giving up one thing to get another" },
+        { "word": "embarrass", "level": "B2", "match": ["embarrass"], "note": "发现 bug 不在代码里而在你的假设里时的那种尴尬 / 我不打算为袜子让他尴尬", "en": "to make someone feel awkward" },
+        { "word": "one-way", "level": "C1", "match": ["one-way"], "note": "我们为单向旅程而建，然后忘了单向仍然是落地", "en": "going in a single direction" },
+        { "word": "single", "level": "A2", "match": ["single"], "note": "只有一个空闲日 / 问题范围一度只是一个账号", "en": "one only" },
+        { "word": "tour guide", "level": "B1", "match": ["tour guide"], "note": "导游两次经过我们，说的东西大约都是错的", "en": "the person who leads visitors" },
+        { "word": "land", "level": "A2", "match": ["land(s|ed|ing)?"], "note": "单向旅程也仍然是落地在某处", "en": "to come down to ground" },
+        { "word": "fitting", "level": "B2", "match": ["fitting"], "note": "要配方需要一场匹配：她讲十一分钟我翻译", "en": "suitable; trying something on" },
+        { "word": "boolean", "level": "C1", "match": ["booleans?"], "note": "从春天起就是 true 的那个布尔值 / 一个关于它的小玩笑", "en": "true or false, nothing between" }
+      ]
+    },
+    {
+      "group": "昨日复现（11-16 学习 30 词，29 词进文）",
+      "words": [
+        { "word": "stove", "level": "B1", "match": ["stove"], "note": "七点前就开了火", "en": "the thing you cook on" },
+        { "word": "depress", "level": "B1", "match": ["depress"], "note": "没听到的音乐会也没让谁沮丧", "en": "to make sad" },
+        { "word": "concert", "level": "B1", "match": ["concert"], "note": "四点那场我们没听", "en": "a live music show" },
+        { "word": "river", "level": "B1", "match": ["river"], "note": "街尾的河水涨了", "en": "the big moving water" },
+        { "word": "nearby", "level": "A2", "match": ["nearby"], "note": "附近、远处，人人身上都落过雪", "en": "close by" },
+        { "word": "pants", "level": "A2", "match": ["pants"], "note": "穿裤子和一只袜子起床", "en": "the clothes for your legs" },
+        { "word": "main dish", "level": "B1", "match": ["main dish"], "note": "冬天那道汤是主菜", "en": "the central dish of a meal" },
+        { "word": "write something", "level": "B1", "match": ["writ(e|es|ten|ing)|wrote"], "note": "写进笔记本 / 写在餐巾上", "en": "to put words on paper" },
+        { "word": "gesture", "level": "B2", "match": ["gesture"], "note": "要那本书的手势快要成为一个词了", "en": "a movement that means something" },
+        { "word": "early", "level": "A1", "match": ["early"], "note": "他起得早 / 医嘱：早睡", "en": "before the expected time" },
+        { "word": "gate", "level": "A2", "match": ["gates?"], "note": "海外同款的门 / 小公园的门又开了", "en": "the door in a fence" },
+        { "word": "fever", "level": "B1", "match": ["fever"], "note": "烧走了，留下一个习惯", "en": "a body temperature too high" },
+        { "word": "bed", "level": "A1", "match": ["beds?"], "note": "晚上要人抱到床上读书", "en": "the thing you sleep on" },
+        { "word": "library", "level": "B1", "match": ["library"], "note": "他站在书架后面要书", "en": "the place of books" },
+        { "word": "mountain", "level": "B1", "match": ["mountain"], "note": "那本关于山的书", "en": "the very high hill" },
+        { "word": "bread", "level": "A1", "match": ["bread"], "note": "面包不会自己热", "en": "the food made from flour" },
+        { "word": "behind", "level": "A1", "match": ["behind"], "note": "站在我身后 / 楼后面的河", "en": "at the back of" },
+        { "word": "underwear", "level": "A2", "match": ["underwear"], "note": "抽屉里的内衣", "en": "the clothes worn under everything" },
+        { "word": "leak", "level": "B1", "match": ["leak"], "note": "浴室天花板那处漏还在，还小", "en": "a small escape of water" },
+        { "word": "snow", "level": "A2", "match": ["snow"], "note": "地上的雪成了硬壳 / 靴子带进雪", "en": "the white fall of winter" },
+        { "word": "yogurt", "level": "A2", "match": ["yogurt"], "note": "发了张他吃酸奶的照片给客人", "en": "a soft food made from milk" },
+        { "word": "over", "level": "A1", "match": ["over"], "note": "还在翻来覆去想 / 温度降下来", "en": "above; finished" },
+        { "word": "courage", "level": "B2", "match": ["courage"], "note": "喝下不认识的牌子需要更多勇气", "en": "being brave when it is hard" },
+        { "word": "bear", "level": "A2", "match": ["bear"], "note": "山那本书里关于熊的那页", "en": "the big wild animal" },
+        { "word": "brand", "level": "A2", "match": ["brand"], "note": "他不认识的咖啡牌子", "en": "the maker's name on a product" },
+        { "word": "right", "level": "A1", "match": ["right"], "note": "他来对了人家", "en": "correct" },
+        { "word": "smell", "level": "A2", "match": ["smell"], "note": "傍晚屋里的味道是汤、肥皂和雪", "en": "the sense through the nose" },
+        { "word": "server", "level": "B2", "match": ["server"], "note": "角落里那台在嗡嗡", "en": "a computer that serves data" },
+        { "word": "platform", "level": "B2", "match": ["platform"], "note": "从快车站台发来一张咖啡照片", "en": "the raised place for trains" }
+      ]
+    },
+    {
+      "group": "计划外生词（79 token，密度 3.16% ≤ 5%）",
+      "words": [
+        { "word": "soup", "level": "A2", "match": ["soup"], "note": "主题词：整个来访计划里都必须有汤", "en": "the hot liquid dish" },
+        { "word": "museum", "level": "A2", "match": ["museum"], "note": "主题词：两个小时的博物馆", "en": "the building of old objects" },
+        { "word": "napkin", "level": "B2", "match": ["napkin"], "note": "配方写在餐巾上", "en": "the cloth for your mouth" },
+        { "word": "ingredient", "level": "B1", "match": ["ingredients?"], "note": "三样他没听过的配料", "en": "one part of a recipe" },
+        { "word": "recipe", "level": "B1", "match": ["recip(e|es)"], "note": "食谱不是食谱", "en": "the list for cooking a dish" },
+        { "word": "headphones", "level": "A2", "match": ["headphones"], "note": "九点排故障时戴上耳机", "en": "the speakers for your ears" },
+        { "word": "crust", "level": "C1", "match": ["crust"], "note": "雪成了一层硬壳", "en": "the hard top layer" },
+        { "word": "meltwater", "level": "C1", "match": ["meltwater"], "note": "河水因融雪而涨", "en": "water from melting snow" }
+      ]
+    }
+  ]
+}
