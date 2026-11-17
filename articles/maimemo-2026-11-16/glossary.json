@@ -1,0 +1,107 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 20 词，文中 ≥2 次）",
+      "words": [
+        { "word": "secretary", "level": "A2", "match": ["secretary"], "note": "三十年秘书、退休仍是秘书 / 写在纸上的天气预报", "en": "a person who does office work" },
+        { "word": "complain", "level": "B1", "match": ["complain", "complaint"], "note": "她没抱怨，她写下来了 / 邻居抱怨台阶上的盐 / 欠的教程没抱怨", "en": "to say that something is wrong" },
+        { "word": "refrigerator", "level": "B2", "match": ["refrigerator"], "note": "值班时特有的哼声 / 寒夜里守着四度 / 奶油在里面还剩一勺", "en": "the cold box where food is kept" },
+        { "word": "foreign", "level": "A2", "match": ["foreign"], "note": "雪把街道变成外国 / 外面那场外国的天气", "en": "of another country" },
+        { "word": "snack", "level": "A1", "match": ["snack"], "note": "给孩子一份、给我一份 / 孩子分我他的零食", "en": "a small amount of food between meals" },
+        { "word": "frustrate", "level": "B2", "match": ["frustrated", "frustrates"], "note": "被取消的周一没机会让人泄气 / 被雪困住的周一不要求什么", "en": "to make you feel blocked" },
+        { "word": "briefcase", "level": "B2", "match": ["briefcase"], "note": "周末立在门边快变成家具 / 仍未被打开 / 依然立在门边", "en": "the flat case for work papers" },
+        { "word": "arrangements", "level": "B1", "match": ["arrangements"], "note": "一周安排还没念完雪就来了 / 写进那周安排里", "en": "a plan for how things happen" },
+        { "word": "evaluation", "level": "B2", "match": ["evaluation"], "note": "对他脸色的评价：不严重 / 对音乐会的评价：弦乐太多", "en": "a careful look at how good something is" },
+        { "word": "purple", "level": "A2", "match": ["purple"], "note": "傍晚雪特有的紫 / 一整条街的紫", "en": "the color of grapes at dusk" },
+        { "word": "theory", "level": "B2", "match": ["theory"], "note": "关于食欲的体温曲线理论 / 还有一套关于靴子的理论", "en": "an idea that explains why" },
+        { "word": "encyclopedia", "level": "C1", "match": ["encyclopedia"], "note": "摊在 S 页没读，一本耐心等待的书 / 一直闭着像一种休息", "en": "a big book that explains everything" },
+        { "word": "battery", "level": "A2", "match": ["battery"], "note": "阳台电池报告降温 / 电池数字和体温数字写在同一页", "en": "the part that holds power" },
+        { "word": "prescription", "level": "B2", "match": ["prescription"], "note": "当天处方只有一行 / 一串像处方的数字", "en": "the doctor's paper for medicine" },
+        { "word": "constraint", "level": "B2", "match": ["constraint"], "note": "家规不受天气影响 / 一勺的约束像小旗子立着", "en": "a rule that limits what you do" },
+        { "word": "medicine", "level": "B1", "match": ["medicine"], "note": "药房里那瓶好的药水 / 汤后服药，他自己拿的勺", "en": "what you take to get well" },
+        { "word": "tutorial", "level": "C1", "match": ["tutorial"], "note": "我谁都不欠的那份教程可以再等一夜 / 在我脑子里长到第五页", "en": "a lesson that shows you how" },
+        { "word": "consistency", "level": "C1", "match": ["consistency"], "note": "这房子对天气唯一的主张 / 不是性格而是一间间要开门的小办公室", "en": "staying the same over time" },
+        { "word": "cream", "level": "B2", "match": ["cream"], "note": "四点照旧一勺 / 盒里还剩最后一勺", "en": "the thick top part of milk" },
+        { "word": "bias", "level": "C1", "match": ["bias"], "note": "关掉百科像个休息，这是我正在试的偏好 / 全家的偏好：暖屋子、汤、把男孩留在室内", "en": "a settled opinion before the facts" }
+      ]
+    },
+    {
+      "group": "今日所学（30 词全覆盖）",
+      "words": [
+        { "word": "brand", "level": "A2", "match": ["brand"], "note": "奶奶不信任的那个咳嗽药水牌子", "en": "the maker's name on a product" },
+        { "word": "server", "level": "B2", "match": ["server"], "note": "角落里默默干活", "en": "a computer that serves data" },
+        { "word": "platform", "level": "B2", "match": ["platform"], "note": "哥哥在站台上等火车", "en": "the raised place for trains" },
+        { "word": "bed", "level": "A1", "match": ["bed"], "note": "站在床上看雪 / 我坐在床上抱着他", "en": "the thing you sleep on" },
+        { "word": "stove", "level": "B1", "match": ["stove"], "note": "她进厨房两小时 / 睡前炉子还温着", "en": "the thing you cook on" },
+        { "word": "depress", "level": "B1", "match": ["depress"], "note": "那声哄鸣没让他沮丧，只让他困惑", "en": "to make sad" },
+        { "word": "behind", "level": "A1", "match": ["behind"], "note": "楼后面的河", "en": "at the back of" },
+        { "word": "main dish", "level": "B1", "match": ["main dish"], "note": "只有冬天才做的那道无名主菜", "en": "the central dish of a meal" },
+        { "word": "nearby", "level": "A2", "match": ["nearby"], "note": "附近药房的药水", "en": "close by" },
+        { "word": "yogurt", "level": "A2", "match": ["yogurt"], "note": "整杯吃完，烧就算打赢了", "en": "a soft food made from milk" },
+        { "word": "courage", "level": "B2", "match": ["courage"], "note": "今晚我能拿出的全部勇气，就是两个字", "en": "being brave when it is hard" },
+        { "word": "underwear", "level": "A2", "match": ["underwear"], "note": "急诊包里一件春天能穿的内衣 / 抽屉清点", "en": "the clothes worn under everything" },
+        { "word": "bread", "level": "A1", "match": ["bread"], "note": "急诊包里的面包、一片白面包 / 邻居送来的面包", "en": "the food made from flour" },
+        { "word": "mountain", "level": "B1", "match": ["mountain"], "note": "图书馆那本关于山的书", "en": "the very high hill" },
+        { "word": "library", "level": "B1", "match": ["library"], "note": "公园的图书馆屋顶 / 借来的书 / 和男孩去图书馆", "en": "the place of books" },
+        { "word": "concert", "level": "B1", "match": ["concert"], "note": "四点的广播音乐会 / 她提到音乐厅", "en": "a live music show" },
+        { "word": "gesture", "level": "B2", "match": ["gesture"], "note": "熊醒来时他双手做同一个手势", "en": "a movement that means something" },
+        { "word": "write something", "level": "B1", "match": ["written", "wrote", "write"], "note": "写下这一天的两个字 / 十一天没写任何东西", "en": "to put words on paper" },
+        { "word": "over", "level": "A1", "match": ["over"], "note": "雪越下越久 / 双手举过头顶", "en": "above; finished" },
+        { "word": "right", "level": "A1", "match": ["right"], "note": "她说的多半是对的 / 他立刻就懂", "en": "correct" },
+        { "word": "snow", "level": "A2", "match": ["snow"], "note": "整篇的主题：第一场雪", "en": "the white fall of winter" },
+        { "word": "pants", "level": "A2", "match": ["pants"], "note": "松紧带的裤子他会自己提了", "en": "the clothes for your legs" },
+        { "word": "smell", "level": "A2", "match": ["smell"], "note": "整间屋子开始有那道菜的香味", "en": "the sense through the nose" },
+        { "word": "bear", "level": "A2", "match": ["bear"], "note": "书的封面上的熊 / 书里的熊爬、睡、春天醒来", "en": "the big wild animal" },
+        { "word": "fever", "level": "B1", "match": ["fever"], "note": "三十八度二 / 食欲是唯一诚实的体温表 / 五点又回来一点", "en": "a body temperature too high" },
+        { "word": "early", "level": "A1", "match": ["early"], "note": "今年的雪来得早 / 我们早早睡了", "en": "before the expected time" },
+        { "word": "leak", "level": "B1", "match": ["leak"], "note": "我一直不想看的那处漏水", "en": "a small escape of water" },
+        { "word": "river", "level": "B1", "match": ["river"], "note": "雪先盖上河 / 河在冰盖下继续走", "en": "the big moving water" },
+        { "word": "gate", "level": "A2", "match": ["gate"], "note": "小公园的门 / 街道上同一扇门", "en": "the door in a fence" }
+      ]
+    },
+    {
+      "group": "昨日复现（11-15 学习 30 词，28 词进文）",
+      "words": [
+        { "word": "occupation", "level": "B2", "match": ["occupation"], "note": "累的时候我用旧方式叫它", "en": "a job" },
+        { "word": "silent", "level": "B2", "match": ["silent"], "note": "屋子安静下来 / 回程前十公里寂静", "en": "with no sound" },
+        { "word": "charm", "level": "B2", "match": ["charm"], "note": "雪有那种无人能争的迷人之处", "en": "being pleasant in a warm way" },
+        { "word": "frank", "level": "B2", "match": ["frank"], "note": "图书馆员是个直率的人", "en": "honest and direct" },
+        { "word": "graduation", "level": "B2", "match": ["graduation"], "note": "墙上挂着她那张毕业证", "en": "finishing school" },
+        { "word": "week", "level": "A1", "match": ["week"], "note": "这一周的小账 / 一周的安排", "en": "seven days" },
+        { "word": "soup", "level": "A2", "match": ["soup"], "note": "急诊包里的汤 / 半碗汤 / 一整锅", "en": "the hot liquid dish" },
+        { "word": "route", "level": "B1", "match": ["route"], "note": "图书馆员告诉我们的雪天回家路线 / 四条同样的路", "en": "the way from here to there" },
+        { "word": "read", "level": "A1", "match": ["read"], "note": "从图书馆的书里读给他听 / 两页", "en": "to look at words and understand" },
+        { "word": "excuse oneself", "level": "B2", "match": ["excused herself"], "note": "她去洗锅，好让人看不见她松了口气", "en": "to leave politely" },
+        { "word": "month", "level": "A2", "match": ["month"], "note": "这个月里我数东西的那部分", "en": "about thirty days" },
+        { "word": "driver", "level": "B1", "match": ["driver"], "note": "她过去认识的那位乐队司机", "en": "the person who drives" },
+        { "word": "disagree", "level": "B2", "match": ["disagree"], "note": "四条路我一条都不反对", "en": "to have a different opinion" },
+        { "word": "boots", "level": "A2", "match": ["boots"], "note": "长凳下的靴子 / 还有一套关于靴子的理论", "en": "the tall shoes" },
+        { "word": "baggage", "level": "B2", "match": ["baggage"], "note": "门厅里的行李", "en": "the bags you travel with" },
+        { "word": "floor", "level": "A1", "match": ["floor"], "note": "拖了两遍的地板 / 三楼窗口", "en": "the surface you walk on" },
+        { "word": "madam", "level": "B2", "match": ["madam"], "note": "邻居称她夫人，她容许了", "en": "a polite word for a woman" },
+        { "word": "workflow", "level": "B2", "match": ["workflow"], "note": "一页没读完的流程文档", "en": "the steps of repeated work" },
+        { "word": "hat", "level": "A2", "match": ["hats"], "note": "门口数帽子", "en": "a cover for the head" },
+        { "word": "feature", "level": "B2", "match": ["feature"], "note": "这房子我此前没体会到的一个好处 / 步数统计是我唯一还信的功能", "en": "a part of something you can use" },
+        { "word": "flight", "level": "B1", "match": ["flight"], "note": "钉在桌上的航班时刻表", "en": "a trip by plane" },
+        { "word": "here", "level": "A1", "match": ["here"], "note": "这里下第一场雪邻居就是这样", "en": "in this place" },
+        { "word": "export", "level": "B1", "match": ["export"], "note": "把一天输出成别人能读的形状", "en": "to send data out" },
+        { "word": "share", "level": "A2", "match": ["shared"], "note": "我把散步分享给他", "en": "to give part to others" },
+        { "word": "guide", "level": "B1", "match": ["guide"], "note": "我们的儿童书架向导", "en": "the person who shows the way" },
+        { "word": "native", "level": "B2", "match": ["native"], "note": "其中一种语言只有这个家才母语", "en": "belonging to you from birth" },
+        { "word": "request", "level": "B1", "match": ["request"], "note": "我向自己提了一个请求，写在纸上 / 请求比承诺更容易被兑现", "en": "asking for something" },
+        { "word": "late", "level": "A1", "match": ["late"], "note": "傍晚很晚的时候我想起我的职业", "en": "after the expected time" }
+      ]
+    },
+    {
+      "group": "计划外生词（66 token，密度 3.16% ≤ 5%）",
+      "words": [
+        { "word": "thermometer", "level": "B2", "match": ["thermometer"], "note": "八点体温计说三十八度二", "en": "the tool that measures heat" },
+        { "word": "syrup", "level": "C1", "match": ["syrup"], "note": "药房里那瓶好的糖浆药水", "en": "the thick sweet liquid" },
+        { "word": "lemon", "level": "A2", "match": ["lemons"], "note": "急诊包里的柠檬", "en": "the sour yellow fruit" },
+        { "word": "orchestra", "level": "B1", "match": ["orchestra"], "note": "小乐团 / 她替乐团搬乐器的那位司机", "en": "a group of musicians" },
+        { "word": "broadcast", "level": "B2", "match": ["broadcast"], "note": "从我们没去过的音乐厅播出", "en": "sent out by radio" },
+        { "word": "sneeze", "level": "B1", "match": ["sneezed"], "note": "然后他打了个喷嚏，这一天就改计划了", "en": "to blow air out of the nose" }
+      ]
+    }
+  ]
+}

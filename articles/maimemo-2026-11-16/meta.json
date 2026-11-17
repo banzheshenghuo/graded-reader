@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-16",
+  "title": "The First Snow",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-16",
+  "added": "2026-11-16",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.2,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-16/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 30 词 + 昨日 30 词全覆盖，已过 humanizer 润色轮；今冬第一场雪 + Bobby 人生第一次发烧——全家困在屋里一天，奶奶的急诊包、炉子上的无名汤、四点的广播音乐会\"弦乐太多\"",
+      "keyWords": [
+        { "word": "snow", "en": "the world's second version, installed overnight without asking him" },
+        { "word": "fever", "en": "thirty-eight and two — not high, but high enough for a boy who has never had one" },
+        { "word": "stove", "en": "two hours of the main dish with too many ingredients and no name" }
+      ]
+    }
+  }
+}
