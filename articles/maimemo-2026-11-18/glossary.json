@@ -1,0 +1,529 @@
+{
+  "groups": [
+    {
+      "group": "易忘词 · 重点复现（墨墨 STICKING 22 词，文中 ≥2 次）",
+      "words": [
+        {
+          "word": "secretary",
+          "level": "A2",
+          "match": [
+            "secretary"
+          ],
+          "note": "电话里逐条念清单 / 夜里给清单的人",
+          "en": "a person who does office work"
+        },
+        {
+          "word": "complain",
+          "level": "B1",
+          "match": [
+            "complain",
+            "complained"
+          ],
+          "note": "同事准时准点抱怨会议酒店 / 锅炉坏了才被看一眼",
+          "en": "to say that something is wrong"
+        },
+        {
+          "word": "refrigerator",
+          "level": "B2",
+          "match": [
+            "refrigerator"
+          ],
+          "note": "四十度（华氏梗）/ 四天守着四度 / 奶油留在家里",
+          "en": "the cold box where food is kept"
+        },
+        {
+          "word": "foreign",
+          "level": "A2",
+          "match": [
+            "foreign"
+          ],
+          "note": "第一次出国四天 / 她给箱子的评语：foreign-ready",
+          "en": "of another country"
+        },
+        {
+          "word": "snack",
+          "level": "A1",
+          "match": [
+            "snack"
+          ],
+          "note": "火车上的零食，她嫌了又让带两份",
+          "en": "a small amount of food"
+        },
+        {
+          "word": "frustrate",
+          "level": "B2",
+          "match": [
+            "frustrat"
+          ],
+          "note": "我打算不测\"这趟什么都不气我\"这个假设，它一定会 / 这四天不会气到我",
+          "en": "to make you feel blocked"
+        },
+        {
+          "word": "further",
+          "level": "B2",
+          "match": [
+            "further"
+          ],
+          "note": "要是旅程出现进一步的麻烦 / 紫围巾压在比一切有用的东西更低的地方",
+          "en": "more; additional"
+        },
+        {
+          "word": "nightmare",
+          "level": "B2",
+          "match": [
+            "nightmare"
+          ],
+          "note": "上周那个到了却没鞋的梦 / 每次旅行的小恶梦：复印件",
+          "en": "a bad dream"
+        },
+        {
+          "word": "briefcase",
+          "level": "B2",
+          "match": [
+            "briefcase"
+          ],
+          "note": "公文包留在家，这次对 / 公文包装的是能等的事",
+          "en": "the flat case for work papers"
+        },
+        {
+          "word": "arrangements",
+          "level": "B1",
+          "match": [
+            "arrangements"
+          ],
+          "note": "这家的安排是总有人想知道你去哪 / 我该记录的一项安排",
+          "en": "a plan for how things happen"
+        },
+        {
+          "word": "evaluation",
+          "level": "B2",
+          "match": [
+            "evaluation"
+          ],
+          "note": "她凭电话描述给出：可接受，偏乐观 / 两字评语 foreign-ready",
+          "en": "a careful look at how good something is"
+        },
+        {
+          "word": "purple",
+          "level": "A2",
+          "match": [
+            "purple"
+          ],
+          "note": "紫围巾压箱底 / 紫围巾留在箱里",
+          "en": "the color of grapes at dusk"
+        },
+        {
+          "word": "theory",
+          "level": "B2",
+          "match": [
+            "theor"
+          ],
+          "note": "忘袜子的人两年内会忘大事（她若干理论之一）/ 她还有别的理论",
+          "en": "an idea that explains why"
+        },
+        {
+          "word": "encyclopedia",
+          "level": "C1",
+          "match": [
+            "encyclopedia"
+          ],
+          "note": "一本好旅行的百科只会有一页 / 儿子的百科会在我缺席时继续",
+          "en": "a big book that explains everything"
+        },
+        {
+          "word": "battery",
+          "level": "A2",
+          "match": [
+            "battery"
+          ],
+          "note": "阳台电池一年半，照常上报 / 它会报它要报的",
+          "en": "the part that holds power"
+        },
+        {
+          "word": "prescription",
+          "level": "B2",
+          "match": [
+            "prescription"
+          ],
+          "note": "要去取处方（今年没想到会写这句）/ 处方在侧袋和药包一起",
+          "en": "the doctor's paper for medicine"
+        },
+        {
+          "word": "constraint",
+          "level": "B2",
+          "match": [
+            "constraint"
+          ],
+          "note": "一勺的约束不随我旅行，习惯会 / 这家的约束是不告诉人就不走",
+          "en": "a rule that limits what you do"
+        },
+        {
+          "word": "medicine",
+          "level": "B1",
+          "match": [
+            "medicine"
+          ],
+          "note": "四天的药包 / 药包两板加一张她手写的便条",
+          "en": "what you take to get well"
+        },
+        {
+          "word": "tutorial",
+          "level": "C1",
+          "match": [
+            "tutorial"
+          ],
+          "note": "离家前夜最接近\"出发教程\"的那一套 / 行李箱的教程只有一行",
+          "en": "a lesson that shows you how"
+        },
+        {
+          "word": "consistency",
+          "level": "C1",
+          "match": [
+            "consistency"
+          ],
+          "note": "日常的一致性 / 是陌生城市里唯一能活下来的东西",
+          "en": "staying the same over time"
+        },
+        {
+          "word": "cream",
+          "level": "A2",
+          "match": [
+            "cream"
+          ],
+          "note": "四点一勺照旧 / 奶油留在家中常设约束之下",
+          "en": "the thick top part of milk"
+        },
+        {
+          "word": "bias",
+          "level": "C1",
+          "match": [
+            "bias"
+          ],
+          "note": "她给箱子的评语：偏乐观 / 我偏向那个想象中更好的旅人",
+          "en": "a settled opinion before the facts"
+        }
+      ]
+    },
+    {
+      "group": "今日所学（1 词全覆盖）",
+      "words": [
+        {
+          "word": "luggage",
+          "level": "B2",
+          "match": [
+            "luggage"
+          ],
+          "note": "行李是道德文献：它显示一个人以为自己需要什么 / 他学会说这个词的音节",
+          "en": "the bags you travel with"
+        }
+      ]
+    },
+    {
+      "group": "昨日复现（11-17 学习 30 词，28 词进文）",
+      "words": [
+        {
+          "word": "overseas",
+          "level": "B2",
+          "match": [
+            "overseas"
+          ],
+          "note": "公司要我出国四天 / 他在海外学的",
+          "en": "across the sea"
+        },
+        {
+          "word": "hole",
+          "level": "B1",
+          "match": [
+            "hole"
+          ],
+          "note": "箱衬的洞 / 两年前就知道没管",
+          "en": "an opening; a flaw"
+        },
+        {
+          "word": "embarrass",
+          "level": "B2",
+          "match": [
+            "embarrass"
+          ],
+          "note": "那句回复我就不重复了会让我们俩都尴尬",
+          "en": "to make someone feel awkward"
+        },
+        {
+          "word": "terrible",
+          "level": "B1",
+          "match": [
+            "terrible"
+          ],
+          "note": "一根可怕的充电线 / 带城市名的廉价笔",
+          "en": "very bad"
+        },
+        {
+          "word": "router",
+          "level": "B2",
+          "match": [
+            "router"
+          ],
+          "note": "角落里的灯闪 / 路由器灯稳",
+          "en": "the box that sends internet around"
+        },
+        {
+          "word": "debug",
+          "level": "C1",
+          "match": [
+            "debug"
+          ],
+          "note": "他说回来再查订票流程",
+          "en": "hunting down a fault"
+        },
+        {
+          "word": "subscribe",
+          "level": "B1",
+          "match": [
+            "subscrib"
+          ],
+          "note": "我订阅了两样东西，一样都叫不出名字",
+          "en": "to pay to receive regularly"
+        },
+        {
+          "word": "console",
+          "level": "B2",
+          "match": [
+            "console"
+          ],
+          "note": "控制台订票系统整个上午挂了",
+          "en": "the screen panel of a system"
+        },
+        {
+          "word": "dish",
+          "level": "B1",
+          "match": [
+            "dish"
+          ],
+          "note": "菜单上的第三道菜我还记得",
+          "en": "a prepared food"
+        },
+        {
+          "word": "scope",
+          "level": "B2",
+          "match": [
+            "scope"
+          ],
+          "note": "两件事的范围不可比",
+          "en": "the range of what is included"
+        },
+        {
+          "word": "drink",
+          "level": "A1",
+          "match": [
+            "drink"
+          ],
+          "note": "他让我在飞机上喝水",
+          "en": "to take liquid in"
+        },
+        {
+          "word": "variable",
+          "level": "B1",
+          "match": [
+            "variable"
+          ],
+          "note": "模板里没人动过的变量 / 这次打包的变量是我",
+          "en": "a name for a value that changes"
+        },
+        {
+          "word": "tour guide",
+          "level": "B1",
+          "match": [
+            "tour guide"
+          ],
+          "note": "一张导游正讲到一半的照片",
+          "en": "the person who leads visitors"
+        },
+        {
+          "word": "fitting",
+          "level": "B2",
+          "match": [
+            "fitting"
+          ],
+          "note": "提前做的计划最贴心",
+          "en": "suitable"
+        },
+        {
+          "word": "trade-off",
+          "level": "C1",
+          "match": [
+            "trade-off"
+          ],
+          "note": "四天儿子的生活换四天的工作",
+          "en": "giving up one thing for another"
+        },
+        {
+          "word": "recall",
+          "level": "B2",
+          "match": [
+            "recall"
+          ],
+          "note": "我还记得那道菜 / 我记得开头说过",
+          "en": "to remember"
+        },
+        {
+          "word": "one-way",
+          "level": "C1",
+          "match": [
+            "one-way"
+          ],
+          "note": "单向票这次买成往返",
+          "en": "going in one direction"
+        },
+        {
+          "word": "ticket",
+          "level": "B1",
+          "match": [
+            "ticket"
+          ],
+          "note": "我的票是复印件的复印件 / 一张票根",
+          "en": "the paper for travel"
+        },
+        {
+          "word": "animation",
+          "level": "B1",
+          "match": [
+            "animation"
+          ],
+          "note": "笔记本屏幕上任何动画都是别人的星期二",
+          "en": "moving pictures on a screen"
+        },
+        {
+          "word": "land",
+          "level": "A2",
+          "match": [
+            "land"
+          ],
+          "note": "落地在那里",
+          "en": "to come down to ground"
+        },
+        {
+          "word": "desk",
+          "level": "A2",
+          "match": [
+            "desk"
+          ],
+          "note": "窗边书桌有个搬家以来没开的抽屉",
+          "en": "the table you work at"
+        },
+        {
+          "word": "single",
+          "level": "A2",
+          "match": [
+            "single"
+          ],
+          "note": "她回复了一个词（不重复）",
+          "en": "one only"
+        },
+        {
+          "word": "elevator",
+          "level": "A2",
+          "match": [
+            "elevator"
+          ],
+          "note": "电梯停了才被看见",
+          "en": "the box between floors"
+        },
+        {
+          "word": "socks",
+          "level": "A1",
+          "match": [
+            "socks"
+          ],
+          "note": "一天一双加一双，我唯一守住的规则",
+          "en": "what you wear inside shoes"
+        },
+        {
+          "word": "delicious",
+          "level": "A2",
+          "match": [
+            "delicious"
+          ],
+          "note": "那道菜至今还记得好吃",
+          "en": "very good to eat"
+        },
+        {
+          "word": "sour",
+          "level": "B1",
+          "match": [
+            "sour"
+          ],
+          "note": "好吃而微微发酸",
+          "en": "the taste of a lemon"
+        },
+        {
+          "word": "done",
+          "level": "A1",
+          "match": [
+            "done"
+          ],
+          "note": "今晚我确实做了一件事",
+          "en": "finished"
+        },
+        {
+          "word": "boolean",
+          "level": "C1",
+          "match": [
+            "boolean"
+          ],
+          "note": "每次旅行都有一个布尔值：包能不能合上",
+          "en": "true or false"
+        }
+      ]
+    },
+    {
+      "group": "计划外生词（87 token，密度 3.80% ≤ 5%）",
+      "words": [
+        {
+          "word": "suitcase",
+          "level": "A2",
+          "match": [
+            "suitcase"
+          ],
+          "note": "主题词：周三从柜顶拿下来的箱子",
+          "en": "the case for clothes"
+        },
+        {
+          "word": "pack",
+          "level": "A1",
+          "match": [
+            "pack(e|ed|ing)?"
+          ],
+          "note": "主题词：打包",
+          "en": "to put things in a bag"
+        },
+        {
+          "word": "wardrobe",
+          "level": "B2",
+          "match": [
+            "wardrobe"
+          ],
+          "note": "柜顶",
+          "en": "the closet"
+        },
+        {
+          "word": "lining",
+          "level": "C1",
+          "match": [
+            "lining"
+          ],
+          "note": "箱子内衬的破洞",
+          "en": "the inner cloth of a bag"
+        },
+        {
+          "word": "shirt",
+          "level": "A1",
+          "match": [
+            "shirts?"
+          ],
+          "note": "四天两件衬衫",
+          "en": "the top with buttons"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-18",
+  "title": "The Suitcase",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-18",
+  "added": "2026-11-18",
+  "tags": ["custom", "maimemo", "family-tech"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.8,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-18/mid.mp3",
+      "desc": "墨墨词表定制：易忘词 ×2 + 今日 luggage + 昨日 30 词复现，已过 humanizer 润色轮；出差前夜的打包——奶奶的道德文献清单、理不清的内衬破洞、行李箱里的玩具象，以及\"我把四天儿子的生活换成了四天的工作\"",
+      "keyWords": [
+        { "word": "luggage", "en": "a moral document: it shows what a person thinks they might need" },
+        { "word": "trade-off", "en": "four days of my son's life for four days of work, and the scopes are not comparable" },
+        { "word": "pack", "en": "not to fix everything, but to arrange the week so the small broken things never meet the important ones" }
+      ]
+    }
+  }
+}
