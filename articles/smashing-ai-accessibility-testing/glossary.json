@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "无障碍基础",
+      "words": [
+        { "word": "accessibility", "level": "C1", "match": ["accessibility", "accessible"], "en": "the practice of making websites and apps easy for disabled people to use", "note": "文章主题词，mid/high 高频" },
+        { "word": "disabled users", "level": "B2", "match": ["disabled users", "disabled people", "people with limited ability"], "en": "people who cannot use a computer easily", "note": "low: limited ability / mid-high: disabled users" },
+        { "word": "screen reader", "level": "B2", "match": ["screen reader", "screen readers"], "en": "software that reads a page aloud for people who cannot see it", "note": "三版保留" },
+        { "word": "zoom (to 400%)", "level": "B2", "match": ["zoom"], "en": "to make things bigger on a screen", "note": "低版写成 browser zoomed to 400%" },
+        { "word": "assistive technology", "level": "C2", "match": ["assistive technology", "helping tool", "helping tools", "a machine cannot check"], "en": "any tool that helps disabled people use computers", "note": "high: assistive technology ｜ mid-high: a machine cannot check" }
+      ]
+    },
+    {
+      "name": "工作流与工具",
+      "words": [
+        { "word": "workflow", "level": "C1", "match": ["workflow", "process", "work is in motion"], "en": "the order in which a team does its work", "note": "high: workflow ｜ mid: process" },
+        { "word": "SDLC", "level": "B2", "match": ["SDLC", "the build"], "en": "software development life cycle: the steps from planning to release", "note": "仅原文" },
+        { "word": "QA", "level": "B2", "match": ["QA", "quality checking", "quality check"], "en": "testing a product to find problems before release", "note": "三版均有 ｜ 低: quality checking" },
+        { "word": "shift left", "level": "C1", "match": ["shifted left", "shift left", "act early"], "en": "to check problems earlier in the work instead of at the end", "note": "high: shifted left ｜ mid: acts early" },
+        { "word": "pull request (PR)", "level": "B2", "match": ["pull request", "PR"], "en": "a request to add your changes to a code project", "note": "三版保留" },
+        { "word": "ticket", "level": "B2", "match": ["tickets"], "en": "a small task that records a problem to be fixed", "note": "mid/high ｜ 低: tickets" }
+      ]
+    },
+    {
+      "name": "AI 相关",
+      "words": [
+        { "word": "agent", "level": "C1", "match": ["agents"], "en": "a software program that can act on its own", "note": "仅 high" },
+        { "word": "guardrails", "level": "C2", "match": ["guardrails", "clear limits"], "en": "rules that keep an AI agent from going wrong", "note": "high ｜ 低: clear rules" },
+        { "word": "prioritize", "level": "C1", "match": ["prioritize", "pick which problems to fix first"], "en": "to decide which problems to handle first", "note": "high ｜ mid: pick which problems to fix first" },
+        { "word": "amplifier", "level": "C1", "match": ["amplifier"], "en": "something that makes the effect of something else bigger", "note": "仅 high" },
+        { "word": "boost", "level": "B2", "match": ["speed boost", "fast-forward"], "en": "a sudden increase in speed or progress", "note": "high ｜ low: sped up" },
+        { "word": "automation", "level": "B2", "match": ["automation", "a machine cannot check", "a test that guards"], "en": "using software to do work without a person doing it", "note": "high ｜ 低: a machine cannot check" }
+      ]
+    },
+    {
+      "name": "团队与判断",
+      "words": [
+        { "word": "judgment", "level": "B2", "match": ["judgment", "decision", "decisions"], "en": "a decision based on what you know and think", "note": "high: judgment ｜ mid: decisions" },
+        { "word": "handoff", "level": "C2", "match": ["handoffs", "handoff", "passing work around", "waiting and passing work around"], "en": "passing work to the next person", "note": "high ｜ 低: passing work around" },
+        { "word": "context", "level": "C1", "match": ["context", "background", "fresh details"], "en": "the information and situation behind what you are doing", "note": "high ｜ 低: fresh details" },
+        { "word": "bottleneck", "level": "C2", "match": ["bottleneck", "slow point"], "en": "a point where work piles up and slows down", "note": "high ｜ low: slow point" },
+        { "word": "validate", "level": "C1", "match": ["validate", "checking", "checking the work"], "en": "to check that a result is correct", "note": "high ｜ mid: checking" }
+      ]
+    }
+  ]
+}

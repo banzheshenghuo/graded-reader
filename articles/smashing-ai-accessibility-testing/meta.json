@@ -1,0 +1,100 @@
+{
+  "slug": "smashing-ai-accessibility-testing",
+  "title": "AI-Sped Up The Build. Can Accessibility Testing Keep Up?",
+  "source": "Smashing Magazine",
+  "sourceUrl": "https://www.smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+  "author": "Andrew Chung",
+  "date": "2026-11-11",
+  "added": "2026-11-17",
+  "tags": [
+    "frontend",
+    "accessibility",
+    "AI",
+    "testing"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 1.3,
+      "target": "<2%",
+      "desc": "A2 摘编：两速工作流 + WebAIM 数据 + 三步决策点（找/修/证）；术语全部换白话，删去改进者分析与 WCAG 细则",
+      "keyWords": [
+        {
+          "word": "screen reader",
+          "en": "software that reads a page aloud for people who cannot see it"
+        },
+        {
+          "word": "pull request",
+          "en": "a request to add your changes to a code project"
+        },
+        {
+          "word": "zoom",
+          "en": "to make things bigger on a screen"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-ai-accessibility-testing/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 4.1,
+      "target": "2–5%",
+      "desc": "i+1 理想区：保留改进者结论（AI 是最小差别、放大器论）、自测方法与三步清单，术语降到常用层",
+      "keyWords": [
+        {
+          "word": "disabled users",
+          "en": "people who cannot use a computer easily"
+        },
+        {
+          "word": "prioritize",
+          "en": "to decide which problems to handle first"
+        },
+        {
+          "word": "deal with",
+          "en": "to handle or take care of"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-ai-accessibility-testing/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 6.9,
+      "target": "5–8%",
+      "desc": "接近原文：保留 SDLC 调查数字、improver 分析、handoff/guardrail 等术语与完整三步（Find/Fix/Prove）",
+      "keyWords": [
+        {
+          "word": "guards",
+          "en": "a test that checks an old fix still works"
+        },
+        {
+          "word": "handoff",
+          "en": "passing work to the next person"
+        },
+        {
+          "word": "slow point",
+          "en": "a place where work piles up and slows down"
+        }
+      ],
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/smashing-ai-accessibility-testing/high.mp3"
+    },
+    "original": {
+      "label": "原文",
+      "density": 11.4,
+      "target": "—",
+      "desc": "Smashing Magazine 原文（已剥离 Author 卡、订阅块与结尾推广）",
+      "keyWords": [
+        {
+          "word": "SDLC",
+          "en": "software development life cycle"
+        },
+        {
+          "word": "WCAG",
+          "en": "Web Content Accessibility Guidelines"
+        },
+        {
+          "word": "handoff",
+          "en": "passing work to the next person"
+        }
+      ]
+    }
+  }
+}
