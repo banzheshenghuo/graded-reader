@@ -1,0 +1,64 @@
+{
+  "slug": "josh-why-blog-closed-source",
+  "title": "Why My Blog Is Closed-Source",
+  "source": "Josh Comeau",
+  "sourceUrl": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+  "author": "Josh Comeau",
+  "date": "2026-09-26",
+  "added": "2026-11-22",
+  "tags": [
+    "frontend",
+    "web-dev",
+    "blogging",
+    "career"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 3.5,
+      "target": "<2%",
+      "desc": "A2 摘编：重建博客 + 三个理由（草稿/代码质量/抄袭）简化版；MIT license、hack 等术语无法白话化，密度停在 3.5%（主题即生词型）",
+      "keyWords": [
+        { "word": "draft", "en": "a post that is written but not finished" },
+        { "word": "portfolio", "en": "a website that shows your work to future employers" },
+        { "word": "hack", "en": "to break into a computer system without permission" }
+      ],
+      "audio": ""
+    },
+    "mid": {
+      "label": "中",
+      "density": 5.1,
+      "target": "2–5%",
+      "desc": "i+1 偏上限：保留全部四个理由（摩擦/草稿/代码标准/抄袭）与结构，术语降到常用层",
+      "keyWords": [
+        { "word": "repository", "en": "a place where code is stored and shared" },
+        { "word": "copycat", "en": "someone who copies another person's work" },
+        { "word": "sourcemap", "en": "a file that lets the browser show the original code" }
+      ],
+      "audio": ""
+    },
+    "high": {
+      "label": "高",
+      "density": 7.6,
+      "target": "5–8%",
+      "desc": "接近原文：保留全部观点、语气（😅/💀 emoji）、Jane Manchun Wong 事件与 70 页书细节",
+      "keyWords": [
+        { "word": "developer", "en": "a person who writes code" },
+        { "word": "endpoint", "en": "a URL where a program can receive requests" },
+        { "word": "serverless", "en": "a way of running code without owning servers" }
+      ],
+      "audio": ""
+    },
+    "original": {
+      "label": "原文",
+      "density": 10.1,
+      "target": "—",
+      "desc": "Josh Comeau 原文（已剥离标题导航与结尾元数据）",
+      "keyWords": [
+        { "word": "open-source", "en": "code anyone can read and use" },
+        { "word": "MDX", "en": "a version of Markdown that can hold React parts" },
+        { "word": "Venn diagram", "en": "a drawing that shows what two things share" }
+      ]
+    }
+  }
+}

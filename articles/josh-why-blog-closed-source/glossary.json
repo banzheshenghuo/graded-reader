@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "博客与发布",
+      "words": [
+        { "word": "blog", "level": "B1", "match": ["blog", "blogs"], "en": "a website where someone writes about what they do", "note": "主题词，三版保留" },
+        { "word": "open-source", "level": "B2", "match": ["open-source", "open source"], "en": "code that anyone can read, use, and change", "note": "high ｜ 低: public" },
+        { "word": "rebuild", "level": "B2", "match": ["rebuild", "rebuilt", "build again", "build my blog again", "built my blog again"], "en": "to build something again from the start", "note": "三版均有" },
+        { "word": "launch", "level": "B2", "match": ["launch", "launched", "put it online"], "en": "to make something available for the first time", "note": "三版均有 ｜ 低: put it online" },
+        { "word": "repository (repo)", "level": "B2", "match": ["repository", "repo"], "en": "a place where code is stored and can be shared", "note": "三版均有 ｜ 低: Git store" }
+      ]
+    },
+    {
+      "name": "写作流程",
+      "words": [
+        { "word": "draft", "level": "B2", "match": ["draft", "drafts", "unfinished post"], "en": "a piece of writing that is not finished yet", "note": "三版均有 ｜ 低: unfinished post" },
+        { "word": "publish", "level": "B2", "match": ["publish", "published", "post"], "en": "to make something available to the public", "note": "三版均有" },
+        { "word": "frontmatter", "level": "C2", "match": ["frontmatter"], "en": "small settings stored at the top of a file", "note": "仅 high" },
+        { "word": "Markdown (MDX)", "level": "B2", "match": ["Markdown", "MDX", "a special version of Markdown", "a fancy version of Markdown", "a version of Markdown"], "en": "a simple way to format text for the web", "note": "三版均有" },
+        { "word": "React component", "level": "B2", "match": ["component", "components", "React component", "React components", "React parts", "part"], "en": "a reusable piece of a web page", "note": "三版均有 ｜ 低: part / piece" }
+      ]
+    },
+    {
+      "name": "职业与抄袭",
+      "words": [
+        { "word": "developer", "level": "B2", "match": ["developer", "developers", "coder", "coders"], "en": "a person who writes code", "note": "三版均有 ｜ 低: coder" },
+        { "word": "portfolio", "level": "C1", "match": ["portfolio", "portfolios", "work site"], "en": "a website that shows your work to future employers", "note": "三版均有 ｜ 低: work site" },
+        { "word": "copycat", "level": "C2", "match": ["copycat", "copycats", "copying"], "en": "someone who copies another person's work", "note": "mid/high ｜ 低: copying" },
+        { "word": "license (MIT)", "level": "C1", "match": ["license"], "en": "a set of rules about how a piece of code can be used", "note": "三版均有（无法替换的术语）" },
+        { "word": "career coach", "level": "C2", "match": ["career coach"], "en": "someone who helps people find and grow in their job", "note": "仅 high" }
+      ]
+    },
+    {
+      "name": "安全与技术",
+      "words": [
+        { "word": "hack", "level": "B2", "match": ["hack", "hacked", "attack my servers"], "en": "to break into a computer system without permission", "note": "三版均有" },
+        { "word": "serverless", "level": "C2", "match": ["serverless functions", "serverless", "serverless functions"], "en": "a way of running code without owning servers", "note": "mid/high ｜ 低: behind-the-scenes code" },
+        { "word": "endpoint", "level": "C2", "match": ["endpoint", "endpoints", "my servers"], "en": "a URL where a program can receive requests", "note": "high ｜ 低/中: my servers" },
+        { "word": "safeguard", "level": "C1", "match": ["safeguard", "safeguards"], "en": "something that protects against danger", "note": "三版均有 ｜ 低: safeguard" },
+        { "word": "sourcemap", "level": "C2", "match": ["sourcemap", "sourcemaps"], "en": "a file that lets the browser show the original code", "note": "三版均有" }
+      ]
+    }
+  ]
+}
