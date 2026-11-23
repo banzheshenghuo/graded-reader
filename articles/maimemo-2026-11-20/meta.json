@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-20",
+  "title": "The Purple Label",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-20",
+  "added": "2026-11-20",
+  "tags": ["custom", "maimemo", "pharmacy"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 2.77,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-20/mid.mp3",
+      "desc": "墨墨词表定制：STICKING 22 词 ×3 滚动短文（连续零进度日规则）。一家被连锁收购的独立药房——十九年的柜台直觉 vs 新经理的数字评估，Mrs. Pratt 的饼干理论、外国学生的看不懂处方、紫色标签下的 cream。",
+      "keyWords": [
+        { "word": "secretary", "en": "thirty-one years, and she still keeps other people's lives in a notebook" },
+        { "word": "evaluation", "en": "Daniel's bias was toward numbers; Mira's bias was toward the customer who came back" },
+        { "word": "consistency", "en": "she changed the battery on the first of every month, whether it complained or not" }
+      ]
+    }
+  }
+}
