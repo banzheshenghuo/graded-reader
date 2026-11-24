@@ -1,0 +1,223 @@
+{
+  "groups": [
+    {
+      "name": "技术故障",
+      "words": [
+        {
+          "word": "outage",
+          "level": "B2",
+          "match": [
+            "outage",
+            "outage"
+          ],
+          "en": "a period when a system is not working",
+          "note": "三版均有 ｜ low: down"
+        },
+        {
+          "word": "software bug",
+          "level": "B2",
+          "match": [
+            "bug",
+            "bugs",
+            "software bug",
+            "software error",
+            "error"
+          ],
+          "en": "a mistake in a program that causes problems",
+          "note": "三版均有 ｜ low: software error"
+        },
+        {
+          "word": "ground stop",
+          "level": "C1",
+          "match": [
+            "ground stop",
+            "stopped all flights",
+            "shut down the airspace"
+          ],
+          "en": "an order that keeps all planes on the ground",
+          "note": "三版均有 ｜ low: stopped all flights"
+        },
+        {
+          "word": "transaction",
+          "level": "C1",
+          "match": [
+            "transaction",
+            "transactions"
+          ],
+          "en": "an exchange of money or data",
+          "note": "三版均有 ｜ low: make transactions"
+        },
+        {
+          "word": "update",
+          "level": "B2",
+          "match": [
+            "update",
+            "updates",
+            "updated"
+          ],
+          "en": "to make a system newer or better",
+          "note": "三版均有"
+        }
+      ]
+    },
+    {
+      "name": "安全与攻击",
+      "words": [
+        {
+          "word": "vulnerability",
+          "level": "C1",
+          "match": [
+            "vulnerability",
+            "vulnerabilities",
+            "weak spot",
+            "weak spots"
+          ],
+          "en": "a weakness in a system that can be exploited",
+          "note": "三版均有 ｜ low: weak spot"
+        },
+        {
+          "word": "patch",
+          "level": "C1",
+          "match": [
+            "patch",
+            "patches",
+            "patched",
+            "fix",
+            "fixes",
+            "fixed"
+          ],
+          "en": "an update that fixes a problem in software",
+          "note": "三版均有 ｜ low: fix"
+        },
+        {
+          "word": "cybersecurity",
+          "level": "C1",
+          "match": [
+            "cybersecurity",
+            "security",
+            "cyberattack",
+            "cybercrime"
+          ],
+          "en": "the practice of protecting computer systems",
+          "note": "三版均有 ｜ low: security"
+        },
+        {
+          "word": "hack",
+          "level": "B2",
+          "match": [
+            "hack",
+            "hacked",
+            "hacking"
+          ],
+          "en": "to break into a computer system without permission",
+          "note": "三版均有"
+        }
+      ]
+    },
+    {
+      "name": "系统与基础设施",
+      "words": [
+        {
+          "word": "infrastructure",
+          "level": "B2",
+          "match": [
+            "infrastructure",
+            "system",
+            "systems"
+          ],
+          "en": "the basic facilities and services needed for a society to function",
+          "note": "三版均有"
+        },
+        {
+          "word": "fiber-optic cable",
+          "level": "B2",
+          "match": [
+            "fiber-optic cable",
+            "digital fiber",
+            "fiber",
+            "copper wire",
+            "wire"
+          ],
+          "en": "a cable that carries data using light",
+          "note": "三版均有 ｜ low: copper wire / digital fiber"
+        },
+        {
+          "word": "router",
+          "level": "C1",
+          "match": [
+            "router",
+            "routers"
+          ],
+          "en": "a device that sends data between networks",
+          "note": "仅 high"
+        },
+        {
+          "word": "redundancy",
+          "level": "C1",
+          "match": [
+            "redundancy",
+            "backup",
+            "redundant"
+          ],
+          "en": "having backup systems in case one fails",
+          "note": "仅 high ｜ low/mid: backup"
+        }
+      ]
+    },
+    {
+      "name": "人物与机构",
+      "words": [
+        {
+          "word": "Dmitri Alperovitch",
+          "level": "B2",
+          "match": [
+            "Dmitri Alperovitch",
+            "Alperovitch"
+          ],
+          "en": "former CTO of CrowdStrike, founder of the Alperovitch Institute",
+          "note": "三版均有"
+        },
+        {
+          "word": "CrowdStrike",
+          "level": "B2",
+          "match": [
+            "CrowdStrike"
+          ],
+          "en": "a cybersecurity company",
+          "note": "三版均有"
+        },
+        {
+          "word": "Johns Hopkins University",
+          "level": "B2",
+          "match": [
+            "Johns Hopkins University",
+            "Johns Hopkins"
+          ],
+          "en": "a university in Baltimore",
+          "note": "三版均有"
+        },
+        {
+          "word": "Transportation Secretary",
+          "level": "B2",
+          "match": [
+            "Transportation Secretary",
+            "transport secretary",
+            "transport chief"
+          ],
+          "en": "the U.S. government official in charge of transport",
+          "note": "三版均有 ｜ low: transport chief"
+        },
+        {
+          "word": "Murphy's law",
+          "level": "C2",
+          "match": [
+            "Murphy's law",
+            "Murphy"
+          ],
+          "en": "anything that can go wrong will go wrong",
+          "note": "仅 high/mid"
+        }
+      ]
+    }
+  ]
+}

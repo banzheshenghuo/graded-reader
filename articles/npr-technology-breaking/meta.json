@@ -1,0 +1,64 @@
+{
+  "slug": "npr-technology-breaking",
+  "title": "Why Does It Feel Like Our Technology Is Breaking?",
+  "source": "NPR",
+  "sourceUrl": "https://text.npr.org/nx-s1-6045707",
+  "author": "Sacha Pfeiffer",
+  "date": "2026-11-18",
+  "added": "2026-11-23",
+  "tags": [
+    "AI",
+    "technology",
+    "cybersecurity",
+    "infrastructure"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 6.2,
+      "target": "<2%",
+      "desc": "A2 摘编：四大故障（Outlook/FAA/Chase/Apple）+ 嘉宾访谈主线简化版；安全术语（authentication/infrastructure 等）无法白话化，密度停在 6.2%（主题即生词型）",
+      "keyWords": [
+        { "word": "upgrade", "en": "to replace old systems with newer ones" },
+        { "word": "weak spot", "en": "a part of a system that can fail easily" },
+        { "word": "patch", "en": "an update that fixes a problem in software" }
+      ],
+      "audio": ""
+    },
+    "mid": {
+      "label": "中",
+      "density": 8.0,
+      "target": "2–5%",
+      "desc": "i+1 偏上限：保留全部观点与嘉宾金句，术语降到常用层（vulnerability→weak spot、cybersecurity→security），密度 8.0%（主题即生词型）",
+      "keyWords": [
+        { "word": "vulnerability", "en": "a weakness in a system that can be exploited" },
+        { "word": "redundancy", "en": "having backup systems in case one fails" },
+        { "word": "resilience", "en": "the ability to recover quickly from problems" }
+      ],
+      "audio": ""
+    },
+    "high": {
+      "label": "高",
+      "density": 7.8,
+      "target": "5–8%",
+      "desc": "接近原文：保留全部嘉宾金句、Murphy's law、patch apocalypse、40年网络安全史、resilience 建议，术语保留",
+      "keyWords": [
+        { "word": "patch apocalypse", "en": "a time when many updates fix many problems at once" },
+        { "word": "cat-and-mouse game", "en": "a repeated cycle of attack and defense" },
+        { "word": "social engineering", "en": "tricking people into giving up information" }
+      ],
+      "audio": ""
+    },
+    "original": {
+      "label": "原文",
+      "density": 10.7,
+      "target": "—",
+      "desc": "NPR Consider This 广播访谈（已剥离 SOUNDBITE/音乐/制作人员）",
+      "keyWords": [
+        { "word": "Murphy's law", "en": "anything that can go wrong will go wrong" },
+        { "word": "CrowdStrike", "en": "a cybersecurity company" },
+        { "word": "Alperovitch Institute", "en": "a security research institute at Johns Hopkins" }
+      ]
+    }
+  }
+}
