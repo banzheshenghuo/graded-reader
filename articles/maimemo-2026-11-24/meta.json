@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-24",
+  "title": "The Night Shift",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-24",
+  "added": "2026-11-24",
+  "tags": ["custom", "maimemo", "hospital"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 3.72,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-24/mid.mp3",
+      "desc": "墨墨词表定制：STICKING 22 词 ×3 滚动短文（连续零进度日规则）。四楼夜班护士 Elena 的一个班——药品冰箱与备用电池、前台的 Okafor 太太和她的饼干理论、不会说发烧的外国学生、住院医的数字评估表、还没看的新护士教程，以及紫色标签下的那支护手霜。",
+      "keyWords": [
+        { "word": "refrigerator", "en": "the medicine refrigerator had to hold four degrees, and a battery in the wall unit wrote down every hour of it" },
+        { "word": "bias", "en": "his bias was toward numbers; hers was toward the patient who came back" },
+        { "word": "consistency", "en": "she changed the battery on the first of every month, whether it complained or not" }
+      ]
+    }
+  }
+}

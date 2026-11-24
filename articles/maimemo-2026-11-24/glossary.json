@@ -1,0 +1,40 @@
+{
+  "focus": [
+    {"word": "secretary", "level": "B1", "match": "secretary", "en": "n. 秘书；书记员"},
+    {"word": "complain", "level": "B1", "match": "complain", "en": "v. 抱怨；投诉"},
+    {"word": "refrigerator", "level": "A2", "match": "refrigerator", "en": "n. 冰箱"},
+    {"word": "foreign", "level": "A2", "match": "foreign", "en": "adj. 外国的；外来的"},
+    {"word": "snack", "level": "A1", "match": "snack", "en": "n. 零食；小吃"},
+    {"word": "frustrate", "level": "B1", "match": "frustrat", "en": "v. 使沮丧；frustration n. 挫折"},
+    {"word": "further", "level": "B1", "match": "further", "en": "adj./adv. 进一步的；更远的"},
+    {"word": "nightmare", "level": "B1", "match": "nightmare", "en": "n. 噩梦；可怕的事"},
+    {"word": "briefcase", "level": "B1", "match": "briefcase", "en": "n. 公文包"},
+    {"word": "arrangements", "level": "B1", "match": "arrangements", "en": "n. 安排；筹备"},
+    {"word": "evaluation", "level": "B2", "match": "evaluation", "en": "n. 评估；评价"},
+    {"word": "purple", "level": "A1", "match": "purple", "en": "adj./n. 紫色的；紫色"},
+    {"word": "theory", "level": "B1", "match": "theory", "en": "n. 理论；说法"},
+    {"word": "encyclopedia", "level": "B1", "match": "encyclopedia", "en": "n. 百科全书"},
+    {"word": "battery", "level": "A2", "match": "battery", "en": "n. 电池"},
+    {"word": "prescription", "level": "B2", "match": "prescription", "en": "n. 处方"},
+    {"word": "constraint", "level": "C1", "match": "constraint", "en": "n. 限制；约束"},
+    {"word": "medicine", "level": "B1", "match": "medicine", "en": "n. 药；医学"},
+    {"word": "tutorial", "level": "B2", "match": "tutorial", "en": "n. 教程；辅导课"},
+    {"word": "consistency", "level": "C1", "match": "consistency", "en": "n. 一致性；连贯"},
+    {"word": "cream", "level": "A1", "match": "cream", "en": "n. 乳霜；护手霜"},
+    {"word": "bias", "level": "C1", "match": "bias", "en": "n. 偏见；偏向"}
+  ],
+  "today": [],
+  "yday": [],
+  "cond": [],
+  "pre": [],
+  "extra": [
+    {"word": "ward", "level": "B2", "match": "ward", "en": "n. 病区；病房"},
+    {"word": "resident", "level": "B2", "match": "resident", "en": "n. 住院医师"},
+    {"word": "vitals", "level": "B2", "match": "vitals", "en": "n. 生命体征"},
+    {"word": "monitor", "level": "B1", "match": "monitor", "en": "n. 监护仪；v. 监测"},
+    {"word": "dose", "level": "C1", "match": "dose", "en": "n. 剂量"},
+    {"word": "fever", "level": "B1", "match": "fever", "en": "n. 发烧"},
+    {"word": "alcove", "level": "C1", "match": "alcove", "en": "n. 凹室；图书角"},
+    {"word": "signature", "level": "B2", "match": "signature", "en": "n. 签名"}
+  ]
+}
