@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "name": "AI 安全角色",
+      "words": [
+        { "word": "evaluator", "level": "C2", "match": ["evaluator", "evaluators"], "en": "someone who checks if a system works well", "note": "三版均有" },
+        { "word": "assessor", "level": "C2", "match": ["assessor", "assessors"], "en": "someone who checks work for quality", "note": "三版均有" },
+        { "word": "reviewer", "level": "C1", "match": ["reviewer", "reviewers"], "en": "someone who checks work for safety", "note": "三版均有（替换 evaluator/assessor）" },
+        { "word": "embedded", "level": "C1", "match": ["embedded", "embed"], "en": "placed inside a company to work closely", "note": "三版均有" },
+        { "word": "auditor", "level": "C1", "match": ["auditor", "auditing"], "en": "someone who checks accounts or systems", "note": "仅 high" }
+      ]
+    },
+    {
+      "name": "AI 风险与能力",
+      "words": [
+        { "word": "robustness", "level": "C2", "match": ["robustness"], "en": "how strong a system is against problems", "note": "三版均有" },
+        { "word": "loophole", "level": "C1", "match": ["loophole", "loopholes"], "en": "a way to avoid a rule", "note": "三版均有" },
+        { "word": "recursive self-improvement", "level": "C2", "match": ["recursive self-improvement"], "en": "when AI builds better AI, which builds better AI", "note": "仅 high" },
+        { "word": "catastrophic risk", "level": "C1", "match": ["catastrophic"], "en": "danger that could cause great harm", "note": "三版均有" },
+        { "word": "autonomous", "level": "B2", "match": ["autonomous"], "en": "able to act on its own", "note": "三版均有" }
+      ]
+    },
+    {
+      "name": "公司与人",
+      "words": [
+        { "word": "whitelist", "level": "C2", "match": ["whitelist", "whitelisted"], "en": "a list of people allowed to do something", "note": "三版均有" },
+        { "word": "spokesperson", "level": "B2", "match": ["spokesperson"], "en": "a person who speaks for a company", "note": "三版均有" },
+        { "word": "frontier assurances lead", "level": "C2", "match": ["frontier assurances lead"], "en": "a person who handles AI safety at OpenAI", "note": "仅 high" },
+        { "word": "founder", "level": "B2", "match": ["founder"], "en": "the person who started a group", "note": "三版均有" },
+        { "word": "coworker", "level": "C1", "match": ["coworker", "coworkers"], "en": "someone you work with", "note": "三版均有" }
+      ]
+    },
+    {
+      "name": "流程与评估",
+      "words": [
+        { "word": "internal", "level": "B2", "match": ["internal"], "en": "inside a company", "note": "三版均有" },
+        { "word": "redact", "level": "C1", "match": ["redacts", "redact"], "en": "to remove secret information", "note": "三版均有" },
+        { "word": "confidential", "level": "B2", "match": ["confidential"], "en": "secret, not for the public", "note": "三版均有" },
+        { "word": "substantive", "level": "C1", "match": ["substantive", "real"], "en": "important, not just formal", "note": "三版均有" },
+        { "word": "blind spot", "level": "B2", "match": ["blind spot", "blind spots"], "en": "a problem you don't notice", "note": "三版均有" }
+      ]
+    }
+  ]
+}

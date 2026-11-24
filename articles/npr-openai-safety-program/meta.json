@@ -1,0 +1,64 @@
+{
+  "slug": "npr-openai-safety-program",
+  "title": "OpenAI Announces New AI Safety Program; Researchers Worry It Won't Be Enough",
+  "source": "NPR",
+  "sourceUrl": "https://text.npr.org/nx-s1-6044223",
+  "author": "Huo Jingnan",
+  "date": "2026-11-18",
+  "added": "2026-11-24",
+  "tags": [
+    "AI",
+    "safety",
+    "policy",
+    "OpenAI"
+  ],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 10.8,
+      "target": "<2%",
+      "desc": "A2 摘编：OpenAI 推出第三方评估员计划，但研究者认为远不如承诺；AI 安全术语（reviewer/robustness/loophole 等）无法白话化，密度停在 10.8%（主题即生词型）",
+      "keyWords": [
+        { "word": "reviewer", "en": "someone who checks work for safety" },
+        { "word": "robustness", "en": "how strong a system is against problems" },
+        { "word": "loophole", "en": "a way to avoid a rule" }
+      ],
+      "audio": ""
+    },
+    "mid": {
+      "label": "中",
+      "density": 13.0,
+      "target": "2–5%",
+      "desc": "i+1 偏上限：保留全部观点与嘉宾金句，术语降到常用层；AI 安全术语密，密度 13.0%（主题即生词型）",
+      "keyWords": [
+        { "word": "evaluator", "en": "someone who checks if a system works well" },
+        { "word": "assessor", "en": "someone who checks work for quality" },
+        { "word": "embedded", "en": "placed inside a company to work closely" }
+      ],
+      "audio": ""
+    },
+    "high": {
+      "label": "高",
+      "density": 13.0,
+      "target": "5–8%",
+      "desc": "接近原文：保留全部嘉宾金句、recursive self-improvement、40年网络安全史、resilience 建议；AI 安全术语密，密度 13.0%（主题即生词型）",
+      "keyWords": [
+        { "word": "recursive self-improvement", "en": "when AI builds better AI, which builds better AI" },
+        { "word": "catastrophic risk", "en": "danger that could cause great harm" },
+        { "word": "whitelist", "en": "a list of people allowed to do something" }
+      ],
+      "audio": ""
+    },
+    "original": {
+      "label": "原文",
+      "density": 13.7,
+      "target": "—",
+      "desc": "NPR Understanding AI 版块（已剥离日期行）",
+      "keyWords": [
+        { "word": "Hugging Face attack", "en": "an incident where OpenAI's AI systems were misused" },
+        { "word": "Anthropic", "en": "a rival AI company" },
+        { "word": "Nightingale", "en": "an AI safety research group" }
+      ]
+    }
+  }
+}
