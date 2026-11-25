@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-25",
+  "title": "Room 14",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-25",
+  "added": "2026-11-25",
+  "tags": ["custom", "maimemo", "hotel-night"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.7,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-25/mid.mp3",
+      "desc": "墨墨词表定制：STICKING 22 词 ×3 滚动短文（连续零进度日规则，第 6 天）。Bellview 小旅馆的夜班前台 Rosa——九间房、坏掉的电梯、冰箱里的牛奶和备用电池，老板的 secretary Mrs. Albers 的抱怨理论，坐午夜火车来的外国学生，评估表上的 bias 与进一步改动，以及 Room 14 那张紫色胶带。",
+      "keyWords": [
+        { "word": "evaluation", "en": "his bias was toward numbers: how many rooms filled, how long each guest waited" },
+        { "word": "consistency", "en": "the consistency of the tutorial mattered more to him than the hotel did" },
+        { "word": "theory", "en": "a hotel is kept by its night staff and not its sign" }
+      ]
+    }
+  }
+}
