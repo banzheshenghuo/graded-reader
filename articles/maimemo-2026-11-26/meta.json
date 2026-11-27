@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-26",
+  "title": "The Three O'Clock Batch",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-26",
+  "added": "2026-11-26",
+  "tags": ["custom", "maimemo", "bakery"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.4,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-26/mid.mp3",
+      "desc": "墨墨词表定制：STICKING 22 词 ×3 滚动短文（连续零进度日规则，第 7 天）。Kestrel 街面包房凌晨三点的班——冷藏冰箱和门上的电池、母亲留下的配方百科和紫色标签、连锁派来的评估表、语言学校那个坐在窗边的学生，以及手上那管一直没吃完的处方药膏。",
+      "keyWords": [
+        { "word": "consistency", "en": "the consistency of it is not a personality; it is a decision she makes at three o'clock" },
+        { "word": "encyclopedia", "en": "wrong about two of its pages, and she trusted it anyway for the plain words" },
+        { "word": "bias", "en": "his bias was toward numbers; hers was toward the customer who came back the next morning" }
+      ]
+    }
+  }
+}
