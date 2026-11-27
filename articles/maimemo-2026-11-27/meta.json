@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-27",
+  "title": "Aisle Four",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-27",
+  "added": "2026-11-27",
+  "tags": ["custom", "maimemo", "night-shop"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.3,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-27/mid.mp3",
+      "desc": "墨墨词表定制：STICKING 22 词 ×3 滚动短文（连续零进度日规则，第 8 天）。Alder 路便利店夜班——饮料冷柜和门上那颗电池、总部的 secretary Mrs. Barrett 的抱怨理论、只会说四个单词的外国司机、下夜班的护士和抽屉里那纸处方、货架上三个紫色标签，以及酒后吐真言的自助结账机。",
+      "keyWords": [
+        { "word": "consistency", "en": "the consistency of it is not a personality; it is a decision she makes at eleven o'clock" },
+        { "word": "prescription", "en": "the daughter could only collect it at three in the morning, and the pharmacy down the road was shut" },
+        { "word": "bias", "en": "his bias was toward numbers; hers was toward the customer who came back the next night" }
+      ]
+    }
+  }
+}
