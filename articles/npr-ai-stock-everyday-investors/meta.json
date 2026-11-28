@@ -1,0 +1,34 @@
+{
+  "slug": "npr-ai-stock-everyday-investors",
+  "title": "The AI Stock Boom Made Some People Very Rich. What About Everyday Investors?",
+  "source": "NPR",
+  "sourceUrl": "https://text.npr.org/nx-s1-6052352",
+  "author": "Sacha Pfeiffer",
+  "date": "2026-11-24",
+  "added": "2026-11-28",
+  "tags": ["finance", "AI", "stocks"],
+  "versions": {
+    "low": {
+      "label": "低",
+      "density": 9.1,
+      "target": "<2%",
+      "targetMet": false,
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-stock-everyday-investors/low.mp3"
+    },
+    "mid": {
+      "label": "中",
+      "density": 12.0,
+      "target": "2–5%",
+      "targetMet": false,
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-stock-everyday-investors/mid.mp3"
+    },
+    "high": {
+      "label": "高",
+      "density": 12.7,
+      "target": "5–8%",
+      "targetMet": false,
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/npr-ai-stock-everyday-investors/high.mp3"
+    }
+  },
+  "keyWords": ["IPO", "mutual fund", "index fund", "pension fund", "venture capital", "dollar cost averaging", "diversification", "retirement account"]
+}

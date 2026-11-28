@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "name": "IPO 与发行",
+      "words": [
+        { "word": "IPO", "level": "C1", "match": ["IPO", "IPOs"], "en": "when a company first sells shares to the public", "note": "三版均有" },
+        { "word": "offering", "level": "C1", "match": ["offering"], "en": "an event of selling something, here shares", "note": "三版均有" },
+        { "word": "public", "level": "B2", "match": ["public"], "en": "open to everyone, not just insiders", "note": "三版均有" },
+        { "word": "shares", "level": "B2", "match": ["shares"], "en": "small parts of a company you can buy", "note": "三版均有" },
+        { "word": "founder", "level": "B2", "match": ["founder"], "en": "a person who started a company", "note": "三版均有" }
+      ]
+    },
+    {
+      "name": "基金与账户",
+      "words": [
+        { "word": "mutual fund", "level": "C1", "match": ["mutual funds", "mutual fund"], "en": "a pool of money from many investors used to buy many stocks", "note": "三版均有" },
+        { "word": "index fund", "level": "B2", "match": ["index funds", "index fund"], "en": "a fund that copies a market index automatically", "note": "三版均有" },
+        { "word": "fund", "level": "B2", "match": ["fund", "funds"], "en": "money collected and managed for investing", "note": "三版均有（出现最多）" },
+        { "word": "pension fund", "level": "C1", "match": ["pension funds", "pension fund"], "en": "a fund that pays money for people after they retire", "note": "三版均有" },
+        { "word": "retirement account", "level": "B2", "match": ["retirement accounts", "retirement account"], "en": "money saved for old age", "note": "三版均有" },
+        { "word": "diversification", "level": "C1", "match": ["diversification"], "en": "spreading money across many things to lower risk", "note": "仅 mid/high" }
+      ]
+    },
+    {
+      "name": "投资概念",
+      "words": [
+        { "word": "stock", "level": "B2", "match": ["stock", "stocks"], "en": "a share in a company that can be bought and sold", "note": "三版均有" },
+        { "word": "investor", "level": "B2", "match": ["investors", "investor", "investing"], "en": "a person who puts money into stocks or funds", "note": "三版均有" },
+        { "word": "exposure", "level": "B2", "match": ["exposure"], "en": "having some connection to something risky", "note": "low/mid" },
+        { "word": "venture capital", "level": "C1", "match": ["venture capital"], "en": "money given to early companies in exchange for shares", "note": "仅 mid/high" },
+        { "word": "private equity", "level": "C1", "match": ["private equity"], "en": "money invested in companies not on the stock market", "note": "仅 mid/high" },
+        { "word": "dollar cost averaging", "level": "C1", "match": ["dollar cost averaging"], "en": "investing the same amount over time to smooth price swings", "note": "mid/high" },
+        { "word": "portfolio", "level": "C1", "match": ["portfolio"], "en": "all the money and investments a person or fund holds", "note": "仅 mid/high" }
+      ]
+    },
+    {
+      "name": "机构与人",
+      "words": [
+        { "word": "adviser", "level": "B2", "match": ["adviser"], "en": "a person who gives financial advice", "note": "low/mid" },
+        { "word": "Federal Reserve Bank", "level": "C1", "match": ["Federal Reserve Bank"], "en": "the US central bank system", "note": "仅 low" },
+        { "word": "manager", "level": "B2", "match": ["manager"], "en": "the person who decides what to buy and sell inside a fund", "note": "mid/high" }
+      ]
+    }
+  ]
+}
