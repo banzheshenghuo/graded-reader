@@ -1,0 +1,37 @@
+{
+  "focus": [
+    {"word": "secretary", "level": "B1", "match": "secretary", "en": "n. 秘书"},
+    {"word": "complain", "level": "B1", "match": "complain", "en": "v. 抱怨"},
+    {"word": "refrigerator", "level": "A2", "match": "refrigerator", "en": "n. 冰箱"},
+    {"word": "foreign", "level": "A2", "match": "foreign", "en": "adj. 外国的"},
+    {"word": "snack", "level": "A1", "match": "snack", "en": "n. 零食"},
+    {"word": "frustrate", "level": "B1", "match": "frustrat", "en": "v. 使沮丧"},
+    {"word": "further", "level": "B1", "match": "further", "en": "adj./adv. 进一步的"},
+    {"word": "nightmare", "level": "B1", "match": "nightmare", "en": "n. 噩梦"},
+    {"word": "briefcase", "level": "B1", "match": "briefcase", "en": "n. 公文包"},
+    {"word": "arrangements", "level": "B1", "match": "arrangements", "en": "n. 安排"},
+    {"word": "evaluation", "level": "B2", "match": "evaluation", "en": "n. 评估"},
+    {"word": "purple", "level": "A1", "match": "purple", "en": "adj. 紫色的"},
+    {"word": "theory", "level": "B1", "match": "theory", "en": "n. 理论；说法"},
+    {"word": "encyclopedia", "level": "B1", "match": "encyclopedia", "en": "n. 百科全书"},
+    {"word": "battery", "level": "A2", "match": "battery", "en": "n. 电池"},
+    {"word": "prescription", "level": "B2", "match": "prescription", "en": "n. 处方"},
+    {"word": "constraint", "level": "C1", "match": "constraint", "en": "n. 限制"},
+    {"word": "medicine", "level": "B1", "match": "medicine", "en": "n. 药"},
+    {"word": "tutorial", "level": "B2", "match": "tutorial", "en": "n. 教程"},
+    {"word": "consistency", "level": "C1", "match": "consistency", "en": "n. 一致性"},
+    {"word": "cream", "level": "A1", "match": "cream", "en": "n. 乳霜"},
+    {"word": "bias", "level": "C1", "match": "bias", "en": "n. 偏见"}
+  ],
+  "today": [],
+  "yday": [],
+  "cond": [],
+  "pre": [],
+  "extra": [
+    {"word": "pool", "level": "B1", "match": "pool", "en": "n. 游泳池"},
+    {"word": "lifeguard", "level": "B2", "match": "lifeguard", "en": "n. 救生员"},
+    {"word": "float", "level": "B2", "match": "float", "en": "n. 浮标；浮板"},
+    {"word": "chlorine", "level": "B2", "match": "chlorine", "en": "n. 氯；消毒剂"},
+    {"word": "deck", "level": "B2", "match": "deck", "en": "n. 池边平台"}
+  ]
+}

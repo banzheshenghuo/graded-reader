@@ -1,0 +1,24 @@
+{
+  "slug": "maimemo-2026-11-28",
+  "title": "The Deep End",
+  "source": "Maimemo 词表定制",
+  "sourceUrl": "",
+  "author": "ZCode × 墨墨词表",
+  "date": "2026-11-28",
+  "added": "2026-11-28",
+  "tags": ["custom", "maimemo", "pool"],
+  "versions": {
+    "mid": {
+      "label": "定制",
+      "density": 4.3,
+      "target": "≤5%（非目标词）",
+      "audio": "https://zqfile.banzheshenghuo.com/graded-reader/maimemo-2026-11-28/mid.mp3",
+      "desc": "墨墨词表定制：STICKING 22 词 ×3 滚动短文（连续零进度日规则，第 9 天）。社区游泳池周末班——救生员椅子和救生浮标、 council 的 secretary Marta 的抱怨理论、外国游客永远读不懂的告示牌、队长的评估表、急救百科全书里那张紫色标签、以及深水区那条永远擦不干净的浮标。",
+      "keyWords": [
+        { "word": "consistency", "en": "the consistency of it is not a personality; it is a decision she makes at seven o'clock" },
+        { "word": "encyclopedia", "en": "wrong about two of its pages, and she trusted it anyway for the plain words" },
+        { "word": "bias", "en": "his bias was toward numbers; hers was toward the swimmer who came back the next weekend" }
+      ]
+    }
+  }
+}
